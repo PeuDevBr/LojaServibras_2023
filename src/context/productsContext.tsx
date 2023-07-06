@@ -29,7 +29,7 @@ export function ProductsProvider({ children }: ProviderProps) {
   async function updateProductList(search: string) {
     Cookies.set('search', search)
 
-    const url = new URL('http://localhost:3333/products')
+    const url = new URL('https://lojaservibras.vercel.app/products')
 
     if (search) {
       url.searchParams.append('q', search)

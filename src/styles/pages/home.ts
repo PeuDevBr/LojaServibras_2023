@@ -15,7 +15,7 @@ export const Container = styled.div`
   }
 
   .productContainer {
-    height: 370px;
+    height: 330px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -32,17 +32,20 @@ export const Container = styled.div`
     border: solid 1px ${(props) => props.theme['gray-300']};
     border-radius: 0.5rem;
     padding-top: 0.5rem;
-    padding-bottom: 1.5rem;
+    padding-bottom: 0.8rem;
   }
 
   .code {
     font-size: 1.2rem;
+    margin-top: -0.5rem;
+    margin-bottom: 0.5rem;
   }
 
   .name {
     font-size: 1rem;
     padding: 0.2rem;
     text-align: center;
+    min-height: 60px;
   }
 
   .brand {
@@ -51,18 +54,19 @@ export const Container = styled.div`
     color: ${(props) => props.theme['gray-600']};
   }
 
+  section {
+    display: flex;
+    gap: 0.5rem;
+  }
+
   .productButton {
     border: none;
     height: 1.8rem;
     width: 6rem;
     border-radius: 0.3rem;
 
-    font-size: 0.8rem;
+    font-size: 0.85rem;
     font-weight: 700;
-
-    & + button {
-      margin-left: 0.5rem;
-    }
   }
 
   #add {

@@ -1,29 +1,22 @@
-import { GetStaticProps } from 'next'
 import Image from 'next/image'
-import { Container } from './styles'
+import { Container } from '../styles/pages/home'
+import Link from 'next/link'
+import { useContext } from 'react'
+import { ProductsContext } from '../context/productsContext'
 
-interface ProductsProps {
-  products: {
-    name: string
-    code: string
-    brand: string
-    subjects: string
-    model: string
-    version: string
-    quantity: number
-    title: string
-  }[]
-}
+export default function Home() {
+  const { productList } = useContext(ProductsContext)
 
-export default function Home({ products }: ProductsProps) {
   return (
     <Container>
       <div className="gridContainer">
-        {products.map((product) => {
+        {productList.map((product) => {
           return (
             <div key={product.code} className="productContainer">
               <div className="productContent">
-                <span className="brand">{product.brand}</span>
+                <div className="brandContainer">
+                  <span className="brand">{product.brand}</span>
+                </div>
                 <Image
                   src={`/images/productsImg/${product.code}.png`}
                   width={120}
@@ -37,9 +30,11 @@ export default function Home({ products }: ProductsProps) {
                   <button className="productButton" id="add">
                     ADICIONAR
                   </button>
-                  <button className="productButton" id="verify">
-                    VERIFICAR
-                  </button>
+                  <Link href={`/product/${product.code} `} prefetch={false}>
+                    <button className="productButton" id="verify">
+                      VERIFICAR
+                    </button>
+                  </Link>
                 </section>
               </div>
             </div>
@@ -48,16 +43,4 @@ export default function Home({ products }: ProductsProps) {
       </div>
     </Container>
   )
-}
-
-export const getStaticProps: GetStaticProps = async () => {
-  const response = await fetch('http://localhost:3333/products')
-  const products = await response.json()
-
-  return {
-    props: {
-      products,
-    },
-    revalidate: 60 * 60 * 24, // 24hrs
-  }
 }

@@ -382,6 +382,36 @@
             "title": "potencia, placa potencia"
         },
         {
+            "name": "Placa Potência 220v",
+            "code": "W11482940",
+            "brand": "Brastemp/Consul",
+            "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+            "model": "BWK12B9BNA, BWK12A9BS1, BWK12ABBS1, BWK12A9BNA, BWK12ABBNA, BWK12ABBS2, BWK12B9BS1, BWK12A9BS2",
+            "version": "",
+            "quantaty": 0,
+            "title": "potencia, placa potencia"
+        },
+        {
+            "name": "CJ ELETRONICO 220V",
+            "code": "W10876527",
+            "brand": "Brastemp/Consul",
+            "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+            "model": "BWJ09ABBNA, BWS09ABBNA",
+            "version": "",
+            "quantaty": 0,
+            "title": "potencia, placa potencia"
+        },
+        {
+            "name": "Placa Potência 220v",
+            "code": "W11581054",
+            "brand": "Brastemp/Consul",
+            "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+            "model": "CWB09BBBNA, CWB09BBBS2, CWH12BBBNA, CWH12BBBS1, CWH12BBBS2",
+            "version": "",
+            "quantaty": 0,
+            "title": "potencia, placa potencia"
+        },
+        {
             "name": "Cj Placa Potência 220V (VS 00)",
             "code": "W10855670",
             "brand": "Brastemp/Consul",
@@ -412,6 +442,16 @@
             "title": "potencia, placa potencia"
         },
         {
+            "name": "Cj Placa Potência 220V (VS 50;60;70;80)",
+            "code": "W11523016",
+            "brand": "Brastemp/Consul",
+            "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+            "model": "CWL16ABBNA, CWL16ABBS2",
+            "version": "",
+            "quantaty": 0,
+            "title": "potencia, placa potencia"
+        },
+        {
           "name": "Placa Potência 220V",
           "code": "W11479508",
           "brand": "Brastemp/Consul",
@@ -434,182 +474,112 @@
           "title": "potencia, placa potencia"
       },
         {
-            "name": "Kit Placa BWG10 Bivolt - 326046011 326053963 (Similar)",
+            "name": "Kit Placa BWG10 Bivolt (Similar)",
             "code": "7220013",
             "brand": "Alado",
             "subject": "multimarcas, similar, consul, brastemp, Máquina de Lavar, Lavadora, Maquina de lavar",
             "model": "BWG10A",
-            "version": "",
+            "version": "326046011 326053963",
             "quantaty": 0,
             "title": "placa potencia, placa potência, placa interface, 326046011, 326053963"
         },
         {
-            "name": "Placa Interface BWK11AB - w10755942 (Similar)",
+            "name": "Placa Interface BWK11AB (Similar)",
             "code": "7220030",
             "brand": "Alado",
             "subject": "multimarcas, similar, consul, brastemp, Máquina de Lavar, Lavadora, Maquina de lavar",
             "model": "BWK11AB",
-            "version": "",
+            "version": "W10755942",
             "quantaty": 0,
             "title": ""
         },
         {
-            "name": "Placa Interface BWL11 - W10356413 W10301604 (Similar)",
+            "name": "Placa Interface BWL11 (Similar)",
             "code": "7220026",
             "brand": "Alado",
             "subject": "multimarcas, similar, consul, brastemp, Máquina de Lavar, Lavadora, Maquina de lavar",
             "model": "BWL11AB",
-            "version": "",
+            "version": "W10356413 W10301604",
             "quantaty": 0,
             "title": "W10356413, W10301604, 326064442"
         },
         {
-            "name": "Kit Placa BWL11 - W10356413 W10301604 326064442 (Similar)",
+            "name": "Kit Placa BWL11 (Similar)",
             "code": "7220060",
             "brand": "Alado",
             "subject": "multimarcas, similar, consul, brastemp, Máquina de Lavar, Lavadora, Maquina de lavar",
             "model": "BWL11AB",
-            "version": "",
+            "version": "W10356413 W10301604 326064442",
             "quantaty": 0,
             "title": "placa potencia, placa interface, placa potência"
         },
         {
-            "name": "Kit Placa BWL09 - W10308925 W10356418 W10540663 (Similar)",
+            "name": "Kit Placa BWL09 (Similar)",
             "code": "7220064",
             "brand": "Alado",
             "subject": "multimarcas, similar, consul, brastemp, Máquina de Lavar, Lavadora, Maquina de lavar",
             "model": "BWL09AB",
-            "version": "",
+            "version": "W10308925 W10356418 W10540663",
             "quantaty": 0,
             "title": "placa potencia, placa interface, placa potência"
         },
         {
-            "name": "Placa Potência Bivolt - W10446925 (Similar)",
+            "name": "Placa Potência Bivolt (Similar)",
             "code": "7220080",
             "brand": "Alado",
             "subject": "multimarcas, similar, consul, brastemp, Máquina de Lavar, Lavadora, Maquina de lavar",
             "model": "BWB11ABBNA, BWL11ABBNA, BWL11AR, BWK11ABBNA, CWG11AB, CWK12ABBNA, CWL10B, CWL75A, CWK11AB, CWC10AB, BWC11AB, BWC09AB, BWC10BB, BWC07A, BWC08A, BWC10A, BWB09AB, BWL09BBBNA, BWB08A, BWB08AB",
-            "version": "",
+            "version": "W10446925",
             "quantaty": 0,
             "title": "placa potencia, placa potência"
         },
         {
-            "name": "Placa Interface BWC10/11 - W10605809 (Similar)",
+            "name": "Placa Interface BWC10/11 (Similar)",
             "code": "7220082",
             "brand": "Alado",
             "subject": "multimarcas, similar, consul, brastemp, Máquina de Lavar, Lavadora, Maquina de lavar",
             "model": "BWC10AB, BWC10BB, BWC11AB",
-            "version": "",
+            "version": "W10605809",
             "quantaty": 0,
             "title": ""
         },
         {
-            "name": "Kit Placa BWL11 - W10356413 (Similar)",
+            "name": "Kit Placa BWL11 (Similar)",
             "code": "7220202",
             "brand": "Alado",
             "subject": "multimarcas, similar, consul, brastemp, Máquina de Lavar, Lavadora, Maquina de lavar",
             "model": "BWB11ABANA, BWB11ABBNA, BWL11ABANA, BWL11ABBNA, BWL11AR, ",
-            "version": "",
+            "version": "W10356413",
             "quantaty": 0,
             "title": ""
         },
         {
-            "name": "Kit Placa CWC10 Facilit - W10626365 (Similar)",
+            "name": "Kit Placa CWC10 Facilit (Similar)",
             "code": "7220210",
             "brand": "Alado",
             "subject": "multimarcas, similar, consul, brastemp, Máquina de Lavar, Lavadora, Maquina de lavar",
             "model": "CWG11AB, CWK12ABANA, CWK12ABBNA, CWC10AB, CWK11AB",
-            "version": "",
+            "version": "W10626365",
             "quantaty": 0,
             "title": "placa potencia, placa potência"
         },
         {
-            "name": "Kit Placa CWL10B CWL75A - W10344774 326057062 (Similar)",
+            "name": "Kit Placa CWL10B CWL75A (Similar)",
             "code": "7220211",
             "brand": "Alado",
             "subject": "multimarcas, similar, consul, brastemp, Máquina de Lavar, Lavadora, Maquina de lavar",
             "model": "CWL10B, CWL75A",
-            "version": "",
+            "version": "W10344774 326057062",
             "quantaty": 0,
             "title": "placa potencia, placa potência"
         },
         {
-            "name": "Kit Placa BWC10/11 - W10605809 (Similar)",
+            "name": "Kit Placa BWC10/11  (Similar)",
             "code": "7220212",
             "brand": "Alado",
             "subject": "multimarcas, similar, consul, brastemp, Máquina de Lavar, Lavadora, Maquina de lavar",
             "model": "BWC10AB, BWC10BB, BWC11AB",
-            "version": "",
-            "quantaty": 0,
-            "title": "placa potencia, placa potência"
-        },
-        {
-            "name": "Kit Placa BWL09 Bivolt (Similar)",
-            "code": "1043",
-            "brand": "CP Placas",
-            "subject": "multimarcas, similar, consul, brastemp, Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "BWL09AB",
-            "version": "",
-            "quantaty": 0,
-            "title": "placa potencia, placa potência"
-        },
-        {
-            "name": "Kit Placa BWL11 Versao 2 Bivolt (Similar)",
-            "code": "1045",
-            "brand": "CP Placas",
-            "subject": "multimarcas, similar, consul, brastemp, Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "BWL11AB",
-            "version": "",
-            "quantaty": 0,
-            "title": "placa potencia, placa potência"
-        },
-        {
-            "name": "Kit Placa BWC10 Bivolt (Similar)",
-            "code": "1447",
-            "brand": "CP Placas",
-            "subject": "multimarcas, similar, consul, brastemp, Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "BWC10AB",
-            "version": "",
-            "quantaty": 0,
-            "title": "placa potencia, placa potência"
-        },
-        {
-            "name": "Placa Potência 220V W10446925 (Similar)",
-            "code": "1453",
-            "brand": "CP Placas",
-            "subject": "multimarcas, similar, consul, brastemp, Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "BWB11ABBNA, BWL11ABBNA, BWL11AR, BWK11ABBNA, CWG11AB, CWK12ABBNA, CWL10B, CWL75A, CWK11AB, CWC10AB, BWC11AB, BWC09AB, BWC10BB, BWC07A, BWC08A, BWC10A, BWB09AB, BWL09BBBNA, BWB08A, BWB08AB",
-            "version": "",
-            "quantaty": 0,
-            "title": "placa potencia, placa potência"
-        },
-        {
-            "name": "Kit Placa BWL11 Versao 1/2/3 Bivolt (Similar)",
-            "code": "1500",
-            "brand": "CP Placas",
-            "subject": "multimarcas, similar, consul, brastemp, Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "BWL11AB",
-            "version": "",
-            "quantaty": 0,
-            "title": "placa potencia, placa potência"
-        },
-        {
-            "name": "Placa Interface BWL11 Versao 1/2/3 (Similar)",
-            "code": "1501",
-            "brand": "CP Placas",
-            "subject": "multimarcas, similar, consul, brastemp, Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "BWL11AB",
-            "version": "",
-            "quantaty": 0,
-            "title": ""
-        },
-        {
-            "name": "Placa Interface BWK11 (Similar)",
-            "code": "1503",
-            "brand": "CP Placas",
-            "subject": "multimarcas, similar, consul, brastemp, Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "BWK11AB",
-            "version": "",
+            "version": "W10605809",
             "quantaty": 0,
             "title": "placa potencia, placa potência"
         },
@@ -895,13 +865,13 @@
         },
         {
             "name": "Controle Athena Bivolt",
-            "code": "W11345881",
+            "code": "W11634491",
             "brand": "Brastemp/Consul",
             "subject": "Refrigerador, geladeira",
             "model": "BRB39ABANA, BRB39ABBNA, CRB36ABANA, CRB36ABBNA, CRB36AC, CRB36ZBANA, CRB36ZBBNA, CRB39ABANA, CRB39ABBNA, CRB39AC, CRB39AKANA, CRB39AKBNA, CRG36ABANA, CRG36ABBNA, CRG36AC",
             "version": "",
             "quantaty": 0,
-            "title": "Placa athena, Placa Atena, placa geladeira"
+            "title": "Placa athena, Placa Atena, placa geladeira, W11345881"
         },
         {
             "name": "Controle Eletrônico 220V",
@@ -969,6 +939,16 @@
             "brand": "Brastemp/Consul",
             "subject": "Refrigerador, geladeira,",
             "model": "CRD36GBANA, CRD36GBBNA, CRD37EBANA, CRD37EBBNA, CRD37ZBANA, CRD37ZBBNA, CRD45EB, CRD46AB, CRD48FB, CRD49ABANA, CRD49ABBNA, CRD49AK",
+            "version": "",
+            "quantaty": 0,
+            "title": "placa athena, placa atena, controle eletronico, placa eletronica, placa geladeira"
+        },
+        {
+            "name": "Placa Controle Athena",
+            "code": "W11564674",
+            "brand": "Brastemp/Consul",
+            "subject": "Refrigerador, geladeira,",
+            "model": "CRM50HBANA, CRM50HBBNA, CRM50HBBS1, CRM50HBBS2, CRM50HKANA, CRM50HBAS2, CRM50HBAS3, CRM50HBBS3, CRM50HKAS1, CRM50HKBNA, CRM50HKBS1, CRM50HKAS2, CRM50HKAS3",
             "version": "",
             "quantaty": 0,
             "title": "placa athena, placa atena, controle eletronico, placa eletronica, placa geladeira"
@@ -1175,7 +1155,7 @@
         },
         {
             "name": "Válvula Dupla 220V",
-            "code": "W10201539",
+            "code": "W11364881",
             "brand": "Brastemp/Consul",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
             "model": "CWL75A, CWL10B, CWL10A, CWL08C, CWL08B, CWL08A, CWC24A, BWS11ABBNA, BWL11AR, BWL11ABBNA, BWL09A, BWL07A, BWK11ABBNA, BWJ11ABBNA, BWC11AB, BWC10BB, BWC10A, BWC06A, BWB11ABBNA",
@@ -1184,11 +1164,11 @@
             "title": "Valvula Dupla 220V"
         },
         {
-            "name": "Válvula Dupla 220V (W10201539)",
-            "code": "W10311962",
+            "name": "Válvula Dupla 220V",
+            "code": "W10311957",
             "brand": "Brastemp/Consul",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "CWG11AB, CWS11ABBNA, CWC10AB, CWK11AB, BWB09AB, CWE10ABBNA, CWE11ABBNA, CWG12ABBNA, CWK12ABBNA, BWJ09ABBNA, BWS09ABBNA, BWL09BBBNA, ",
+            "model": "CWG11AB, CWC10AB, CWS11ABBNA, BWB09AB, CWE10ABBNA, CWE11ABBNA, CWG12ABBNA, CWK12ABBNA, BWJ09ABBNA, BWS09ABBNA, BWL09BBBNA",
             "version": "",
             "quantaty": 0,
             "title": "Valvula Dupla 220V"
@@ -1247,7 +1227,7 @@
         },
         {
           "name": "AGRUPADOR VÁLVULA DUPLA",
-          "code": "W10776410",
+          "code": "W11344665",
           "brand": "Brastemp/Consul",
           "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
           "model": "CWS12ABBNA, CWH14ABBNA",
@@ -1282,7 +1262,7 @@
             "code": "W10632303",
             "brand": "Brastemp/Consul",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "CWB08ABBNA, CWB09ABBNA, CWH11ABBNA, CWH11BBBNA, CWH12ABBNA, ",
+            "model": "CWH12ABBS1, CWH12ABBNA, CWH12ABBS2, CWB08ABBNA, CWB09ABBNA, CWH11ABBNA, CWH11BBBNA, CWB09ABBS2, CWH11BBBS1, CWB09ABBS1, CWH11BBBS2, CWB09BBBNA, CWB09BBBS2, CWH12BBBNA, CWH12BBBS1, CWH12BBBS2",
             "version": "",
             "quantaty": 0,
             "title": "Conj. Valvula e Duto 220v"
@@ -1292,14 +1272,14 @@
             "code": "W10518617",
             "brand": "Brastemp/Consul",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "CWH12ABBNA, BWC10BB, BWM08A, BWT09A, BWC07A, BWF08A, BWF08B, BWF09A, BWQ22D, BWQ24B, BWT08A, BWT08C, BWT09AB, BWX09A, XWH08A, BWM08AB, BWB22B, BWB22A, BWF24A, BWG10A, BWH08B, BWH09A, BWM06A, BWQ06A, BWQ07A, BWQ22C, CWE06A, CWE06B, BWC10A, BWC06A, BWL07A, BWL09A, CWL08C, CWC24A, CWL08A, CWL08B, CWL10A, CWL10B, CWL75A, BWQ22B, BWQ24A, BWF22A, BWL11AR, BWH09B, BWT09B, BWH09BB, BWX09B, BWT09BB, CWC22B, CWC22A, BWH15ABBNA, BWS15ABBNA, BWK15ABBNA, BWN15AKBNA, CWE15ABBNA, CWL16ABBNA, CWE10ABBNA, CWE11ABBNA, CWG12ABBNA, CWK12ABBNA, BWB08A, CWG11AB, BWB09AB, BWB08AB, BWS09ABBNA, BWJ11ABBNA, BWL11ABBNA, BWS11ABBNA, BWJ09ABBNA, BWP11A9, CWB08ABBNA, CWC08ABBNA, CWE08ABBNA, CWE09AB, CWH11BBBNA, CWH11ABBNA, CWB09ABBNA, BWG11ABBNA, BWG12AB, BWH11AB, BWG11ARBNA, BWH12ABBNA, BWQ12ABBNA, BWU11AB, BWT12ABBNA, BWU11AE, BWK11ABBNA, CWK11AB, CWC10AB, BWL09BBBNA, BWC09AB, BWC08A, BWR12A9BNA, BWB11ABBNA, BWR12ABBNA, BWK12A9BNA, BWK12ABBNA, BWC11AB,",
+            "model": "CWH12ABBNA, BWC10BB, BWM08A, BWT09A, BWC07A, BWF08A, BWF08B, BWF09A, BWQ22D, BWQ24B, BWT08A, BWT08C, BWT09AB, BWX09A, XWH08A, BWM08AB, BWB22B, BWB22A, BWF24A, BWG10A, BWH08B, BWH09A, BWM06A, BWQ06A, BWQ07A, BWQ22C, CWE06A, CWE06B, BWC10A, BWC06A, BWL07A, BWL09A, CWL08C, CWC24A, CWL08A, CWL08B, CWL10A, CWL10B, CWL75A, BWQ22B, BWQ24A, BWF22A, BWL11AR, BWH09B, BWT09B, BWH09BB, BWX09B, BWT09BB, CWC22B, CWC22A, BWH15ABBNA, BWS15ABBNA, BWK15ABBNA, BWN15AKBNA, CWE15ABBNA, CWL16ABBNA, CWE10ABBNA, CWE11ABBNA, CWG12ABBNA, CWK12ABBNA, BWB08A, CWG11AB, BWB09AB, BWB08AB, BWS09ABBNA, BWJ11ABBNA, BWL11ABBNA, BWS11ABBNA, BWJ09ABBNA, BWP11A9, CWB08ABBNA, CWC08ABBNA, CWE08ABBNA, CWE09AB, CWH11BBBNA, CWH11ABBNA, CWB09ABBNA, BWG11ABBNA, BWG12AB, BWH11AB, BWG11ARBNA, BWH12ABBNA, BWQ12ABBNA, BWU11AB, BWT12ABBNA, BWU11AE, BWK11ABBNA, CWK11AB, CWC10AB, BWL09BBBNA, BWC09AB, BWC08A, BWR12A9BNA, BWB11ABBNA, BWR12ABBNA, BWK12A9BNA, BWK12ABBNA, BWC11AB, CWH12BBBNA, CWB09BBBNA",
             "version": "",
             "quantaty": 0,
             "title": ""
         },
         {
             "name": "Atuador de Freio 220V",
-            "code": "W10747291",
+            "code": "W11364167",
             "brand": "Brastemp/Consul",
             "subject": "maquina de lavar, máquina de lavar, lavadora",
             "model": "BWD15A9BNA, BWD15ABBNA, CWS11ABBNA, CWS12ABBNA, ",
@@ -1312,7 +1292,7 @@
             "code": "W10849470",
             "brand": "Brastemp/Consul",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "CWI06A, CWI06B, CWI07AB, CWH12ABBNA, BLF08ABBNA, BLF06AB, BLF08ASBNA, CWC22A, BLL22EDB, BWF22A, BWQ24A, BWR22C, BWQ22B, BWH09BB, BWT09BB, BWX09B, CWS11ABBNA, CWS12ABBNA, CWE15ABBNA, CWL16ABBNA, CWE13ABBNA, BWH15ABBNA, BWK15ABBNA, BWN15ATBNA, BWN15AKBNA, BWS15ABBNA, CWH14ABBNA, BWC06A, CWL10A, CWL08C, BLE20A, BLE20CB, BLE20L, BLE20P, PLE20ASBNA, PLE20BS, BLE20BBBNA, BWL07A, BWL09A, BWL11AR, BWF09A, CWL10B, CWL75A, BWC10BB, BWC10A, BWG10A, BWC07A, BWB22B, BWB22A, BWF08A, BWF24A, BWM06A, BWM08AB, CWE06A, CWE06B, CWC24A, CWL08A, CWL08B, BWH09A, BWT09AB, BWX09A, BWF08B, BWH08B, BWQ06A, BWQ07A, BWQ22D, BWQ24B, BWQ22C, BWT08A, BWT08C, XWH08A, CWC22B, BWD15A9BNA, BWD15ABBNA, BWB08AB, BWB09AB, BWJ09ABBNA, BWL11ABBNA, CWG11AB, BWJ11ABBNA, BWC11AB, BWS11ABBNA, BWL09BBBNA, CWC10AB, CWK11AB, BWB11ABBNA, BWC08A, BWC09AB, CWE10ABBNA, CWE11ABBNA, CWG12ABBNA, CWK12ABBNA, CWB08ABBNA, CWH11BBBNA, CWH11ABBNA, CWB09ABBNA, BWK11ABBNA, CWC08ABBNA, CWE08ABBNA, CWE09AB, BWP11A9, BWU11AE, BWU11AB, BWG11ABBNA, BWG11ARBNA, BWG12AB, BWH12ABBNA, BWQ12ABBNA, BWT12ABBNA, BWR12A9BNA, BWR12ABBNA, BWK12A9BNA, BWK14ABBNA, BWK12ABBNA, BLC19A, BLC19B, BLC19P, BVM19SDB, BVM19SEA, CLC19A, LT12F, LT60, LBU15, LAC11, LT12Q, LEC12, LTD06, LTC15, LTE09, LTE12, LAC13, LAC12, LTA15, LTC12. LTE07, LT12B, LAC16, LT13B, LTE06, LTE08, LTC10, LTD09, LTC07, LT11F, LT15F, LTD11, LTD15, LT10B, LTD13",
+            "model": "CWI06A, CWI06B, CWI07AB, CWH12ABBNA, BLF08ABBNA, BLF06AB, BLF08ASBNA, CWC22A, BLL22EDB, BWF22A, BWQ24A, BWR22C, BWQ22B, BWH09BB, BWT09BB, BWX09B, CWS11ABBNA, CWS12ABBNA, CWE15ABBNA, CWL16ABBNA, CWE13ABBNA, BWH15ABBNA, BWK15ABBNA, BWN15ATBNA, BWN15AKBNA, BWS15ABBNA, CWH14ABBNA, BWC06A, CWL10A, CWL08C, BLE20A, BLE20CB, BLE20L, BLE20P, PLE20ASBNA, PLE20BS, BLE20BBBNA, BWL07A, BWL09A, BWL11AR, BWF09A, CWL10B, CWL75A, BWC10BB, BWC10A, BWG10A, BWC07A, BWB22B, BWB22A, BWF08A, BWF24A, BWM06A, BWM08AB, CWE06A, CWE06B, CWC24A, CWL08A, CWL08B, BWH09A, BWT09AB, BWX09A, BWF08B, BWH08B, BWQ06A, BWQ07A, BWQ22D, BWQ24B, BWQ22C, BWT08A, BWT08C, XWH08A, CWC22B, BWD15A9BNA, BWD15ABBNA, BWB08AB, BWB09AB, BWJ09ABBNA, BWL11ABBNA, CWG11AB, BWJ11ABBNA, BWC11AB, BWS11ABBNA, BWL09BBBNA, CWC10AB, CWK11AB, BWB11ABBNA, BWC08A, BWC09AB, CWE10ABBNA, CWE11ABBNA, CWG12ABBNA, CWK12ABBNA, CWB08ABBNA, CWH11BBBNA, CWH11ABBNA, CWB09ABBNA, BWK11ABBNA, CWC08ABBNA, CWE08ABBNA, CWE09AB, BWP11A9, BWU11AE, BWU11AB, BWG11ABBNA, BWG11ARBNA, BWG12AB, BWH12ABBNA, BWQ12ABBNA, BWT12ABBNA, BWR12A9BNA, BWR12ABBNA, BWK12A9BNA, BWK14ABBNA, BWK12ABBNA, BLC19A, CWH12BBBNA, CWB09BBBNA, BLC19B, BLC19P, BVM19SDB, BVM19SEA, CLC19A, LT12F, LT60, LBU15, LAC11, LT12Q, LEC12, LTD06, LTC15, LTE09, LTE12, LAC13, LAC12, LTA15, LTC12. LTE07, LT12B, LAC16, LT13B, LTE06, LTE08, LTC10, LTD09, LTC07, LT11F, LT15F, LTD11, LTD15, LT10B, LTD13",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -1328,11 +1308,11 @@
             "title": ""
         },
         {
-            "name": "Capacitor 15µF 220V (Novo)",
-            "code": "W10819784",
+            "name": "Capacitor 15µF 220V",
+            "code": "W11574388",
             "brand": "Brastemp/Consul",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "CWH12ABBNA, CWL75A, CWC22B, BWB22B, BWB22A, BWF08A, BWH09A, BWF08B, BWF09A, BWF24A, BWH08B, BWM06A, BWQ06A, BWM08AB, BWQ07A, BWQ22D, BWQ24B, BWQ22C, BWT08A, BWT08C, BWT09AB, BWX09A, E06A, E06B, C24A, L08A, L08B, XWH08A, C22A, BWC06A, L10A, L08C, BWL07A, BWL09A, BWC10A, BWG10A, BWC07A, BWL11AR, BWF22A, BWQ24A, BLL22EDB, BLL22MGB, BLL22MGD, BWQ22A, BWR22A, BWR22B, BWR22C, BWQ22B, BWH09BB, BWT09BB, BWX09B, BWH15ABBNA, BWK15ABBNA, BWN15ATBNA, BWN15AKBNA, BWS15ABBNA, E15ABBNA, L16ABBNA, B08ABBNA, B09ABBNA, BWH11AB, BWG11ABBNA, BWG11ARBNA, BWG12AB, BWH12ABBNA, BWQ12ABBNA, BWU11AE, C08ABBNA, BWT12ABBNA, BWU11AB, E08ABBNA, E09AB, E10ABBNA, E11ABBNA, G12ABBNA, K12ABBNA, BWJ11ABBNA, BWB08AB, BWB09AB, BWJ09ABBNA, BWS09ABBNA, BWS11ABBNA, E13ABBNA, BWD15A9BNA, BWD15ABBNA, S11ABBNA, H14ABBNA, BWK11ABBNA, BWR12ABBNA, BWK12A9BNA, BWK14ABBNA, BWK12ABBNA, K11AB, BWC09AB, BWC11AB",
+            "model": "CWH12ABBNA, CWL75A, CWC22B, BWB22B, BWB22A, BWF08A, BWH09A, BWF08B, BWF09A, BWF24A, BWH08B, BWM06A, BWQ06A, BWM08AB, BWQ07A, BWQ22D, BWQ24B, BWQ22C, BWT08A, BWT08C, BWT09AB, BWX09A, E06A, E06B, C24A, L08A, L08B, XWH08A, C22A, BWC06A, L10A, L08C, BWL07A, BWL09A, BWC10A, BWG10A, BWC07A, BWL11AR, BWF22A, BWQ24A, BLL22EDB, BLL22MGB, BLL22MGD, BWQ22A, BWR22A, BWR22B, BWR22C, BWQ22B, BWH09BB, BWT09BB, BWX09B, BWH15ABBNA, BWK15ABBNA, BWN15ATBNA, BWN15AKBNA, BWS15ABBNA, E15ABBNA, L16ABBNA, B08ABBNA, B09ABBNA, BWH11AB, BWG11ABBNA, BWG11ARBNA, BWG12AB, BWH12ABBNA, BWQ12ABBNA, BWU11AE, C08ABBNA, BWT12ABBNA, BWU11AB, E08ABBNA, E09AB, E10ABBNA, E11ABBNA, G12ABBNA, K12ABBNA, BWJ11ABBNA, BWB08AB, BWB09AB, BWJ09ABBNA, BWS09ABBNA, BWS11ABBNA, E13ABBNA, BWD15A9BNA, BWD15ABBNA, S11ABBNA, H14ABBNA, BWK11ABBNA, BWR12ABBNA, BWK12A9BNA, BWK14ABBNA, BWK12ABBNA, BWK11AB, BWC09AB, BWC11AB, CWH12BBBNA, CWB09BBBNA",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -1378,6 +1358,16 @@
             "title": "pressostato 4 niveis, pressostato 4 nivel"
         },
         {
+            "name": "Pressostato 4 Níveis",
+            "code": "W10851011",
+            "brand": "Brastemp/Consul",
+            "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+            "model": "BWJ09ABBNA, BWJ11ABANA, BWJ11ABBNA, BWS09ABANA, BWS09ABBNA, BWS11ABANA, BWS11ABBNA, BWJ09ABANA, BWB08A, BWB08AB",
+            "version": "",
+            "quantaty": 0,
+            "title": "pressostato 4 niveis, pressostato 4 nivel"
+        },
+        {
             "name": "Pressostato 1 Nível",
             "code": "326057395",
             "brand": "Brastemp/Consul",
@@ -1412,7 +1402,7 @@
             "code": "W10619463",
             "brand": "Brastemp/Consul",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "CWB08ABANA, CWB08ABBNA, CWB09ABANA, CWB09ABBNA, CWC08ABANA, CWC08ABBNA, CWE08ABANA, CWE08ABBNA, CWE09AB",
+            "model": "CWB08ABANA, CWB08ABBNA, CWB09ABANA, CWB09ABBNA, CWC08ABANA, CWC08ABBNA, CWE08ABANA, CWE08ABBNA, CWE09AB, CWB09BBBNA",
             "version": "",
             "quantaty": 0,
             "title": "pressostato 4 niveis, pressostato 4 nivel"
@@ -1442,7 +1432,7 @@
             "code": "W11197973",
             "brand": "Brastemp/Consul",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "CWH12ABANA, CWH12ABBNA, CWH11BBBNA, CWH11BBANA, CWH11ABBNA, CWH11ABANA, ",
+            "model": "CWH12ABANA, CWH12ABBS1, CWH12ABBNA, CWH12ABAS1, CWH12ABAS2, CWH12ABBS2, CWH11ABANA, CWH11ABBNA, CWH11BBAS1, CWH11BBBNA, CWH11BBANA, CWH11ABAS3, CWH11BBBS1, CWH11BBBS2, CWH12BBAS1, CWH12BBBNA, CWH12BBAS2, CWH12BBBS1, CWH12BBANA, CWH12BBBS2",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -1452,7 +1442,7 @@
             "code": "W10581537",
             "brand": "Brastemp/Consul",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "CWK12ABANA,CWK12ABBNA,CWC10AB,CWK11AB,CWG11AB,",
+            "model": "CWK12ABANA, CWK12ABBNA, CWC10AB, CWK11AB, CWG11AB,",
             "version": "",
             "quantaty": 0,
             "title": "pressostato 4 niveis, pressostato 4 nivel"
@@ -1502,7 +1492,7 @@
             "code": "W11299803",
             "brand": "Brastemp/Consul",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "CWH12ABANA, CWH12ABBNA, CWE11ABANA, CWE11ABBNA, CWG12ABANA, CWG12ABBNA, CWK12ABANA, CWK12ABBNA, CWS11ABBNA, CWS11ABANA, CWS12ABANA, CWS12ABBNA, CWB08ABANA, CWB08ABBNA, CWH11BBBNA, CWH11ABBNA, CWH11ABANA, CWB09ABANA, CWB09ABBNA, CWH11BBANA, CWC08ABBNA, CWC08ABANA, CWE09AB, BWJ09ABANA, BWJ09ABBNA, BWS09ABBNA, BWS09ABANA, BWR12A9BNA, BWK12A9ANA, BWK12ABANA, BWR12A9ANA, BWR12ABANA, BWR12ABBNA, BWK12A9BNA, BWK12ABBNA",
+            "model": "CWH12ABANA, CWH12ABBNA, CWE11ABANA, CWE11ABBNA, CWG12ABANA, CWG12ABBNA, CWK12ABANA, CWK12ABBNA, CWS11ABBNA, CWS11ABANA, CWS12ABANA, CWS12ABBNA, CWB08ABANA, CWB08ABBNA, CWH11BBBNA, CWH11ABBNA, CWH11ABANA, CWB09ABANA, CWB09ABBNA, CWH11BBANA, CWC08ABBNA, CWC08ABANA, CWE09AB, BWJ09ABANA, BWJ09ABBNA, BWS09ABBNA, BWS09ABANA, BWR12A9BNA, BWK12A9ANA, BWK12ABANA, BWR12A9ANA, BWR12ABANA, BWR12ABBNA, BWK12A9BNA, BWK12ABBNA, CWH12BBBNA, CWB09BBBNA",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -1512,7 +1502,7 @@
             "code": "W11300695",
             "brand": "Brastemp/Consul",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "BWG12AB, BWH12ABANA, BWH12ABBNA, BWJ09ABANA, BWJ09ABBNA, BWK12A9ANA, BWK12A9BNA, BWK12ABANA, BWK12ABBNA, BWQ12ABANA, BWQ12ABBNA, BWR12A9ANA, BWR12A9BNA, BWR12ABANA, BWR12ABBNA, BWS09ABANA, BWS09ABBNA, BWT12ABANA, BWT12ABBNA, CWB08ABANA, CWB08ABBNA, CWB09ABANA, CWB09ABBNA, CWC08ABANA, CWC08ABBNA, CWE08ABANA, CWE08ABBNA, CWE09AB, CWE11ABANA, CWE11ABBNA, CWG12ABANA, CWG12ABBNA, CWH11ABANA, CWH11ABBNA, CWH11BBANA, CWH11BBBNA, CWH12ABANA, CWH12ABBNA, CWK12ABANA, CWK12ABBNA, CWS11ABANA, CWS11ABBNA, CWS12ABANA, CWS12ABBNA",
+            "model": "BWG12AB, BWH12ABANA, BWH12ABBNA, BWJ09ABANA, BWJ09ABBNA, BWK12A9ANA, BWK12A9BNA, BWK12ABANA, BWK12ABBNA, BWQ12ABANA, BWQ12ABBNA, BWR12A9ANA, BWR12A9BNA, BWR12ABANA, BWR12ABBNA, BWS09ABANA, BWS09ABBNA, BWT12ABANA, BWT12ABBNA, CWB08ABANA, CWB08ABBNA, CWB09ABANA, CWB09ABBNA, CWC08ABANA, CWC08ABBNA, CWE08ABANA, CWE08ABBNA, CWE09AB, CWE11ABANA, CWE11ABBNA, CWG12ABANA, CWG12ABBNA, CWH11ABANA, CWH11ABBNA, CWH11BBANA, CWH11BBBNA, CWH12ABANA, CWH12ABBNA, CWK12ABANA, CWK12ABBNA, CWS11ABANA, CWS11ABBNA, CWS12ABANA, CWS12ABBNA, CWH12BBBNA, CWB09BBBNA",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -1529,10 +1519,10 @@
         },
         {
             "name": "Cunha Suporte do Cesto",
-            "code": "000350292",
+            "code": "W11561657",
             "brand": "Brastemp/Consul",
             "subject": "máquina de lavar, maquina de lavar, lavadora",
-            "model": "",
+            "model": "CWH12ABANA, CWH12ABBS1, CWH12ABBNA, CWH12ABAS1, CWH12ABAS2, CWH12ABBS2, CWH12ABAS3, BWL11AR, BWX09B, BWH09BB, BWT09BB, CWL16ABAS1, CWL16ABBS2, CWK17ABANA, CWK17ABBNA, CWL16ABAS2, CWL16ABBNA, CWK17ABAS2, CWL16ABANA, CWC22A, CWC22B, BWF22A, BWQ24A, BWQ22A, BWQ22B, BWR22C, BLL22EDB, CWH14ABAS1, CWH14ABBS1, CWH14ABBS2, CWS11ABANA, CWS11ABBNA, CWS12ABANA, CWS12ABBNA, CWH14ABANA, CWH14ABBNA, CWH14ABAS2, CWL08C, CWL10A, BWC06A, BWF09A, BWL07A, BWL09A, BWL09ABANA, XWH08A, CWC24A, CWE06A, CWE06B, CWL08A, CWL08B, BWB22A, BWB22B, BWC10BB, BWF08A, BWF08B, BWF24A, BWH08B, BWH09A, BWM06A, BWQ06A, BWQ07A, BWQ22C, BWQ22D, BWQ24B, BWT08A, BWT08C, BWX09A, BWM08AB, BWT09AB, CWL10B, CWL75A, BWC07A, BWC10A, BWG10A, BLL22MGB, BLL22MGD, BWR22A, BWR22B, CWH12BBAS1, CWH12BBBNA, CWH12BBAS2, CWH12BBBS1, CWH12BBANA, CWH12BBBS2, CWH12BBAS3, CWH15ABBS1, CWH15ABBNA, CWH15ABAS1, CWH15ABANA, CWH15ABAS2, CWH15ABBS3, BWK11ABANA, BWK11ABBNA, CWE09AB, CWB08ABANA, CWB08ABBNA, CWB09ABAS3, CWB09ABBNA, CWC08ABANA, CWC08ABBNA, CWE08ABANA, CWE08ABBNA, CWH11ABANA, CWH11ABBNA, CWH11BBAS1, CWH11BBBNA, CWB09ABANA, CWH11BBANA, CWB09ABAS2, CWB09ABAS1, CWB09ABBS2, CWH11ABAS3, CWH11BBBS1, CWB09ABBS1, CWH11BBBS2, BWG12AB, BWH11AB, BWQ12ABANA, BWQ12ABBNA, BWT12ABANA, BWT12ABBNA, BWG11ABANA, BWG11ABBNA, BWG11ARANA, BWG11ARBNA, BWH12ABANA, BWH12ABBNA, BWP11A9, BWU11AB, BWU11AEANA, BWU11AEBNA, BWK12B9ANA, BWK12B9BNA, BWK12A9ANA, BWK12A9AS2, BWK12A9AS1, BWK12A9BS1, BWK12ABBS1, BWK12A9BNA, BWK12ABAS1, BWK12ABAS2, BWK12ABBNA, BWK14ABANA, BWK12ABBS2, BWK14ABAS1, BWK14ABAS2, BWK14ABBS1, BWR12A9BNA, BWR12A9ANA, BWR12ABANA, BWR12ABAS1, BWR12ABBNA, BWR12ABBS1, BWK12B9BS1, BWK14ABBS2, BWK12A9BS2, BWK12B9AS2, BWR12ABAS3, BWR12ABAS2, BWK14ABBNA, BWK12ABANA, CWG11AB, BWB08AB, BWJ09ABBNA, BWJ11ABANA, BWJ11ABBNA, BWS09ABANA, BWS09ABBNA, BWS11ABANA, BWS11ABBNA, BWL11ABANA, BWL11ABBNA, BWJ09ABANA, CWE10ABANA, CWE10ABBNA, CWE11ABANA, CWE11ABBNA, CWG12ABANA, CWG12ABBNA, BWB09AB, CWB09BBANA, CWB09BBAS1, CWB09BBBNA, CWB09BBAS3, CWB09BBBS2, CWB09BBAS2, BWK17ABANA, BWK17ABBNA, BWK17ABAS1, CWC10AB, CWK11AB, BWL09BBANA, BWL09BBBNA, BWC08A, BWC11AB, BWB11ABANA, BWB11ABBNA, BWC09AB ",
             "version": "",
             "quantaty": 0,
             "title": "cunha do cesto, cunha brastemp"
@@ -1562,10 +1552,20 @@
             "code": "W10764578",
             "brand": "Brastemp/Consul",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "CWH12ABANA, CWH12ABBNA, BWL11AR, CWS11ABBNA, CWS11ABANA, CWS12ABANA, CWS12ABBNA, BWQ24A, BWM08A, BWB22A, BWC06A, BWF08A, BWM08AB, CWE06A, CWE06B, CWL08A, CWL10A, CWL08B, CWL08C, BWT09A, BWH09A, BWT09AB, BWX09A, BWF08B, BWH08B, BWQ06A, BWQ24B, BWT08A, BWT08C, BWC10BB, CWL10B, CWL75A, BWC10A, BWG10A, BWC07A, BWT09B, BWH09B, BWH09BB, BWT09BB, BWX09B, BWL09ABANA, BWL07A, BWL09A, BWB08A, BWB08AB, BWB09AB, BWL11ABANA, BWJ09ABANA, BWJ09ABBNA, BWL11ABBNA, BWS09ABBNA, BWS09ABANA, CWG11AB, CWE10ABANA, CWE10ABBNA, CWE11ABANA, CWE11ABBNA, CWG12ABANA, CWG12ABBNA, CWK12ABANA, CWK12ABBNA, BWB11ABANA, BWB11ABBNA, BWC11AB, BWC08A, BWC09AB, BWL09BBANA, BWL09BBBNA, CWC10AB, CWK11AB, BWR12A9BNA, BWK12A9ANA, BWK12ABANA, BWR12A9ANA, BWR12ABANA, BWR12ABBNA, BWK12A9BNA, BWK12ABBNA, BWP11A9, BWU11AE, BWU11AB, BWG11ABANA, BWH11AB, BWG11ABBNA, BWG11ARANA, BWG11ARBNA, BWG12AB, BWH12ABANA, BWH12ABBNA, BWK11ABANA, BWK11ABBNA, BWQ12ABANA, BWQ12ABBNA, BWT12ABANA, BWT12ABBNA, CWB08ABANA, CWB08ABBNA, CWB09ABANA, CWB09ABBNA, CWC08ABBNA, CWC08ABANA, CWE08ABBNA, CWE08ABANA, CWE09AB, BWJ11ABANA, BWJ11ABBNA, BWS11ABANA, BWS11ABBNA, ",
+            "model": "CWH12ABANA, CWH12ABBNA, BWL11AR, CWS11ABBNA, CWS11ABANA, CWS12ABANA, CWS12ABBNA, BWQ24A, BWM08A, BWB22A, BWC06A, BWF08A, BWM08AB, CWE06A, CWE06B, CWL08A, CWL10A, CWL08B, CWL08C, BWT09A, BWH09A, BWT09AB, BWX09A, BWF08B, BWH08B, BWQ06A, BWQ24B, BWT08A, BWT08C, BWC10BB, CWL10B, CWL75A, BWC10A, BWG10A, BWC07A, BWT09B, BWH09B, BWH09BB, BWT09BB, BWX09B, BWL09ABANA, BWL07A, BWL09A, BWB08A, BWB08AB, BWB09AB, BWL11ABANA, BWJ09ABANA, BWJ09ABBNA, BWL11ABBNA, BWS09ABBNA, BWS09ABANA, CWG11AB, CWE10ABANA, CWE10ABBNA, CWE11ABANA, CWE11ABBNA, CWG12ABANA, CWG12ABBNA, CWK12ABANA, CWK12ABBNA, BWB11ABANA, BWB11ABBNA, BWC11AB, BWC08A, BWC09AB, BWL09BBANA, BWL09BBBNA, CWC10AB, CWK11AB, BWR12A9BNA, BWK12A9ANA, BWK12ABANA, BWR12A9ANA, BWR12ABANA, BWR12ABBNA, BWK12A9BNA, BWK12ABBNA, BWP11A9, BWU11AE, BWU11AB, BWG11ABANA, BWH11AB, BWG11ABBNA, BWG11ARANA, BWG11ARBNA, BWG12AB, BWH12ABANA, BWH12ABBNA, BWK11ABANA, BWK11ABBNA, BWQ12ABANA, BWQ12ABBNA, BWT12ABANA, BWT12ABBNA, CWB08ABANA, CWB08ABBNA, CWB09ABANA, CWB09ABBNA, CWC08ABBNA, CWC08ABANA, CWE08ABBNA, CWE08ABANA, CWE09AB, BWJ11ABANA, BWJ11ABBNA, BWS11ABANA, BWS11ABBNA, CWB09BBBNA",
             "version": "",
             "quantaty": 0,
-            "title": "Suspensao"
+            "title": "Suspensao, vara de suspensao"
+        },
+        {
+            "name": "Cj Varas de Suspensão",
+            "code": "W11279516",
+            "brand": "Brastemp/Consul",
+            "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+            "model": "CWH12BBAS1, CWH12BBBNA, CWH12BBAS2, CWH12BBBS1, CWH12BBANA, CWH12BBBS2, CWH12BBAS3, CWH11ABANA, CWH11ABBNA, CWH11BBAS1, CWH11BBBNA, CWH11BBANA, CWH11ABAS3, CWH11BBBS1, CWH11BBBS2",
+            "version": "",
+            "quantaty": 0,
+            "title": "Suspensao, vara de suspensao"
         },
         {
             "name": "Cj Varas de Suspensão 26 Pol",
@@ -1575,24 +1575,14 @@
             "model": "BWD15A9ANA, BWD15A9BNA, BWD15ABANA, BWD15ABBNA, BWH15ABANA, BWH15ABBNA, BWK14ABANA, BWK14ABBNA, BWK15ABANA, BWK15ABBNA, BWN15AKANA, BWN15AKBNA, BWN15ATANA, BWN15ATBNA, BWS15ABANA, BWS15ABBNA, CWE13ABANA, CWE13ABBNA, CWE15ABANA, CWE15ABBNA, CWH14ABANA, CWH14ABBNA, CWL16ABANA, CWL16ABBNA",
             "version": "",
             "quantaty": 0,
-            "title": "Suspensao"
+            "title": "Suspensao, vara de suspensao"
         },
         {
             "name": "Retentor do Tanque",
-            "code": "W10751509",
-            "brand": "Brastemp/Consul",
-            "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "BWH09B, BWT09B, BWH09BB, BWT09BB, BWX09B, CWC22B, BWC06A, CWL10A, CWL08C, BWF22A, BWQ24A, BWF09A, BWL09ABANA, BWL07A, BWL09A, BWQ22B, BWM08A, BWB22B, BWB22A, BWF08A, BWF24A, BWM06A, BWL11AR, BWM08AB, CWE06A, CWE06B, CWC24A, CWL08A, CWL08B, BWC10BB, CWL10B, CWL75A, BWT09A, BWH09A, BWF08B, BWH08B, BWQ06A, BWQ07A, BWQ22D, BWQ24B, BWQ22C, BWT08A, BWT08C, BWT09AB, BWX09A, BWC10A, BWG10A, BWC07A, BWH15ABBNA, BWH15ABANA, BWK15ABANA, BWK15ABBNA, BWN15ATBNA, BWN15AKANA, BWN15AKBNA, BWN15ATANA, BWS15ABANA, BWS15ABBNA, CWE15ABANA, CWE15ABBNA, CWL16ABBNA, CWL16ABANA, BWC11AB, BWG11ABANA, BWH11AB, BWG11ABBNA, BWG11ARANA, BWG11ARBNA, BWG12AB, BWH12ABANA, BWH12ABBNA, BWP11A9, BWQ12ABANA, BWQ12ABBNA, BWT12ABANA, BWU11AE, CWC08ABBNA, BWT12ABBNA, BWU11AB, CWC08ABANA, CWE08ABBNA, CWE10ABANA, CWE08ABANA, CWE09AB, CWE10ABBNA, CWE11ABANA, CWE11ABBNA, CWG12ABANA, CWG12ABBNA, CWK12ABANA, CWK12ABBNA, BWK11ABANA, BWK11ABBNA, BWB08A, BWJ11ABANA, BWJ11ABBNA, BWB08AB, BWB09AB, BWL11ABANA, BWJ09ABANA, BWJ09ABBNA, BWL11ABBNA, BWS09ABBNA, BWS09ABANA, BWS11ABANA, BWS11ABBNA, CWG11AB, CWH14ABBNA, CWH14ABANA, BWB11ABANA, BWB11ABBNA, BWC08A, BWC09AB, BWL09BBANA, BWL09BBBNA, CWC10AB, CWK11AB",
-            "version": "",
-            "quantaty": 0,
-            "title": "retentor consul, retentor brastemp"
-        },
-        {
-            "name": "Retentor do Tanque (Novo)",
             "code": "W10791633",
             "brand": "Brastemp/Consul",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "BWH09B, BWT09B, BWH09BB, BWT09BB, BWX09B, CWC22B, BWC06A, CWL10A, CWL08C, BWF22A, BWQ24A, BWF09A, BWL09ABANA, BWL07A, BWL09A, BWQ22B, BWM08A, BWB22B, BWB22A, BWF08A, BWF24A, BWM06A, BWL11AR, BWM08AB, CWE06A, CWE06B, CWC24A, CWL08A, CWL08B, BWC10BB, CWL10B, CWL75A, BWT09A, BWH09A, BWF08B, BWH08B, BWQ06A, BWQ07A, BWQ22D, BWQ24B, BWQ22C, BWT08A, BWT08C, BWT09AB, BWX09A, BWC10A, BWG10A, BWC07A, BWH15ABBNA, BWH15ABANA, BWK15ABANA, BWK15ABBNA, BWN15ATBNA, BWN15AKANA, BWN15AKBNA, BWN15ATANA, BWS15ABANA, BWS15ABBNA, CWE15ABANA, CWE15ABBNA, CWL16ABBNA, CWL16ABANA, BWC11AB, BWG11ABANA, BWH11AB, BWG11ABBNA, BWG11ARANA, BWG11ARBNA, BWG12AB, BWH12ABANA, BWH12ABBNA, BWP11A9, BWQ12ABANA, BWQ12ABBNA, BWT12ABANA, BWU11AE, CWC08ABBNA, BWT12ABBNA, BWU11AB, CWC08ABANA, CWE08ABBNA, CWE10ABANA, CWE08ABANA, CWE09AB, CWE10ABBNA, CWE11ABANA, CWE11ABBNA, CWG12ABANA, CWG12ABBNA, CWK12ABANA, CWK12ABBNA, BWK11ABANA, BWK11ABBNA, BWB08A, BWJ11ABANA, BWJ11ABBNA, BWB08AB, BWB09AB, BWL11ABANA, BWJ09ABANA, BWJ09ABBNA, BWL11ABBNA, BWS09ABBNA, BWS09ABANA, BWS11ABANA, BWS11ABBNA, CWG11AB, CWH14ABBNA, CWH14ABANA, BWB11ABANA, BWB11ABBNA, BWC08A, BWC09AB, BWL09BBANA, BWL09BBBNA, CWC10AB, CWK11AB",
+            "model": "BWH09B, BWT09B, BWH09BB, BWT09BB, BWX09B, CWC22B, BWC06A, CWL10A, CWL08C, BWF22A, BWQ24A, BWF09A, BWL09ABANA, BWL07A, BWL09A, BWQ22B, BWM08A, BWB22B, BWB22A, BWF08A, BWF24A, BWM06A, BWL11AR, BWM08AB, CWE06A, CWE06B, CWC24A, CWL08A, CWL08B, BWC10BB, CWL10B, CWL75A, BWT09A, BWH09A, BWF08B, BWH08B, BWQ06A, BWQ07A, BWQ22D, BWQ24B, BWQ22C, BWT08A, BWT08C, BWT09AB, BWX09A, BWC10A, BWG10A, BWC07A, BWH15ABBNA, BWH15ABANA, BWK15ABANA, BWK15ABBNA, BWN15ATBNA, BWN15AKANA, BWN15AKBNA, BWN15ATANA, BWS15ABANA, BWS15ABBNA, CWE15ABANA, CWE15ABBNA, CWL16ABBNA, CWL16ABANA, BWC11AB, BWG11ABANA, BWH11AB, BWG11ABBNA, BWG11ARANA, BWG11ARBNA, BWG12AB, BWH12ABANA, BWH12ABBNA, BWP11A9, BWQ12ABANA, BWQ12ABBNA, BWT12ABANA, BWU11AE, CWC08ABBNA, BWT12ABBNA, BWU11AB, CWC08ABANA, CWE08ABBNA, CWE10ABANA, CWE08ABANA, CWE09AB, CWE10ABBNA, CWE11ABANA, CWE11ABBNA, CWG12ABANA, CWG12ABBNA, CWK12ABANA, CWK12ABBNA, BWK11ABANA, BWK11ABBNA, BWB08A, BWJ11ABANA, BWJ11ABBNA, BWB08AB, BWB09AB, BWL11ABANA, BWJ09ABANA, BWJ09ABBNA, BWL11ABBNA, BWS09ABBNA, BWS09ABANA, BWS11ABANA, BWS11ABBNA, CWG11AB, CWH14ABBNA, CWH14ABANA, BWB11ABANA, BWB11ABBNA, BWC08A, BWC09AB, BWL09BBANA, BWL09BBBNA, CWC10AB, CWK11AB, CWH12BBBNA, CWB09BBBNA",
             "version": "",
             "quantaty": 0,
             "title": "retentor consul, retentor brastemp"
@@ -1602,17 +1592,17 @@
             "code": "W10897149",
             "brand": "Brastemp/Consul",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "BWH09B, BWT09B, BWH09BB, BWT09BB, BWX09B, CWC22B, BWC06A, CWL10A, CWL08C, BWF22A, BWQ24A, BWF09A, BWL09ABANA, BWL07A, BWL09A, BWQ22B, BWM08A, BWB22B, BWB22A, BWF08A, BWF24A, BWM06A, BWL11AR, BWM08AB, CWE06A, CWE06B, CWC24A, CWL08A, CWL08B, BWC10BB, CWL10B, CWL75A, BWT09A, BWH09A, BWF08B, BWH08B, BWQ06A, BWQ07A, BWQ22D, BWQ24B, BWQ22C, BWT08A, BWT08C, BWT09AB, BWX09A, BWC10A, BWG10A, BWC07A, BWH15ABBNA, BWH15ABANA, BWK15ABANA, BWK15ABBNA, BWN15ATBNA, BWN15AKANA, BWN15AKBNA, BWN15ATANA, BWS15ABANA, BWS15ABBNA, CWE15ABANA, CWE15ABBNA, CWL16ABBNA, CWL16ABANA, BWC11AB, BWG11ABANA, BWH11AB, BWG11ABBNA, BWG11ARANA, BWG11ARBNA, BWG12AB, BWH12ABANA, BWH12ABBNA, BWP11A9, BWQ12ABANA, BWQ12ABBNA, BWT12ABANA, BWU11AE, CWC08ABBNA, BWT12ABBNA, BWU11AB, CWC08ABANA, CWE08ABBNA, CWE10ABANA, CWE08ABANA, CWE09AB, CWE10ABBNA, CWE11ABANA, CWE11ABBNA, CWG12ABANA, CWG12ABBNA, CWK12ABANA, CWK12ABBNA, BWK11ABANA, BWK11ABBNA, BWB08A, BWJ11ABANA, BWJ11ABBNA, BWB08AB, BWB09AB, BWL11ABANA, BWJ09ABANA, BWJ09ABBNA, BWL11ABBNA, BWS09ABBNA, BWS09ABANA, BWS11ABANA, BWS11ABBNA, CWG11AB, CWH14ABBNA, CWH14ABANA, BWB11ABANA, BWB11ABBNA, BWC08A, BWC09AB, BWL09BBANA, BWL09BBBNA, CWC10AB, CWK11AB",
+            "model": "BWH09B, BWT09B, BWH09BB, BWT09BB, BWX09B, CWC22B, BWC06A, CWL10A, CWL08C, BWF22A, BWQ24A, BWF09A, BWL09ABANA, BWL07A, BWL09A, BWQ22B, BWM08A, BWB22B, BWB22A, BWF08A, BWF24A, BWM06A, BWL11AR, BWM08AB, CWE06A, CWE06B, CWC24A, CWL08A, CWL08B, BWC10BB, CWL10B, CWL75A, BWT09A, BWH09A, BWF08B, BWH08B, BWQ06A, BWQ07A, BWQ22D, BWQ24B, BWQ22C, BWT08A, BWT08C, BWT09AB, BWX09A, BWC10A, BWG10A, BWC07A, BWH15ABBNA, BWH15ABANA, BWK15ABANA, BWK15ABBNA, BWN15ATBNA, BWN15AKANA, BWN15AKBNA, BWN15ATANA, BWS15ABANA, BWS15ABBNA, CWE15ABANA, CWE15ABBNA, CWL16ABBNA, CWL16ABANA, BWC11AB, BWG11ABANA, BWH11AB, BWG11ABBNA, BWG11ARANA, BWG11ARBNA, BWG12AB, BWH12ABANA, BWH12ABBNA, BWP11A9, BWQ12ABANA, BWQ12ABBNA, BWT12ABANA, BWU11AE, CWC08ABBNA, BWT12ABBNA, BWU11AB, CWC08ABANA, CWE08ABBNA, CWE10ABANA, CWE08ABANA, CWE09AB, CWE10ABBNA, CWE11ABANA, CWE11ABBNA, CWG12ABANA, CWG12ABBNA, CWK12ABANA, CWK12ABBNA, BWK11ABANA, BWK11ABBNA, BWB08A, BWJ11ABANA, BWJ11ABBNA, BWB08AB, BWB09AB, BWL11ABANA, BWJ09ABANA, BWJ09ABBNA, BWL11ABBNA, BWS09ABBNA, BWS09ABANA, BWS11ABANA, BWS11ABBNA, CWG11AB, CWH14ABBNA, CWH14ABANA, BWB11ABANA, BWB11ABBNA, BWC08A, BWC09AB, BWL09BBANA, BWL09BBBNA, CWC10AB, CWK11AB, CWH12BBBNA, CWB09BBBNA",
             "version": "",
             "quantaty": 0,
             "title": ""
         },
         {
-            "name": "Kit Came",
-            "code": "W10509511",
+            "name": "Kit Came (Nova Versão)",
+            "code": "W11551361",
             "brand": "Brastemp/Consul",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "BWB08A, BWB08AB, BWB09AB, BWB11ABANA, BWB11ABBNA, BWB22A, BWB22B, BWC06A, BWC07A, BWC08A, BWC09AB, BWC10A, BWC10BB, BWC11AB, BWD15A9ANA, BWD15A9BNA, BWD15ABANA, BWD15ABBNA, BWF08A, BWF08B, BWF09A, BWF22A, BWF24A, BWG10A, BWG11ABANA, BWG11ABBNA, BWG11ARANA, BWG11ARBNA, BWG12AB, BWH08B, BWH09A, BWH09B, BWH09BB, BWH11AB, BWH12ABANA, BWH12ABBNA, BWH15ABANA, BWH15ABBNA, BWJ09ABANA, BWJ09ABBNA, BWJ11ABANA, BWJ11ABBNA, BWK11ABANA, BWK11ABBNA, BWK12A9ANA, BWK12A9BNA, BWK12ABANA, BWK12ABBNA, BWK14ABANA, BWK14ABBNA, BWK15ABANA, BWK15ABBNA, BWL07A, BWL09A, BWL09ABANA, BWL09BBANA, BWL09BBBNA, BWL11ABANA, BWL11ABBNA, BWL11AR, BWM06A, BWM08A, BWM08AB, BWN15AKANA, BWN15AKBNA, BWN15ATANA, BWN15ATBNA, BWP11A9, BWQ06A, BWQ07A, BWQ12ABANA, BWQ12ABBNA, BWQ22A, BWQ22B, BWQ22C, BWQ22D, BWQ24A, BWQ24B, BWR12A9ANA, BWR12A9BNA, BWR12ABANA, BWR12ABBNA, BWR22A, BWR22B, BWR22C, BWS09ABANA, BWS09ABBNA, BWS11ABANA, BWS11ABBNA, BWS15ABANA, BWS15ABBNA, BWT08A, BWT08C, BWT09A, BWT09AB, BWT09B, BWT09BB, BWT12ABANA, BWT12ABBNA, BWU11AB, BWU11AE, BWX09A, BWX09B, CWB08ABANA, CWB08ABBNA, CWB09ABANA, CWB09ABBNA, CWC08ABANA, CWC08ABBNA, CWC10AB, CWC22A, CWC22B, CWC24A, CWE06A, CWE06B, CWE08ABANA, CWE08ABBNA, CWE09AB, CWE10ABANA, CWE10ABBNA, CWE11ABANA, CWE11ABBNA, CWE13ABANA, CWE13ABBNA, CWE15ABANA, CWE15ABBNA, CWG11AB, CWG12ABANA, CWG12ABBNA, CWH11ABANA, CWH11ABBNA, CWH12ABANA, CWH12ABBNA, CWH14ABANA, CWH14ABBNA, CWK11AB, CWK12ABANA, CWK12ABBNA, CWL08A, CWL08B, CWL08C, CWL10A, CWL10B, CWL16ABANA, CWL16ABBNA, CWL75A, CWS11ABANA, CWS11ABBNA, CWS12ABANA, CWS12ABBNA",
+            "model": "BWB08A, BWB08AB, BWB09AB, BWB11ABANA, BWB11ABBNA, BWB22A, BWB22B, BWC06A, BWC07A, BWC08A, BWC09AB, BWC10A, BWC10BB, BWC11AB, BWD15A9ANA, BWD15A9BNA, BWD15ABANA, BWD15ABBNA, BWF08A, BWF08B, BWF09A, BWF22A, BWF24A, BWG10A, BWG11ABANA, BWG11ABBNA, BWG11ARANA, BWG11ARBNA, BWG12AB, BWH08B, BWH09A, BWH09B, BWH09BB, BWH11AB, BWH12ABANA, BWH12ABBNA, BWH15ABANA, BWH15ABBNA, BWJ09ABANA, BWJ09ABBNA, BWJ11ABANA, BWJ11ABBNA, BWK11ABANA, BWK11ABBNA, BWK12A9ANA, BWK12A9BNA, BWK12ABANA, BWK12ABBNA, BWK14ABANA, BWK14ABBNA, BWK15ABANA, BWK15ABBNA, BWL07A, BWL09A, BWL09ABANA, BWL09BBANA, BWL09BBBNA, BWL11ABANA, BWL11ABBNA, BWL11AR, BWM06A, BWM08A, BWM08AB, BWN15AKANA, BWN15AKBNA, BWN15ATANA, BWN15ATBNA, BWP11A9, BWQ06A, BWQ07A, BWQ12ABANA, BWQ12ABBNA, BWQ22A, BWQ22B, BWQ22C, BWQ22D, BWQ24A, BWQ24B, BWR12A9ANA, BWR12A9BNA, BWR12ABANA, BWR12ABBNA, BWR22A, BWR22B, BWR22C, BWS09ABANA, BWS09ABBNA, BWS11ABANA, BWS11ABBNA, BWS15ABANA, BWS15ABBNA, BWT08A, BWT08C, BWT09A, BWT09AB, BWT09B, BWT09BB, BWT12ABANA, BWT12ABBNA, BWU11AB, BWU11AE, BWX09A, BWX09B, CWB08ABANA, CWB08ABBNA, CWB09ABANA, CWB09ABBNA, CWC08ABANA, CWC08ABBNA, CWC10AB, CWC22A, CWC22B, CWC24A, CWE06A, CWE06B, CWE08ABANA, CWE08ABBNA, CWE09AB, CWE10ABANA, CWE10ABBNA, CWE11ABANA, CWE11ABBNA, CWE13ABANA, CWE13ABBNA, CWE15ABANA, CWE15ABBNA, CWG11AB, CWG12ABANA, CWG12ABBNA, CWH11ABANA, CWH11ABBNA, CWH12ABANA, CWH12ABBNA, CWH14ABANA, CWH14ABBNA, CWK11AB, CWK12ABANA, CWK12ABBNA, CWL08A, CWL08B, CWL08C, CWL10A, CWL10B, CWL16ABANA, CWL16ABBNA, CWL75A, CWS11ABANA, CWS11ABBNA, CWS12ABANA, CWS12ABBNA, CWH12BBBNA, CWB09BBBNA",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -1632,7 +1622,7 @@
             "code": "W10754676",
             "brand": "Brastemp/Consul",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "BLL22EDB, BLL22MGB, BLL22MGD, BWB08A, BWB08AB, BWB09AB, BWB11ABANA, BWB11ABBNA, BWB22A, BWB22B, BWC06A, BWC07A, BWC08A, BWC09AB, BWC10A, BWC10BB, BWC11AB, BWF08A, BWF08B, BWF09A, BWF22A, BWF24A, BWG10A, BWG11ABANA, BWG11ABBNA, BWG11ARANA, BWG11ARBNA, BWG12AB, BWH08B, BWH09A, BWH09B, BWH09BB, BWH11AB, BWH12ABANA, BWH12ABBNA, BWJ09ABANA, BWJ09ABBNA, BWJ11ABANA, BWJ11ABBNA, BWK11ABANA, BWK11ABBNA, BWK12A9ANA, BWK12A9BNA, BWK12ABANA, BWK12ABBNA, BWK14ABANA, BWK14ABBNA, BWL07A, BWL09A, BWL09ABANA, BWL09BBANA, BWL09BBBNA, BWL11ABANA, BWL11ABBNA, BWL11AR, BWM06A, BWM08A, BWM08AB, BWP11A9, BWQ06A, BWQ07A, BWQ12ABANA, BWQ12ABBNA, BWQ22A, BWQ22B, BWQ22C, BWQ22D, BWQ24A, BWQ24B, BWR12A9ANA, BWR12A9BNA, BWR12ABANA, BWR12ABBNA, BWR22A, BWR22B, BWR22C, BWS09ABANA, BWS09ABBNA, BWS11ABANA, BWS11ABBNA, BWT08A, BWT08C, BWT09A, BWT09AB, BWT09B, BWT09BB, BWT12ABANA, BWT12ABBNA, BWU11AB, BWU11AE, BWX09A, BWX09B, CWB08ABANA, CWB08ABBNA, CWB09ABANA, CWB09ABBNA, CWC08ABANA, CWC08ABBNA, CWC10AB, CWC22A, CWC22B, CWC24A, CWE06A, CWE06B, CWE08ABANA, CWE08ABBNA, CWE09AB, CWE10ABANA, CWE10ABBNA, CWE11ABANA, CWE11ABBNA, CWG11AB, CWG12ABANA, CWG12ABBNA, CWH11ABANA, CWH11ABBNA, CWH11BBANA, CWH11BBBNA, CWH12ABANA, CWH12ABBNA, CWH14ABANA, CWH14ABBNA, CWI07A, CWK11AB, CWK12ABANA, CWK12ABBNA, CWL08A, CWL08B, CWL08C, CWL10A, CWL10B, CWL75A, CWS11ABANA, CWS11ABBNA, CWS12ABANA, CWS12ABBNA, XWH08A",
+            "model": "BLL22EDB, BLL22MGB, BLL22MGD, BWB08A, BWB08AB, BWB09AB, BWB11ABANA, BWB11ABBNA, BWB22A, BWB22B, BWC06A, BWC07A, BWC08A, BWC09AB, BWC10A, BWC10BB, BWC11AB, BWF08A, BWF08B, BWF09A, BWF22A, BWF24A, BWG10A, BWG11ABANA, BWG11ABBNA, BWG11ARANA, BWG11ARBNA, BWG12AB, BWH08B, BWH09A, BWH09B, BWH09BB, BWH11AB, BWH12ABANA, BWH12ABBNA, BWJ09ABANA, BWJ09ABBNA, BWJ11ABANA, BWJ11ABBNA, BWK11ABANA, BWK11ABBNA, BWK12A9ANA, BWK12A9BNA, BWK12ABANA, BWK12ABBNA, BWK14ABANA, BWK14ABBNA, BWL07A, BWL09A, BWL09ABANA, BWL09BBANA, BWL09BBBNA, BWL11ABANA, BWL11ABBNA, BWL11AR, BWM06A, BWM08A, BWM08AB, BWP11A9, BWQ06A, BWQ07A, BWQ12ABANA, BWQ12ABBNA, BWQ22A, BWQ22B, BWQ22C, BWQ22D, BWQ24A, BWQ24B, BWR12A9ANA, BWR12A9BNA, BWR12ABANA, BWR12ABBNA, BWR22A, BWR22B, BWR22C, BWS09ABANA, BWS09ABBNA, BWS11ABANA, BWS11ABBNA, BWT08A, BWT08C, BWT09A, BWT09AB, BWT09B, BWT09BB, BWT12ABANA, BWT12ABBNA, BWU11AB, BWU11AE, BWX09A, BWX09B, CWB08ABANA, CWB08ABBNA, CWB09ABANA, CWB09ABBNA, CWC08ABANA, CWC08ABBNA, CWC10AB, CWC22A, CWC22B, CWC24A, CWE06A, CWE06B, CWE08ABANA, CWE08ABBNA, CWE09AB, CWE10ABANA, CWE10ABBNA, CWE11ABANA, CWE11ABBNA, CWG11AB, CWG12ABANA, CWG12ABBNA, CWH11ABANA, CWH11ABBNA, CWH11BBANA, CWH11BBBNA, CWH12ABANA, CWH12ABBNA, CWH14ABANA, CWH14ABBNA, CWI07A, CWK11AB, CWK12ABANA, CWK12ABBNA, CWL08A, CWL08B, CWL08C, CWL10A, CWL10B, CWL75A, CWS11ABANA, CWS11ABBNA, CWS12ABANA, CWS12ABBNA, XWH08A, CWH12BBBNA, CWB09BBBNA",
             "version": "",
             "quantaty": 0,
             "title": "suporte cesto"
@@ -1672,7 +1662,7 @@
             "code": "W10779052",
             "brand": "Brastemp/Consul",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "BWB08A, BWB08AB, BWB09AB, BWB11ABANA, BWB11ABBNA, BWB22A, BWB22B, BWC06A, BWC07A, BWC08A, BWC09AB, BWC10A, BWC10BB, BWC11AB, BWD15A9ANA, BWD15A9BNA, BWD15ABANA, BWD15ABBNA, BWF08A, BWF08B, BWF09A, BWF22A, BWF24A, BWG10A, BWG11ABANA, BWG11ABBNA, BWG11ARANA, BWG11ARBNA, BWG12AB, BWH08B, BWH09A, BWH09B, BWH09BB, BWH11AB, BWH12ABANA, BWH12ABBNA, BWH15ABANA, BWH15ABBNA, BWJ09ABANA, BWJ09ABBNA, BWJ11ABANA, BWJ11ABBNA, BWK11ABANA, BWK11ABBNA, BWK12A9ANA, BWK12A9BNA, BWK12ABANA, BWK12ABBNA, BWK14ABANA, BWK14ABBNA, BWK15ABANA, BWK15ABBNA, BWL07A, BWL09A, BWL09ABANA, BWL09BBANA, BWL09BBBNA, BWL11ABANA, BWL11ABBNA, BWL11AR, BWM06A, BWM08A, BWM08AB, BWN15AKANA, BWN15AKBNA, BWN15ATANA, BWN15ATBNA, BWP11A9, BWQ06A, BWQ07A, BWQ12ABANA, BWQ12ABBNA, BWQ22A, BWQ22B, BWQ22C, BWQ22D, BWQ24A, BWR12A9ANA, BWR12A9BNA, BWR12ABANA, BWR12ABBNA, BWR22A, BWR22B, BWR22C, BWS09ABANA, BWS09ABBNA, BWS11ABANA, BWS11ABBNA, BWS15ABANA, BWS15ABBNA, BWT08A, BWT08C, BWT09A, BWT09AB, BWT09B, BWT09BB, BWT12ABANA, BWT12ABBNA, BWU11AB, BWU11AE, BWX09A, BWX09B, CWB08ABANA, CWB08ABBNA, CWB09ABANA, CWB09ABBNA, CWC08ABANA, CWC08ABBNA, CWC10AB, CWC22A, CWC22B, CWC24A, CWE06A, CWE06B, CWE08ABANA, CWE08ABBNA, CWE09AB, CWE10ABANA, CWE10ABBNA, CWE11ABANA, CWE11ABBNA, CWE13ABANA, CWE13ABBNA, CWE15ABANA, CWE15ABBNA, CWG11AB, CWG12ABANA, CWG12ABBNA, CWH11ABANA, CWH11ABBNA, CWH11BBANA, CWH11BBBNA, CWH12ABANA, CWH12ABBNA, CWH14ABANA, CWH14ABBNA, CWI05A, CWI06A, CWI06B, CWI07A, CWI21ABANA, CWI21ABBNA, CWK11AB, CWK12ABANA, CWK12ABBNA, CWL08A, CWL08B, CWL08C, CWL10A, CWL10B, CWL16ABANA, CWL16ABBNA, CWL75A, CWS07A, CWS11ABANA, CWS11ABBNA, CWS12ABANA, CWS12ABBNA",
+            "model": "BWB08A, BWB08AB, BWB09AB, BWB11ABANA, BWB11ABBNA, BWB22A, BWB22B, BWC06A, BWC07A, BWC08A, BWC09AB, BWC10A, BWC10BB, BWC11AB, BWD15A9ANA, BWD15A9BNA, BWD15ABANA, BWD15ABBNA, BWF08A, BWF08B, BWF09A, BWF22A, BWF24A, BWG10A, BWG11ABANA, BWG11ABBNA, BWG11ARANA, BWG11ARBNA, BWG12AB, BWH08B, BWH09A, BWH09B, BWH09BB, BWH11AB, BWH12ABANA, BWH12ABBNA, BWH15ABANA, BWH15ABBNA, BWJ09ABANA, BWJ09ABBNA, BWJ11ABANA, BWJ11ABBNA, BWK11ABANA, BWK11ABBNA, BWK12A9ANA, BWK12A9BNA, BWK12ABANA, BWK12ABBNA, BWK14ABANA, BWK14ABBNA, BWK15ABANA, BWK15ABBNA, BWL07A, BWL09A, BWL09ABANA, BWL09BBANA, BWL09BBBNA, BWL11ABANA, BWL11ABBNA, BWL11AR, BWM06A, BWM08A, BWM08AB, BWN15AKANA, BWN15AKBNA, BWN15ATANA, BWN15ATBNA, BWP11A9, BWQ06A, BWQ07A, BWQ12ABANA, BWQ12ABBNA, BWQ22A, BWQ22B, BWQ22C, BWQ22D, BWQ24A, BWR12A9ANA, BWR12A9BNA, BWR12ABANA, BWR12ABBNA, BWR22A, BWR22B, BWR22C, BWS09ABANA, BWS09ABBNA, BWS11ABANA, BWS11ABBNA, BWS15ABANA, BWS15ABBNA, BWT08A, BWT08C, BWT09A, BWT09AB, BWT09B, BWT09BB, BWT12ABANA, BWT12ABBNA, BWU11AB, BWU11AE, BWX09A, BWX09B, CWB08ABANA, CWB08ABBNA, CWB09ABANA, CWB09ABBNA, CWC08ABANA, CWC08ABBNA, CWC10AB, CWC22A, CWC22B, CWC24A, CWE06A, CWE06B, CWE08ABANA, CWE08ABBNA, CWE09AB, CWE10ABANA, CWE10ABBNA, CWE11ABANA, CWE11ABBNA, CWE13ABANA, CWE13ABBNA, CWE15ABANA, CWE15ABBNA, CWG11AB, CWG12ABANA, CWG12ABBNA, CWH11ABANA, CWH11ABBNA, CWH11BBANA, CWH11BBBNA, CWH12ABANA, CWH12ABBNA, CWH14ABANA, CWH14ABBNA, CWI05A, CWI06A, CWI06B, CWI07A, CWI21ABANA, CWI21ABBNA, CWK11AB, CWK12ABANA, CWK12ABBNA, CWL08A, CWL08B, CWL08C, CWL10A, CWL10B, CWL16ABANA, CWL16ABBNA, CWL75A, CWS07A, CWS11ABANA, CWS11ABBNA, CWS12ABANA, CWS12ABBNA, CWH12BBBNA, CWB09BBBNA",
             "version": "",
             "quantaty": 0,
             "title": "MANGUEIRA PRESSOSTATO"
@@ -1682,7 +1672,7 @@
             "code": "W10554242",
             "brand": "Brastemp/Consul",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "BWB08AB, BWB09AB, BWB11ABANA, BWB11ABBNA, BWB22A, BWB22B, BWC06A, BWC07A, BWC08A, BWC09AB, BWC10A, BWC10BB, BWC11AB, BWD15A9ANA, BWD15A9BNA, BWD15ABANA, BWD15ABBNA, BWF08A, BWF08B, BWF09A, BWF22A, BWF24A, BWG10A, BWG11ABANA, BWG11ABBNA, BWG11ARANA, BWG11ARBNA, BWG12AB, BWH08B, BWH09A, BWH09BB, BWH11AB, BWH12ABANA, BWH12ABBNA, BWH15ABANA, BWH15ABBNA, BWJ09ABANA, BWJ09ABBNA, BWJ11ABANA, BWJ11ABBNA, BWK11ABANA, BWK11ABBNA, BWK12A9ANA, BWK12A9BNA, BWK12ABANA, BWK12ABBNA, BWK14ABANA, BWK14ABBNA, BWK15ABANA, BWK15ABBNA, BWL07A, BWL09A, BWL09ABANA, BWL09BBANA, BWL09BBBNA, BWL11ABANA, BWL11ABBNA, BWL11AR, BWM06A, BWM08AB, BWN15AKANA, BWN15AKBNA, BWN15ATANA, BWN15ATBNA, BWP11A9, BWQ06A, BWQ07A, BWQ12ABANA, BWQ12ABBNA, BWQ22A, BWQ22B, BWQ22C, BWQ22D, BWQ24A, BWQ24B, BWR12A9ANA, BWR12A9BNA, BWR12ABANA, BWR12ABBNA, BWR22A, BWR22B, BWR22C, BWS09ABANA, BWS09ABBNA, BWS11ABANA, BWS11ABBNA, BWS15ABANA, BWS15ABBNA, BWT08A, BWT08C, BWT09AB, BWT09BB, BWT12ABANA, BWT12ABBNA, BWU11AB, BWU11AE, BWX09A, BWX09B, CWB08ABANA, CWB08ABBNA, CWB09ABANA, CWB09ABBNA, CWC08ABANA, CWC08ABBNA, CWC10AB, CWC22A, CWC22B, CWC24A, CWE06A, CWE06B, CWE08ABANA, CWE08ABBNA, CWE09AB, CWE10ABANA, CWE10ABBNA, CWE11ABANA, CWE11ABBNA, CWE13ABANA, CWE13ABBNA, CWE15ABANA, CWE15ABBNA, CWG11AB, CWG12ABANA, CWG12ABBNA, CWH11ABANA, CWH11ABBNA, CWH11BBANA, CWH11BBBNA, CWH12ABANA, CWH12ABBNA, CWH14ABANA, CWH14ABBNA, CWI06B, CWI07A, CWI21ABANA, CWI21ABBNA, CWK11AB, CWK12ABANA, CWK12ABBNA, CWL08A, CWL08B, CWL08C, CWL10A, CWL10B, CWL16ABANA, CWL16ABBNA, CWL75A, CWS11ABANA, CWS11ABBNA, CWS12ABANA, CWS12ABBNA",
+            "model": "BWB08AB, BWB09AB, BWB11ABANA, BWB11ABBNA, BWB22A, BWB22B, BWC06A, BWC07A, BWC08A, BWC09AB, BWC10A, BWC10BB, BWC11AB, BWD15A9ANA, BWD15A9BNA, BWD15ABANA, BWD15ABBNA, BWF08A, BWF08B, BWF09A, BWF22A, BWF24A, BWG10A, BWG11ABANA, BWG11ABBNA, BWG11ARANA, BWG11ARBNA, BWG12AB, BWH08B, BWH09A, BWH09BB, BWH11AB, BWH12ABANA, BWH12ABBNA, BWH15ABANA, BWH15ABBNA, BWJ09ABANA, BWJ09ABBNA, BWJ11ABANA, BWJ11ABBNA, BWK11ABANA, BWK11ABBNA, BWK12A9ANA, BWK12A9BNA, BWK12ABANA, BWK12ABBNA, BWK14ABANA, BWK14ABBNA, BWK15ABANA, BWK15ABBNA, BWL07A, BWL09A, BWL09ABANA, BWL09BBANA, BWL09BBBNA, BWL11ABANA, BWL11ABBNA, BWL11AR, BWM06A, BWM08AB, BWN15AKANA, BWN15AKBNA, BWN15ATANA, BWN15ATBNA, BWP11A9, BWQ06A, BWQ07A, BWQ12ABANA, BWQ12ABBNA, BWQ22A, BWQ22B, BWQ22C, BWQ22D, BWQ24A, BWQ24B, BWR12A9ANA, BWR12A9BNA, BWR12ABANA, BWR12ABBNA, BWR22A, BWR22B, BWR22C, BWS09ABANA, BWS09ABBNA, BWS11ABANA, BWS11ABBNA, BWS15ABANA, BWS15ABBNA, BWT08A, BWT08C, BWT09AB, BWT09BB, BWT12ABANA, BWT12ABBNA, BWU11AB, BWU11AE, BWX09A, BWX09B, CWB08ABANA, CWB08ABBNA, CWB09ABANA, CWB09ABBNA, CWC08ABANA, CWC08ABBNA, CWC10AB, CWC22A, CWC22B, CWC24A, CWE06A, CWE06B, CWE08ABANA, CWE08ABBNA, CWE09AB, CWE10ABANA, CWE10ABBNA, CWE11ABANA, CWE11ABBNA, CWE13ABANA, CWE13ABBNA, CWE15ABANA, CWE15ABBNA, CWG11AB, CWG12ABANA, CWG12ABBNA, CWH11ABANA, CWH11ABBNA, CWH11BBANA, CWH11BBBNA, CWH12ABANA, CWH12ABBNA, CWH14ABANA, CWH14ABBNA, CWI06B, CWI07A, CWI21ABANA, CWI21ABBNA, CWK11AB, CWK12ABANA, CWK12ABBNA, CWL08A, CWL08B, CWL08C, CWL10A, CWL10B, CWL16ABANA, CWL16ABBNA, CWL75A, CWS11ABANA, CWS11ABBNA, CWS12ABANA, CWS12ABBNA, CWH12BBBNA, CWB09BBBNA",
             "version": "",
             "quantaty": 0,
             "title": "mangueira entrada"
@@ -1692,7 +1682,7 @@
             "code": "326031817",
             "brand": "Brastemp/Consul",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "BWB08A, BWB08AB, BWB09AB, BWB11ABANA, BWB11ABBNA, BWB22B, BWC06A, BWC07A, BWC08A, BWC09AB, BWC10A, BWC10BB, BWC11AB, BWF08A, BWF08B, BWF09A, BWG10A, BWG11ABANA, BWG11ABBNA, BWG11ARANA, BWG11ARBNA, BWG12AB, BWH08B, BWH09A, BWH09B, BWH09BB, BWH11AB, BWH12ABANA, BWH12ABBNA, BWH15ABANA, BWH15ABBNA, BWJ09ABANA, BWJ09ABBNA, BWJ11ABANA, BWJ11ABBNA, BWK11ABANA, BWK11ABBNA, BWK12A9ANA, BWK12A9BNA, BWK12ABANA, BWK12ABBNA, BWK14ABANA, BWK14ABBNA, BWK15ABANA, BWK15ABBNA, BWL07A, BWL09A, BWL09ABANA, BWL09BBANA, BWL09BBBNA, BWL11ABANA, BWL11ABBNA, BWL11AR, BWM06A, BWM08A, BWM08AB, BWN15AKANA, BWN15AKBNA, BWN15ATANA, BWN15ATBNA, BWP11A9, BWQ06A, BWQ07A, BWQ12ABANA, BWQ12ABBNA, BWR12A9ANA, BWR12A9BNA, BWR12ABANA, BWR12ABBNA, BWS09ABANA, BWS09ABBNA, BWS11ABANA, BWS11ABBNA, BWS15ABANA, BWS15ABBNA, BWT08A, BWT08C, BWT09A, BWT09AB, BWT09B, BWT09BB, BWT12ABANA, BWT12ABBNA, BWU11AB, BWU11AE, BWX09A, BWX09B, CWB08ABANA, CWB08ABBNA, CWB09ABANA, CWB09ABBNA, CWC08ABANA, CWC08ABBNA, CWC10AB, CWC22B, CWC24A, CWE06A, CWE06B, CWE08ABANA, CWE08ABBNA, CWE09AB, CWE10ABANA, CWE10ABBNA, CWE11ABANA, CWE11ABBNA, CWE13ABANA, CWE13ABBNA, CWE15ABANA, CWE15ABBNA, CWG11AB, CWG12ABANA, CWG12ABBNA, CWH11ABANA, CWH11ABBNA, CWH11BBANA, CWH11BBBNA, CWH12ABANA, CWH12ABBNA, CWH14ABANA, CWH14ABBNA, CWK11AB, CWK12ABANA, CWK12ABBNA, CWL08A, CWL08B, CWL08C, CWL10A, CWL10B, CWL16ABANA, CWL16ABBNA, CWL75A, CWS11ABANA, CWS11ABBNA, CWS12ABANA, CWS12ABBNA",
+            "model": "BWB08A, BWB08AB, BWB09AB, BWB11ABANA, BWB11ABBNA, BWB22B, BWC06A, BWC07A, BWC08A, BWC09AB, BWC10A, BWC10BB, BWC11AB, BWF08A, BWF08B, BWF09A, BWG10A, BWG11ABANA, BWG11ABBNA, BWG11ARANA, BWG11ARBNA, BWG12AB, BWH08B, BWH09A, BWH09B, BWH09BB, BWH11AB, BWH12ABANA, BWH12ABBNA, BWH15ABANA, BWH15ABBNA, BWJ09ABANA, BWJ09ABBNA, BWJ11ABANA, BWJ11ABBNA, BWK11ABANA, BWK11ABBNA, BWK12A9ANA, BWK12A9BNA, BWK12ABANA, BWK12ABBNA, BWK14ABANA, BWK14ABBNA, BWK15ABANA, BWK15ABBNA, BWL07A, BWL09A, BWL09ABANA, BWL09BBANA, BWL09BBBNA, BWL11ABANA, BWL11ABBNA, BWL11AR, BWM06A, BWM08A, BWM08AB, BWN15AKANA, BWN15AKBNA, BWN15ATANA, BWN15ATBNA, BWP11A9, BWQ06A, BWQ07A, BWQ12ABANA, BWQ12ABBNA, BWR12A9ANA, BWR12A9BNA, BWR12ABANA, BWR12ABBNA, BWS09ABANA, BWS09ABBNA, BWS11ABANA, BWS11ABBNA, BWS15ABANA, BWS15ABBNA, BWT08A, BWT08C, BWT09A, BWT09AB, BWT09B, BWT09BB, BWT12ABANA, BWT12ABBNA, BWU11AB, BWU11AE, BWX09A, BWX09B, CWB08ABANA, CWB08ABBNA, CWB09ABANA, CWB09ABBNA, CWC08ABANA, CWC08ABBNA, CWC10AB, CWC22B, CWC24A, CWE06A, CWE06B, CWE08ABANA, CWE08ABBNA, CWE09AB, CWE10ABANA, CWE10ABBNA, CWE11ABANA, CWE11ABBNA, CWE13ABANA, CWE13ABBNA, CWE15ABANA, CWE15ABBNA, CWG11AB, CWG12ABANA, CWG12ABBNA, CWH11ABANA, CWH11ABBNA, CWH11BBANA, CWH11BBBNA, CWH12ABANA, CWH12ABBNA, CWH14ABANA, CWH14ABBNA, CWK11AB, CWK12ABANA, CWK12ABBNA, CWL08A, CWL08B, CWL08C, CWL10A, CWL10B, CWL16ABANA, CWL16ABBNA, CWL75A, CWS11ABANA, CWS11ABBNA, CWS12ABANA, CWS12ABBNA, CWH12BBBNA, CWB09BBBNA",
             "version": "",
             "quantaty": 0,
             "title": "mangueira drenagem, mangueira de saída, mangueira de saida, mangueira saída, mangueira saida"
@@ -1702,7 +1692,17 @@
             "code": "326000516",
             "brand": "Brastemp/Consul",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "BWB11ABANA, BWB11ABBNA, BWC10A, BWC10BB, BWC11AB, BWF08A, BWF08B, BWF09A, BWF24A, BWG10A, BWG11ABANA, BWG11ABBNA, BWG11ARANA, BWG11ARBNA, BWG12AB, BWH08B, BWH09A, BWH09B, BWH09BB, BWH11AB, BWH12ABANA, BWH12ABBNA, BWJ11ABANA, BWJ11ABBNA, BWK11ABANA, BWK11ABBNA, BWK12A9ANA, BWK12A9BNA, BWK12ABANA, BWK12ABBNA, BWL11ABANA, BWL11ABBNA, BWL11AR, BWM08A, BWM08AB, BWP11A9, BWQ07A, BWQ12ABANA, BWQ12ABBNA, BWQ24A, BWQ24B, BWR12A9ANA, BWR12A9BNA, BWR12ABANA, BWR12ABBNA, BWS11ABANA, BWS11ABBNA, BWT08A, BWT08C, BWT09A, BWT09AB, BWT09B, BWT09BB, BWT12ABANA, BWT12ABBNA, BWU11AB, BWU11AE, BWX09A, BWX09B, CWB08ABANA, CWB08ABBNA, CWB09ABANA, CWB09ABBNA, CWC08ABANA, CWC08ABBNA, CWC10AB, CWC24A, CWE08ABANA, CWE08ABBNA, CWE09AB, CWE10ABANA, CWE10ABBNA, CWE11ABANA, CWE11ABBNA, CWG11AB, CWG12ABANA, CWG12ABBNA, CWH12ABANA, CWH12ABBNA, CWK11AB, CWK12ABANA, CWK12ABBNA, CWL08A, CWL08B, CWL08C, CWL10A, CWL10B, CWS11ABANA, CWS11ABBNA, CWS12ABANA, CWS12ABBNA, XWH08A",
+            "model": "BWB11ABANA, BWB11ABBNA, BWC10A, BWC10BB, BWC11AB, BWF08A, BWF08B, BWF09A, BWF24A, BWG10A, BWG11ABANA, BWG11ABBNA, BWG11ARANA, BWG11ARBNA, BWG12AB, BWH08B, BWH09A, BWH09B, BWH09BB, BWH11AB, BWH12ABANA, BWH12ABBNA, BWJ11ABANA, BWJ11ABBNA, BWK11ABANA, BWK11ABBNA, BWK12A9ANA, BWK12A9BNA, BWK12ABANA, BWK12ABBNA, BWL11ABANA, BWL11ABBNA, BWL11AR, BWM08A, BWM08AB, BWP11A9, BWQ07A, BWQ12ABANA, BWQ12ABBNA, BWQ24A, BWQ24B, BWR12A9ANA, BWR12A9BNA, BWR12ABANA, BWR12ABBNA, BWS11ABANA, BWS11ABBNA, BWT08A, BWT08C, BWT09A, BWT09AB, BWT09B, BWT09BB, BWT12ABANA, BWT12ABBNA, BWU11AB, BWU11AE, BWX09A, BWX09B, CWB08ABANA, CWB08ABBNA, CWB09ABANA, CWB09ABBNA, CWC08ABANA, CWC08ABBNA, CWC10AB, CWC24A, CWE08ABANA, CWE08ABBNA, CWE09AB, CWE10ABANA, CWE10ABBNA, CWE11ABANA, CWE11ABBNA, CWG11AB, CWG12ABANA, CWG12ABBNA, CWH12ABANA, CWH12ABBNA, CWK11AB, CWK12ABANA, CWK12ABBNA, CWL08A, CWL08B, CWL08C, CWL10A, CWL10B, CWS11ABANA, CWS11ABBNA, CWS12ABANA, CWS12ABBNA, XWH08A, CWB09BBBNA",
+            "version": "",
+            "quantaty": 0,
+            "title": "tirante, tirantes"
+        },
+        {
+            "name": "Tirante Cinza",
+            "code": "W11255699",
+            "brand": "Brastemp/Consul",
+            "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+            "model": "BCWH14ABAS1, CWH14ABBS1, CWH14ABBS2, CWH14ABANA, CWH14ABBNA, CWH14ABAS2, CWH15ABBS1, CWH15ABBNA, CWH15ABAS1, CWH15ABANA, CWH15ABAS2, CWH15ABBS3, CWH12BBAS1, CWH12BBBNA, CWH12BBAS2, CWH12BBBS1, CWH12BBANA, CWH12BBBS2, CWH12BBAS3, BWK14ABANA, BWK14ABAS1, BWK14ABAS2, BWK14ABBS1, BWK14ABBS2, BWK14ABBNA, CWH11ABANA, CWH11ABBNA, CWH11BBAS1, CWH11BBBNA, CWH11BBANA, CWH11ABAS3, CWH11BBBS1, CWH11BBBS2",
             "version": "",
             "quantaty": 0,
             "title": "tirante, tirantes"
@@ -1733,6 +1733,16 @@
             "brand": "Embraco",
             "subject": "Freezer",
             "model": "BRH41A, BRH41P, BRI42A, BRI42P, BRK42A, BRS62BB, BRS62BR, BRS62CBBNA, BRS62CRBNA, CHB42EBBNA, CHB53CBBNA, CHB53EBBNA, ",
+            "version": "",
+            "quantaty": 0,
+            "title": "Motor, Motor 1/3, motor freezer"
+        },
+        {
+            "name": "Compressor 1/5 EM2P70CLP R600A 220V",
+            "code": "W11516486",
+            "brand": "Embraco",
+            "subject": "Refrigerador, geladeira, Freezer",
+            "model": "CVU30EBBNA, CRM50HKBNA, CRM50HKBNA",
             "version": "",
             "quantaty": 0,
             "title": "Motor, Motor 1/3, motor freezer"
@@ -1808,8 +1818,18 @@
             "title": "ventilador geladeira, ventilador de galadeira"
         },
         {
+            "name": "Conj Motor Ventilador 220V",
+            "code": "W10721980",
+            "brand": "Brastemp/Consul",
+            "subject": "Refrigerador, geladeira",
+            "model": "CRM39ABBS2, CRM39ABBNA, CRM39AKBS2, CRM39ABBS3, CRM39AKBNA, CRM39AKBS3, CRM50HBBNA, CRM50HBBS1, CRM50HBBS2, CRM50HBBS3, CRM50HKBNA, CRM50HKBS1, CRM56HBBNA, CRM56HBBS1, CRM56HBBS2, CRM56HKBS1, CRM56HKBS3, CRM56HKBNA, CRM56HKBS2, CRM56HBBS3, CRM56FKBNA, CRM56FBBNA, CRM38NK, CRM35HBBNA, CRM35HKBNA, CRM35NBBNA, CRM35NKBNA, CRM38HBBNA, CRM38HKBNA, CRM38NBBNA, CRM42HKBNA, CRM42NBBNA, CRM42NKBNA, CRM43HBBNA, CRM43HKBNA, CRM43NBBNA, CRM43NBBS3, CRM43NKBNA, CRM43ZB, CRM43ZK, BRM56ABBNA, BRM56AKBNA, BRM57ABBNA, BRM57AKBNA, BRM58ABBNA, BRM58AKBNA, BRM56ZB, BRM56ZK, BRM56AKBS3, BRM56BKBS3, BRM56BKBNA, BRM55BBBS2, BRM55BKBNA, BRM55BKBS3, BRM55BBBNA, BRM55BKBS2, BRM56BBBNA, BRM56BBBS2, BRM56BKBS2, CRM44AKBNA, CRM44ABBS1, CRM44ABBS2, CRM44AKBS2, CRM44ABBS3, CRM44AKBS3, CRM44ABBNA, BRM44HKBNA, BRM45HBBNA, BRM45HKBNA, BRM53HBBNA, BRM53HKBNA, BRM44HKBS2, BRM45JKBNA, BRM45JKBS3, BRM45JBBS2, BRM44HKBS3, BRM45JBBNA, BRM45JBBS3, BRM45JKBS2, BRM54HBBNA, BRM54JBBNA, BRM54JBBS3, BRM54JKBS3, BRM54JKBNA, BRM54JKBS2, BRM54HKBNA, BRM45JKBS1, BRM54JBBS2, BRM44HKBS1, BRM44HBBNA, BRM44HBBS3, BRM44HBBS2, BRE58ABBNA, BRE58AKBNA, BRE59AEBNA, BRE57ABBS2, BRE57ABBS3, BRE57AKBNA, BRE57AKBS2, BRE57ABBNA",
+            "version": "",
+            "quantaty": 0,
+            "title": "ventilador geladeira, ventilador de galadeira"
+        },
+        {
             "name": "Motor Ventilador 220V",
-            "code": "W10553787",
+            "code": "W10310999",
             "brand": "Brastemp/Consul",
             "subject": "Refrigerador, geladeira",
             "model": "BRE50NBBNA, BRE50NDBNA, BRE50NEBNA, BRE50NJBNA, BRE50NKBNA, BRE50NPBNA, BRE50NRBNA, BRE50NX2NA, BRE51NB, BRE51ND, BRE51NG, BRE51NK, BRE51NM, BRE51NP, BRE51NR, BRE51NX, BRK50NBBNA, BRK50NRBNA, BRM47GB, BRM47GK, BRM48NBBNA, BRM48NRBNA, BRM49GB, BRM49GK, BRM50NBBNA, BRM50NRBNA, BRW50NB, BRW50NR, BVG24GBBNA, BVG24HBBNA, BVR28GBBNA, BVR28GRBNA, BVR28HBBNA, BVR28HRBNA, BVR28MBBNA, BVR28MKBNA, CRM45BBBNA, CRM51ABBNA, CRM51AKBNA, CRM51ZB, CRM52ABBNA, CRM52AKBNA, CRM54BBBNA, CRM54BKBNA, CRM55ABBNA, CRM55AKBNA",
@@ -1879,7 +1899,7 @@
         },
         {
             "name": "Rolamento do Motor",
-            "code": "M24080",
+            "code": "6786",
             "brand": "Brastemp/Consul",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
             "model": "",
@@ -1922,7 +1942,7 @@
             "code": "W10470951",
             "brand": "Brastemp/Consul",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "BWB08A, BWB08AB, BWB09AB, BWB11ABANA, BWB11ABBNA, BWC08A, BWC09AB, BWC10BB, BWC11AB, BWD15A9ANA, BWD15A9BNA, BWD15ABANA, BWD15ABBNA, BWG11ABANA, BWG11ABBNA, BWG11ARANA, BWG11ARBNA, BWG12AB, BWH11AB, BWH12ABANA, BWH12ABBNA, BWH15ABANA, BWH15ABBNA, BWJ09ABANA, BWJ09ABBNA, BWJ11ABANA, BWJ11ABBNA, BWK11ABANA, BWK11ABBNA, BWK12A9ANA, BWK12A9BNA, BWK12ABANA, BWK12ABBNA, BWK14ABANA, BWK14ABBNA, BWK15ABANA, BWK15ABBNA, BWL09A, BWL09ABANA, BWL09BBANA, BWL09BBBNA, BWL11ABANA, BWL11ABBNA, BWN15AKANA, BWN15AKBNA, BWN15ATANA, BWN15ATBNA, BWP11A9, BWQ12ABANA, BWQ12ABBNA, BWR12A9ANA, BWR12A9BNA, BWR12ABANA, BWR12ABBNA, BWS09ABANA, BWS09ABBNA, BWS11ABANA, BWS11ABBNA, BWS15ABANA, BWS15ABBNA, BWT12ABANA, BWT12ABBNA, BWU11AB, BWU11AE, CWB08ABANA, CWB08ABBNA, CWB09ABANA, CWB09ABBNA, CWC08ABANA, CWC08ABBNA, CWC10AB, CWE08ABANA, CWE08ABBNA, CWE09AB, CWE10ABANA, CWE10ABBNA, CWE11ABANA, CWE11ABBNA, CWE13ABANA, CWE13ABBNA, CWE15ABANA, CWE15ABBNA, CWG11AB, CWG12ABANA, CWG12ABBNA, CWH11ABANA, CWH11ABBNA, CWH11BBANA, CWH11BBBNA, CWH12ABANA, CWH12ABBNA, CWH14ABANA, CWH14ABBNA, CWK11AB, CWK12ABANA, CWK12ABBNA, CWL16ABANA, CWL16ABBNA, CWL75A, CWS11ABANA, CWS11ABBNA, CWS12ABANA, CWS12ABBNA",
+            "model": "BWB08A, BWB08AB, BWB09AB, BWB11ABANA, BWB11ABBNA, BWC08A, BWC09AB, BWC10BB, BWC11AB, BWD15A9ANA, BWD15A9BNA, BWD15ABANA, BWD15ABBNA, BWG11ABANA, BWG11ABBNA, BWG11ARANA, BWG11ARBNA, BWG12AB, BWH11AB, BWH12ABANA, BWH12ABBNA, BWH15ABANA, BWH15ABBNA, BWJ09ABANA, BWJ09ABBNA, BWJ11ABANA, BWJ11ABBNA, BWK11ABANA, BWK11ABBNA, BWK12A9ANA, BWK12A9BNA, BWK12ABANA, BWK12ABBNA, BWK14ABANA, BWK14ABBNA, BWK15ABANA, BWK15ABBNA, BWL09A, BWL09ABANA, BWL09BBANA, BWL09BBBNA, BWL11ABANA, BWL11ABBNA, BWN15AKANA, BWN15AKBNA, BWN15ATANA, BWN15ATBNA, BWP11A9, BWQ12ABANA, BWQ12ABBNA, BWR12A9ANA, BWR12A9BNA, BWR12ABANA, BWR12ABBNA, BWS09ABANA, BWS09ABBNA, BWS11ABANA, BWS11ABBNA, BWS15ABANA, BWS15ABBNA, BWT12ABANA, BWT12ABBNA, BWU11AB, BWU11AE, CWB08ABANA, CWB08ABBNA, CWB09ABANA, CWB09ABBNA, CWC08ABANA, CWC08ABBNA, CWC10AB, CWE08ABANA, CWE08ABBNA, CWE09AB, CWE10ABANA, CWE10ABBNA, CWE11ABANA, CWE11ABBNA, CWE13ABANA, CWE13ABBNA, CWE15ABANA, CWE15ABBNA, CWG11AB, CWG12ABANA, CWG12ABBNA, CWH11ABANA, CWH11ABBNA, CWH11BBANA, CWH11BBBNA, CWH12ABANA, CWH12ABBNA, CWH14ABANA, CWH14ABBNA, CWK11AB, CWK12ABANA, CWK12ABBNA, CWL16ABANA, CWL16ABBNA, CWL75A, CWS11ABANA, CWS11ABBNA, CWS12ABANA, CWS12ABBNA, CWH12BBBNA",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -1933,6 +1953,16 @@
             "brand": "Brastemp/Consul",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
             "model": "BWB08A, BWB08AB, BWB09AB, BWB11ABANA, BWB11ABBNA, BWC08A, BWC09AB, BWC10BB, BWC11AB, BWG11ABANA, BWG11ABBNA, BWG11ARANA, BWG11ARBNA, BWG12AB, BWH11AB, BWH12ABANA, BWH12ABBNA, BWH15ABANA, BWH15ABBNA, BWJ09ABANA, BWJ09ABBNA, BWJ11ABANA, BWJ11ABBNA, BWK11ABANA, BWK11ABBNA, BWK12A9ANA, BWK12A9BNA, BWK12ABANA, BWK12ABBNA, BWK14ABANA, BWK14ABBNA, BWK15ABANA, BWK15ABBNA, BWL09A, BWL09ABANA, BWL09BBANA, BWL09BBBNA, BWL11ABANA, BWL11ABBNA, BWN15AKANA, BWN15AKBNA, BWN15ATANA, BWN15ATBNA, BWP11A9, BWQ12ABANA, BWQ12ABBNA, BWR12A9ANA, BWR12A9BNA, BWR12ABANA, BWR12ABBNA, BWS09ABANA, BWS09ABBNA, BWS11ABANA, BWS11ABBNA, BWS15ABANA, BWS15ABBNA, BWT12ABANA, BWT12ABBNA, BWU11AB, BWU11AE, CWB08ABANA, CWB08ABBNA, CWB09ABANA, CWB09ABBNA, CWC08ABANA, CWC08ABBNA, CWC10AB, CWE08ABANA, CWE08ABBNA, CWE09AB, CWE10ABANA, CWE10ABBNA, CWE11ABANA, CWE11ABBNA, CWE13ABANA, CWE13ABBNA, CWE15ABANA, CWE15ABBNA, CWG11AB, CWG12ABANA, CWG12ABBNA, CWH11ABANA, CWH11ABBNA, CWH11BBANA, CWH11BBBNA, CWH12ABANA, CWH12ABBNA, CWH14ABANA, CWH14ABBNA, CWK11AB, CWK12ABANA, CWK12ABBNA, CWL16ABANA, CWL16ABBNA, CWL75A, CWS11ABANA, CWS11ABBNA, CWS12ABANA, CWS12ABBNA",
+            "version": "",
+            "quantaty": 0,
+            "title": ""
+        },
+        {
+            "name": "Polia Poli V Final (Nova Versão)",
+            "code": "W11448418",
+            "brand": "Brastemp/Consul",
+            "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+            "model": "BWB08A, BWB08AB, BWB09AB, BWB11ABANA, BWB11ABBNA, BWC08A, BWC09AB, BWC10BB, BWC11AB, BWG11ABANA, BWG11ABBNA, BWG11ARANA, BWG11ARBNA, BWG12AB, BWH11AB, BWH12ABANA, BWH12ABBNA, BWH15ABANA, BWH15ABBNA, BWJ09ABANA, BWJ09ABBNA, BWJ11ABANA, BWJ11ABBNA, BWK11ABANA, BWK11ABBNA, BWK12A9ANA, BWK12A9BNA, BWK12ABANA, BWK12ABBNA, BWK14ABANA, BWK14ABBNA, BWK15ABANA, BWK15ABBNA, BWL09A, BWL09ABANA, BWL09BBANA, BWL09BBBNA, BWL11ABANA, BWL11ABBNA, BWN15AKANA, BWN15AKBNA, BWN15ATANA, BWN15ATBNA, BWP11A9, BWQ12ABANA, BWQ12ABBNA, BWR12A9ANA, BWR12A9BNA, BWR12ABANA, BWR12ABBNA, BWS09ABANA, BWS09ABBNA, BWS11ABANA, BWS11ABBNA, BWS15ABANA, BWS15ABBNA, BWT12ABANA, BWT12ABBNA, BWU11AB, BWU11AE, CWB08ABANA, CWB08ABBNA, CWB09ABANA, CWB09ABBNA, CWC08ABANA, CWC08ABBNA, CWC10AB, CWE08ABANA, CWE08ABBNA, CWE09AB, CWE10ABANA, CWE10ABBNA, CWE11ABANA, CWE11ABBNA, CWE13ABANA, CWE13ABBNA, CWE15ABANA, CWE15ABBNA, CWG11AB, CWG12ABANA, CWG12ABBNA, CWH11ABANA, CWH11ABBNA, CWH11BBANA, CWH11BBBNA, CWH12ABANA, CWH12ABBNA, CWH14ABANA, CWH14ABBNA, CWK11AB, CWK12ABANA, CWK12ABBNA, CWL16ABANA, CWL16ABBNA, CWL75A, CWS11ABANA, CWS11ABBNA, CWS12ABANA, CWS12ABBNA, CWH12BBBNA, CWB09BBBNA",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -2363,7 +2393,7 @@
             "code": "W10658798",
             "brand": "Brastemp/Consul",
             "subject": "lavadora, maquina de lavar, máquina de lavar",
-            "model": "BSR10ABANA, BSR10ABBNA, BSR24B, BSR24C, BWB08A, BWB08AB, BWB11ABANA, BWB11ABBNA, BWB22A, BWC06A, BWC07A, BWC08A, BWC09AB, BWC10A, BWC10BB, BWC11AB, BWF08B, BWG10A, BWG11ABANA, BWG11ABBNA, BWG12AB, BWH11AB, BWH12ABANA, BWH12ABBNA, BWJ09ABANA, BWJ09ABBNA, BWJ11ABANA, BWJ11ABBNA, BWK11ABANA, BWK11ABBNA, BWK12ABANA, BWK12ABBNA, BWK14ABANA, BWK14ABBNA, BWL09A, BWL09ABANA, BWL09BBANA, BWL09BBBNA, BWL11ABANA, BWL11ABBNA, BWM06A, BWM08A, BWM08AB, BWQ12ABANA, BWQ12ABBNA, BWQ24A, BWR12ABANA, BWR12ABBNA, BWS09ABANA, BWS09ABBNA, BWS11ABANA, BWS11ABBNA, BWT09BB, BWT12ABANA, BWT12ABBNA, BWU11AB, CWB08ABANA, CWB08ABBNA, CWB09ABANA, CWB09ABBNA, CWC08ABANA, CWC08ABBNA, CWC10AB, CWE08ABANA, CWE08ABBNA, CWE09AB, CWE10ABANA, CWE10ABBNA, CWE11ABANA, CWE11ABBNA, CWG11AB, CWH11ABANA, CWH11ABBNA, CWH11BBANA, CWH11BBBNA, CWH12ABANA, CWH12ABBNA, CWH14ABANA, CWH14ABBNA, CWI06B, CWI07A, CWK11AB, CWK12ABANA, CWK12ABBNA, CWL10B, CWL75A, CWN07A, CWS11ABANA, CWS11ABBNA, CWS12ABANA, CWS12ABBNA",
+            "model": "BSR10ABANA, BSR10ABBNA, BSR24B, BSR24C, BWB08A, BWB08AB, BWB11ABANA, BWB11ABBNA, BWB22A, BWC06A, BWC07A, BWC08A, BWC09AB, BWC10A, BWC10BB, BWC11AB, BWF08B, BWG10A, BWG11ABANA, BWG11ABBNA, BWG12AB, BWH11AB, BWH12ABANA, BWH12ABBNA, BWJ09ABANA, BWJ09ABBNA, BWJ11ABANA, BWJ11ABBNA, BWK11ABANA, BWK11ABBNA, BWK12ABANA, BWK12ABBNA, BWK14ABANA, BWK14ABBNA, BWL09A, BWL09ABANA, BWL09BBANA, BWL09BBBNA, BWL11ABANA, BWL11ABBNA, BWM06A, BWM08A, BWM08AB, BWQ12ABANA, BWQ12ABBNA, BWQ24A, BWR12ABANA, BWR12ABBNA, BWS09ABANA, BWS09ABBNA, BWS11ABANA, BWS11ABBNA, BWT09BB, BWT12ABANA, BWT12ABBNA, BWU11AB, CWB08ABANA, CWB08ABBNA, CWB09ABANA, CWB09ABBNA, CWC08ABANA, CWC08ABBNA, CWC10AB, CWE08ABANA, CWE08ABBNA, CWE09AB, CWE10ABANA, CWE10ABBNA, CWE11ABANA, CWE11ABBNA, CWG11AB, CWH11ABANA, CWH11ABBNA, CWH11BBANA, CWH11BBBNA, CWH12ABANA, CWH12ABBNA, CWH14ABANA, CWH14ABBNA, CWI06B, CWI07A, CWK11AB, CWK12ABANA, CWK12ABBNA, CWL10B, CWL75A, CWN07A, CWS11ABANA, CWS11ABBNA, CWS12ABANA, CWS12ABBNA, CWH12BBBNA, CWB09BBBNA",
             "version": "",
             "quantaty": 0,
             "title": "pe nvelador, pe da maquina, pé da máquina"
@@ -2743,7 +2773,7 @@
             "code": "W10742654",
             "brand": "Brastemp/Consul",
             "subject": "geladeira, refrigerador",
-            "model": "CRM39ABBNA, CRM39AKBNA, CRM35HKBNA, CRM35HBBNA, CRM35NBBNA, CRM35NKBNA, CRM38HBBNA, CRM38NBBNA, CRM38HKBNA, CRM38NK, CRM42HKBNA, CRM42NBBNA, CRM42NKBNA, CRM43NBBNA, CRM43HBBNA, CRM43HKBNA, CRM43NKBNA, CRM43ZB, CRM43ZK, BRM44HBBNA, BRM56AKBNA, BRM56ABBNA, BRM56ZB, BRM56ZK, BRM57ABBNA, BRM57AKBNA, BRM58ABBNA, BRM58AKBNA, BRE57ABBNA, BRE57AKBNA, BRE58ABBNA, BRE58AKBNA, BRM44HKBNA, BRM45HBBNA, BRM45HKBNA, BRM53HKBNA, BRM53HBBNA, BRM54HKBNA, BRM54HBBNA",
+            "model": "CRM39ABBNA, CRM39AKBNA, CRM35HKBNA, CRM35HBBNA, CRM35NBBNA, CRM35NKBNA, CRM38HBBNA, CRM38NBBNA, CRM38HKBNA, CRM38NK, CRM42HKBNA, CRM42NBBNA, CRM42NKBNA, CRM43NBBNA, CRM43HBBNA, CRM43HKBNA, CRM43NKBNA, CRM43ZB, CRM43ZK, BRM44HBBNA, BRM56AKBNA, BRM56ABBNA, BRM56ZB, BRM56ZK, BRM57ABBNA, BRM57AKBNA, BRM58ABBNA, BRM58AKBNA, BRE57ABBNA, BRE57AKBNA, BRE58ABBNA, BRE58AKBNA, BRM44HKBNA, BRM45HBBNA, BRM45HKBNA, BRM53HKBNA, BRM53HBBNA, BRM54HKBNA, BRM54HBBNA, CRM50HKBNA",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -3030,7 +3060,7 @@
         },
         {
             "name": "Válvula Dreno Bico de Pato",
-            "code": "w11169693",
+            "code": "W11169693",
             "brand": "Brastemp/Consul",
             "subject": "geladeira, refrigerador",
             "model": "BRE57ABANA, BRE57AKANA, BRE58ABANA, BRE58ABBNA, BRE57ABBNA, BRE57AKBNA, BRE58AKANA, BRE59ABANA, BRE58AKBNA, BRE59ABBNA, BRE59AEBNA, BRE59AKANA, BRE59AEANA, BRE59AKBNA, BRM56ABANA, BRM56ABBNA, BRM56AKANA, BRM56ZB, BRM56ZK, BRM57ABBNA, BRM57AKANA, BRM56AKBNA, BRM57ABANA, BRM57AKBNA, BRM58AKBNA, BRM58AKANA, BRM59ABBNA, BRY59AEANA, BRM59ABANA, BRM59AKANA, BRM59AKBNA, BRY59AKANA, BRY59AEBNA, BRY59BEANA, BRY59BEBNA, BRY59BKANA, BRY59BKBNA, BRY59AKBNA, BRM58ABANA, BRM58ABBNA, CRB39AKBNA, CRB39AKANA, CRM37EB, BRM39EBANA, BRM38EB, BRM39EBBNA, BRM39EKANA, BRM39ERANA, BRM39ZBANA, BRM39EKBNA, BRM39ERBNA, BRM39ZBBNA, BRM42EBBNA, BRM42EKBNA, BRM42EBANA, BRM42EKANA, CRA30FC, CRA30GB, CRA30HB, CRA30E, CRA30ZB, CRA28A, CRA28B, CRM33ER, CRM34GB, CRM33EB, CRD49ABANA, CRD49ABBNA, BRT38AV, BRT38AY, BRT38AE, CZE12AEBNA, CZE12AVANA, CZE12AEANA, CZE12AFANA, CZE12AFBNA, CZE12AVBNA, BRH41P, BRH41A, BRE43A, BRG43A, BRG44A, BRG43B, BRG44B, BRK42A, BRM34ABANA, BRM34ACBNA, BRM33CBANA, BRM33CBBNA, BRM33CCANA, BRM33CCBNA, BRM34ABBNA, BRM34ACANA, BRM34B, BRM38A, BRM38B, BRM37B, BRM39B, BRM43A, BRM44ACANA, BRM43B, BRM44ABANA, BRM44ABBNA, BRM44ACBNA, BRM44B, BRM44P, BRM44L, BRM44Q, BRM44X, BRM44Z, BRN43A, BRN44A, BRN44B, BRN44X, CRM30D, CRM33DR, CRM34FB, CRM33DB, CRM46A, KRM44B, KRM43A, KRM44A, BRW50NDV, BRW50NMV, BRW50NPVNA, BRE51NG, BRW50NK, BRE50NDANA, BRE50NBANA, BRE50NBBNA, BRE50NDBNA, BRE50NEBNA, BRE50NJBNA, BRE50NEANA, BRE50NJANA, BRE50NPBNA, BRE50NKANA, BRE50NKBNA, BRE50NPANA, BRE50NRANA, BRE50NRBNA, BRE50NX1NA, BRE51NR, BRE50NX2NA, BRE51NK, BRE51NP, BRE51NX, BRK50NBANA, BRK50NBBNA, BRK50ND, BRK50NM, BRK50NRANA, BRK50NG, BRK50NKANA, BRK50NKBNA, BRK50NP, BRK50NRBNA, BRM47GB, BRM47GK, BRM48NKANA, BRM48NKBNA, BRM48NRANA, BRM48NRBNA, BRM50NBANA, BRM50NBBNA, BRM50NKBNA, BRM50NMANA, BRM50NKANA, BRM50NMBNA, BRM50NRANA, BRM50NX, BRW50NGV, BRW50NRV, BRW50NB, BRW50NBVNA, BRW50NR, BRM48NBANA, BRM48NBBNA, BRM49GB, BRM49GK, BRM50NRBNA, BRE49BB, BRE49BE, BRE49BR, BRE49CE, BRH32ACA, BRH32A, BRB39ABANA, BRB39ABBNA, CRB36ZBBNA, CRB36AC, CRB36ZBANA, CRG36ABANA, CRG36ABBNA, CRG36AC, BRH33A, CZD12ALANA, CZD12ALBNA, CZD12ATANA, CZD12AVBNA, CZD12ATBNA, CZD12AVANA, CZD12AYANA, CZD12AYBNA, CRA32A, CRA32C, CRA34D, CRA35FB, CRA36A, CRA36C, CRP34A, CRP38A, BRA34D, BRA34FB, BRA38D, BRA38FB, CRM45ABANA, CRM45ABBNA, CRM50AB, CRM45AR, CRM47FB, CRM49AB, CRM50AR, CRM54BBANA, CRM54BBBNA, CRB36ABANA, CRB39ABBNA, CRB36ABBNA, CRB39ABANA, CRM45BBANA, CRM45BBBNA, CRM51ABANA, CRM51ABBNA, CRM51AKANA, CRM51AKBNA, CRM55ABANA, CRM55ABBNA, CRM55AKANA, CRM55AKBNA, CRM52ABANA, CRM52ABBNA, CRM52AKANA, CRM52AKBNA, CRM39ABANA, CRM39ABBNA, CRM39AKANA, CRM39AKBNA, CRD36FBANA, CRD36FBBNA, CRD36GBBNA, CRD36GBANA, BRM44HBANA, BRM44HKBNA, BRM44HBBNA, BRM44HKANA, BRM45HBANA, BRM45HKBNA, BRM45HBBNA, BRM45HKANA, BRM53HKANA, BRM53HBANA, BRM53HBBNA, BRM53HKBNA, BRM54HBBNA, BRM54HKANA, BRM54HBANA, BRM54HKBNA, CRM54BKANA, CRM54BKBNA, CRM35HBANA, CRM35HBBNA, CRM35HKANA, CRM35HKBNA, CRM35NBANA, CRM35NBBNA, CRM35NKANA, CRM35NKBNA, CRM38HBANA, CRM38HBBNA, CRM38NBANA, CRM38NBBNA, CRM38HKANA, CRM38HKBNA, CRM42HKBNA, CRM42NBANA, CRM42HKANA, CRM42NBBNA, CRM42NKBNA, CRM43HBANA, CRM43HKANA, CRM42NKANA, CRM43HBBNA, CRM43HKBNA, CRM43NBANA, CRM43NBBNA, CRM43NKBNA, CRM43NKANA, BRD45D, BRD47DB, BRD49DB, BRD48D, BRD50AB, BRE51NB, BRI42A, BRM35BB, BRM35BR, BRM35AB, BRM36D, BRM36EB, BRM36ER, BRM36EG, BRM36EZ, BRM37A, BRM36EV, BRM40D, BRM40EB, BRM40ES, BRM48D, BRM48DX, BRM49E, BRU49WB, BRU49BX, BRU49YB, BRX48DX, BRX48D, BRY48DB, BRX49BX, BRY48DR, CRB39AC, CRD36A, CRD36FC, CRD45EB, CRD48EB, CRD45D, CRD48D, CRD48FB, CRD49AK, CRM33ABANA, CRM33ABBNA, CRM33ACANA, CRM33ACBNA, CRM38A, CRM37A, CRM38NK, CRM43ZB, CRM43ZK,CZD12AE, LRM40D, LRM48D, PRM40D, PRM48D, XRX48D, XRE48D, BRX45FBANA, BRX45FBBNA, CRM51ZB, CRD46AB,  BRJ49BB,  BRM47AR,  BRM47BBBNA,  BRM44D,  BRM44EB,  BRM44ER,  BRM47AB,  BRM47BBANA,  BRM47BR,  BRM49BB,  BRM49BR,  BRQ47BB,  BRR49BE,  BRR49BR,  BRZ49BB,  BRU49BB,  BRU49BR,  BRZ49BR",
@@ -3139,6 +3169,16 @@
             "title": "isopor, isopor evaporador, evaporador"
         },
         {
+            "name": "CJ Capa Traseira Evaporador",
+            "code": "W11389753",
+            "brand": "Brastemp/Consul",
+            "subject": "Refrigerador, geladeira,",
+            "model": "CRM50HBANA, CRM50HBBNA, CRM50HBBS1, CRM50HBBS2, CRM50HKANA, CRM50HBAS2, CRM50HBAS3, CRM50HBBS3, CRM50HKAS1, CRM50HKBNA, CRM50HKBS1, CRM56HBANA, CRM50HKAS2, CRM50HKAS3, CRM56HBAS2, CRM56HBAS3, CRM56HBBNA, CRM56HKANA, CRM56HKAS3, CRM56HBBS1, CRM56HBBS2, CRM56HKBS1, CRM56HKBS3, CRM56HKBNA, CRM56HKBS2, CRM56HBBS3, CRM56FBANA, CRM56FKBNA, CRM56FBBNA, CRM56FKANA",
+            "version": "",
+            "quantaty": 0,
+            "title": "isopor, isopor evaporador, evaporador"
+        },
+        {
             "name": "MOTOR VENTILADOR BIVOLT",
             "code": "326049984",
             "brand": "Brastemp/Consul",
@@ -3223,7 +3263,7 @@
             "code": "W10754807",
             "brand": "Brastemp/Consul",
             "subject": "lavadora de roupa, lavadora de roupas, maquina de lavar, máquina de lavar",
-            "model": "BWG12AB, BWH12ABANA, BWH12ABBNA, BWJ09ABANA, BWJ09ABBNA, BWK12A9ANA, BWK12A9BNA, BWK12ABANA, BWK12ABBNA, BWQ12ABANA, BWQ12ABBNA, BWR12A9ANA, BWR12A9BNA, BWR12ABANA, BWR12ABBNA, BWS09ABANA, BWS09ABBNA, BWT12ABANA, BWT12ABBNA, CWB08ABANA, CWB08ABBNA, CWB09ABANA, CWB09ABBNA, CWC08ABANA, CWC08ABBNA, CWE08ABANA, CWE08ABBNA, CWE09AB, CWE11ABANA, CWE11ABBNA, CWG12ABANA, CWG12ABBNA, CWH11ABANA, CWH11ABBNA, CWH11BBANA, CWH11BBBNA, CWH12ABANA, CWH12ABBNA, CWK12ABANA, CWK12ABBNA, CWS11ABANA, CWS11ABBNA, CWS12ABANA, CWS12ABBNA",
+            "model": "CWH12ABANA, CWH12ABBS1, CWH12ABBNA, CWH12ABAS1, CWH12ABAS2, CWH12ABBS2, CWH12ABAS3, CWS11ABANA, CWS11ABBNA, CWS12ABANA, CWS12ABBNA, CWH12BBAS1, CWH12BBBNA, CWH12BBAS2, CWH12BBBS1, CWH12BBANA, CWH12BBBS2, CWE09AB, CWB08ABANA, CWB08ABBNA, CWB09ABAS3, CWB09ABBNA, CWC08ABANA, CWC08ABBNA, CWE08ABANA, CWE08ABBNA, CWH11ABANA, CWH11ABBNA, CWH11BBAS1, CWH11BBBNA, CWB09ABANA, CWH11BBANA, BWG12AB, BWQ12ABANA, BWQ12ABBNA, BWT12ABANA, BWT12ABBNA, BWH12ABANA, BWH12ABBNA, BWK12B9ANA, CWB09ABAS2, CWB09ABAS1, CWB09ABBS2, CWH11ABAS3, BWK12B9BNA, BWK12A9ANA, BWK12A9AS2, BWK12A9BNA, BWK12A9AS1, BWK12A9BS1, BWK12ABBS1, BWK12ABBS2, BWK12ABAS1, BWK12ABAS2, BWK12ABBNA, BWR12A9BNA, BWR12A9ANA, BWR12ABANA, BWR12ABAS1, BWR12ABBNA, BWR12ABBS1, BWK12B9BS1, BWK12A9BS2, CWH11BBBS1, CWB09ABBS1, CWH11BBBS2, BWK12B9AS2, BWR12ABAS3, BWR12ABAS2, BWK12ABANA, BWJ09ABBNA, BWS09ABANA, BWS09ABBNA, BWJ09ABANA, CWB09BBANA, CWB09BBAS1, CWB09BBBNA, CWB09BBAS3, CWB09BBBS2, CWB09BBAS2, CWE11ABANA, CWE11ABBNA, CWG12ABANA, CWG12ABBNA, CWK12ABANA, CWK12ABBNA",
             "version": "",
             "quantaty": 0,
             "title": "batedor"
@@ -3419,7 +3459,18 @@
             "title": "capa isopor geladeira"
         },
         {
-            "name": "Tubulação de cobre 3/16 (Kg)",
+            "name": "Motor Lavadora 220v",
+            "code": "W11523230",
+            "brand": "Brastemp/Consul",
+            "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+            "model": "CWH12ABBS1, CWH12ABBNA, CWH12ABBS2, BWC10BB, CWE15ABBNA, CWL16ABBS2, CWK17ABBNA, CWL16ABBNA, BWK15ABBNA, BWN15AKBNA, BWN15ATBNA, BWS15ABBNA, BWH15ABBNA, BWH15ABBS3, BWH15ABBS1, BWH15ABBS2, BWT12ABBNA, CWH12BBBNA, CWH12BBBS1, CWH12BBBS2, CWH14ABBS1, CWH14ABBS2, CWS11ABBNA, CWS12ABBNA, CWH14ABBNA, CWH15ABBS1, CWH15ABBNA, CWH15ABBS3, CWE09AB, CWB08ABBNA, CWB09ABBNA, CWC08ABBNA, CWE08ABBNA, CWH11ABBNA, CWH11BBBNA, BWG12AB, BWH11AB, BWQ12ABBNA, BWH12ABBNA, CWB09ABBS2, CWH11BBBS1, CWB09ABBS1, CWH11BBBS2, CWB09BBBNA, CWB09BBBS2, BWK11ABBNA, BWB09AB, BWB08AB, BWJ09ABBNA, BWJ11ABBNA, BWS09ABBNA, BWS11ABBNA, BWL11ABBNA, CWE10ABBNA, CWE11ABBNA, CWG12ABBNA, CWK12ABBNA, CWG11AB, BWC08A, BWL09BBBNA, BWK12B9BNA, BWK12A9BS1, BWK12ABBS1, BWK12A9BNA, BWK12ABBNA, BWK12ABBS2, BWK14ABBS1, BWR12A9BNA, BWK14ABBNA, BWR12ABBNA, BWR12ABBS1, BWK12B9BS1, BWK14ABBS2, BWK12A9BS2, BWD16A9BNA, BWK16ABBNA, BWK17ABBNA, BWK16ABBS1, BWD16A9BS1, BWK16ABBS3.",
+            "version": "",
+            
+            "quantaty": 0,
+            "title": "motor, motor lavadora, motor máquina de lavar, motor maquina de lavar, motor de lavadora, motor de máquina de lavar, motor de maquina de lavar, motor 220v"
+        },
+        {
+            "name": "Tubulação de cobre 3/16 (metro)",
             "code": "100211983",
             "brand": "Dugold - Eluma",
             "subject": "Split, condicionador de ar, ar condicionado",
@@ -3429,8 +3480,8 @@
             "title": "Cano 3/16, Cano de Cobre, Cano de Cobre 3/16, Tubo 3/16, Instalação, Instalaçao, Instalacao"
         },
         {
-            "name": "Tubulação de cobre 1/4 (Kg)",
-            "code": "100213250",
+            "name": "Tubulação de cobre 1/4 (metro)",
+            "code": "100211984",
             "brand": "Dugold - Eluma",
             "subject": "Split, condicionador de ar, ar condicionado",
             "model": "Tubo flexível",
@@ -3439,8 +3490,8 @@
             "title": "Cano 1/4, Cano de Cobre, Cano de Cobre 1/4, Tubo 1/4, Instalação, Instalaçao, Instalacao"
         },
         {
-            "name": "Tubulação de cobre 5/16 (Kg)",
-            "code": "100213251",
+            "name": "Tubulação de cobre 5/16 (metro)",
+            "code": "100211985",
             "brand": "Dugold - Eluma",
             "subject": "Split, condicionador de ar, ar condicionado",
             "model": "Tubo flexível",
@@ -3449,8 +3500,8 @@
             "title": "Cano 5/16, Cano de Cobre, Cano de Cobre 5/16, Tubo 5/16, Instalação, Instalaçao, Instalacao"
         },
         {
-            "name": "Tubulação de cobre 3/8 (Kg)",
-            "code": "100213252",
+            "name": "Tubulação de cobre 3/8 (metro)",
+            "code": "100211986",
             "brand": "Dugold - Eluma",
             "subject": "Split, condicionador de ar, ar condicionado",
             "model": "Tubo flexível",
@@ -3459,8 +3510,8 @@
             "title": "Cano 3/8, Cano de Cobre, Cano de Cobre 3/8, Tubo 3/8, Instalação, Instalaçao, Instalacao"
         },
         {
-            "name": "Tubulação de cobre 1/2 (Kg)",
-            "code": "100213253",
+            "name": "Tubulação de cobre 1/2 (metro)",
+            "code": "100260708",
             "brand": "Dugold - Eluma",
             "subject": "Split, condicionador de ar, ar condicionado",
             "model": "Tubo flexível",
@@ -3469,7 +3520,7 @@
             "title": "Cano 1/2, Cano de Cobre, Cano de Cobre 1/2, Tubo 1/2, Instalação, Instalaçao, Instalacao"
         },
         {
-            "name": "Tubulação de cobre 5/8 (Kg)",
+            "name": "Tubulação de cobre 5/8 (metro)",
             "code": "100213254",
             "brand": "Dugold - Eluma",
             "subject": "Split, condicionador de ar, ar condicionado",
@@ -3479,8 +3530,8 @@
             "title": "Cano 5/8, Cano de Cobre, Cano de Cobre 5/8, Tubo 5/8, Instalação, Instalaçao, Instalacao"
         },
         {
-            "name": "Tubulação de cobre 3/4 (Kg)",
-            "code": "100213255",
+            "name": "Tubulação de cobre 3/4 (metro)",
+            "code": "109629",
             "brand": "Dugold - Eluma",
             "subject": "Split, condicionador de ar, ar condicionado",
             "model": "Tubo flexível",
@@ -3489,39 +3540,9 @@
             "title": "Cano 3/4, Cano de Cobre, Cano de Cobre 3/4, Tubo 3/4, Instalação, Instalaçao, Instalacao"
         },
         {
-            "name": "Tubulação de cobre 1/4 (Kg)",
-            "code": "132299",
-            "brand": "Vix - Eluma",
-            "subject": "Split, condicionador de ar, ar condicionado",
-            "model": "Tubo flexível",
-            "version": "",
-            "quantaty": 0,
-            "title": "Cano 1/4, Cano de Cobre, Cano de Cobre 1/4, Tubo 1/4, Instalação, Instalaçao, Instalacao"
-        },
-        {
-            "name": "Tubulação de cobre 3/8 (Kg)",
-            "code": "132298",
-            "brand": "Vix - Eluma",
-            "subject": "Split, condicionador de ar, ar condicionado",
-            "model": "Tubo flexível",
-            "version": "",
-            "quantaty": 0,
-            "title": "Cano 3/8, Cano de Cobre, Cano de Cobre 3/8, Tubo 3/8, Instalação, Instalaçao, Instalacao"
-        },
-        {
-            "name": "Tubulação de cobre 1/2 (Kg)",
-            "code": "132305",
-            "brand": "Vix - Eluma",
-            "subject": "Split, condicionador de ar, ar condicionado",
-            "model": "Tubo flexível",
-            "version": "",
-            "quantaty": 0,
-            "title": "Cano 1/2, Cano de Cobre, Cano de Cobre 1/2, Tubo 1/2, Instalação, Instalaçao, Instalacao"
-        },
-        {
             "name": "Tubo esponjoso de 1/4",
-            "code": "200104",
-            "brand": "Dugold",
+            "code": "111187",
+            "brand": "Vix",
             "subject": "Split, condicionador de ar, ar condicionado",
             "model": "2 metros",
             "version": "",
@@ -3530,7 +3551,7 @@
         },
         {
             "name": "Tubo esponjoso de 3/8",
-            "code": "120548",
+            "code": "111189",
             "brand": "Dugold",
             "subject": "Split, condicionador de ar, ar condicionado",
             "model": "2 metros",
@@ -3539,8 +3560,18 @@
             "title": "Tubo 3/8, Instalação, Instalaçao, Instalacao"
         },
         {
+            "name": "Tubo esponjoso de 1/2",
+            "code": "111190",
+            "brand": "Vix",
+            "subject": "Split, condicionador de ar, ar condicionado",
+            "model": "2 metros",
+            "version": "",
+            "quantaty": 0,
+            "title": "Tubo 1/2, Instalação, Instalaçao, Instalacao"
+        },
+        {
             "name": "Tubo esponjoso de 5/8",
-            "code": "111191",
+            "code": "111192",
             "brand": "Dugold",
             "subject": "Split, condicionador de ar, ar condicionado",
             "model": "2 metros",
@@ -3550,7 +3581,7 @@
         },
         {
             "name": "Tubo esponjoso de 3/4",
-            "code": "111342",
+            "code": "111343",
             "brand": "Dugold",
             "subject": "Split, condicionador de ar, ar condicionado",
             "model": "2 metros",
@@ -3569,28 +3600,8 @@
             "title": "Tubo 1', Instalação, Instalaçao, Instalacao"
         },
         {
-            "name": "Tubo esponjoso de 1/4",
-            "code": "111187",
-            "brand": "Vix",
-            "subject": "Split, condicionador de ar, ar condicionado",
-            "model": "2 metros",
-            "version": "",
-            "quantaty": 0,
-            "title": "Tubo 1/4, Instalação, Instalaçao, Instalacao"
-        },
-        {
-            "name": "Tubo esponjoso de 1/2",
-            "code": "111190",
-            "brand": "Vix",
-            "subject": "Split, condicionador de ar, ar condicionado",
-            "model": "2 metros",
-            "version": "",
-            "quantaty": 0,
-            "title": "Tubo 1/2, Instalação, Instalaçao, Instalacao"
-        },
-        {
             "name": "Suporte de 7000 a 12000 Btus",
-            "code": "100475",
+            "code": "102351",
             "brand": "",
             "subject": "Split, condicionador de ar, ar condicionado",
             "model": "7000 a 12000 Btus",
@@ -3600,7 +3611,7 @@
         },
         {
             "name": "Suporte de 12000 a 24000 Btus",
-            "code": "100476",
+            "code": "120580",
             "brand": "",
             "subject": "Split, condicionador de ar, ar condicionado",
             "model": "12000 a 24000 Btus",
@@ -3820,8 +3831,8 @@
         },
         {
             "name": "Kit Manifold de Bronze",
-            "code": "107948",
-            "brand": "Dugold",
+            "code": "100262935",
+            "brand": "Hulter",
             "subject": "multimarcas",
             "model": "",
             "version": "",
@@ -3840,13 +3851,13 @@
         },
         {
             "name": "Maçarico Tubo Torch",
-            "code": "100250819",
-            "brand": "Dugold",
+            "code": "100262878",
+            "brand": "Hulter",
             "subject": "multimarcas",
             "model": "",
             "version": "",
             "quantaty": 0,
-            "title": "ferramenta, ferramentas"
+            "title": "ferramenta, ferramentas, MACARICO, PISTOLA DE SOLDA"
         },
         {
             "name": "Filtro Secador com Rabicho",
@@ -4030,7 +4041,7 @@
         },
         {
             "name": "Cortador de Tubo Cobre",
-            "code": "111806",
+            "code": "137493",
             "brand": "Vix",
             "subject": "multimarcas",
             "model": "",
@@ -4479,76 +4490,6 @@
             "title": ""
         },
         {
-            "name": "Módulo Potência 220V BRM37/39/43 (Similar)",
-            "code": "0378",
-            "brand": "CP Placas",
-            "subject": "multimarcas, similar, consul, brastemp, refrigerador, geladeira",
-            "model": "brm37, brm39, brm43",
-            "version": "",
-            "quantaty": 0,
-            "title": "modulo potencia, módulo potência, placa potencia, placa potência"
-        },
-        {
-            "name": "Módulo Potência 220V BRM38/44 (Similar)",
-            "code": "0424",
-            "brand": "CP Placas",
-            "subject": "multimarcas, similar, consul, brastemp, refrigerador, geladeira",
-            "model": "brm38, brm44",
-            "version": "",
-            "quantaty": 0,
-            "title": "modulo potencia, módulo potência, placa potencia, placa potência"
-        },
-        {
-            "name": "Módulo Potência 220V BRM32/33/34/35 CRM37/38/42 (Similar)",
-            "code": "0430",
-            "brand": "CP Placas",
-            "subject": "multimarcas, similar, consul, brastemp, refrigerador, geladeira",
-            "model": "brm32, brm33, brm35, brm34, crm37, crm38, crm42",
-            "version": "",
-            "quantaty": 0,
-            "title": "placa potencia, placa potência"
-        },
-        {
-            "name": "Controle Eletrônico BRM40/44/47/48/49 Bivolt (Similar)",
-            "code": "1460",
-            "brand": "CP Placas",
-            "subject": "multimarcas, similar, consul, brastemp, refrigerador, geladeira",
-            "model": "brm40, brm44, brm47, brm48, brm49",
-            "version": "",
-            "quantaty": 0,
-            "title": "placa potencia, placa potência, controle eletronico"
-        },
-        {
-            "name": "Controle Eletrônico CRM50 Bivolt (Similar)",
-            "code": "1469",
-            "brand": "CP Placas",
-            "subject": "multimarcas, similar, consul, brastemp, refrigerador, geladeira",
-            "model": "crm50ab, crm50ar",
-            "version": "",
-            "quantaty": 0,
-            "title": "placa potencia, placa potência, controle eletronico"
-        },
-        {
-            "name": "Painel Decorativo BWC10 (Similar)",
-            "code": "P0898",
-            "brand": "CP Placas",
-            "subject": "multimarcas, similar, consul, brastemp, Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "bwc10",
-            "version": "",
-            "quantaty": 0,
-            "title": "adesivo decorativo"
-        },
-        {
-            "name": "Painel Decorativo BWL11 (Similar)",
-            "code": "P0965",
-            "brand": "CP Placas",
-            "subject": "multimarcas, similar, consul, brastemp, Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "bwl11",
-            "version": "",
-            "quantaty": 0,
-            "title": "adesivo decorativo"
-        },
-        {
             "name": "Termostato Média Temperatura",
             "code": "03.0988",
             "brand": "Fricon",
@@ -4610,17 +4551,7 @@
             "title": "potencia, eletronico, potência"
         },
         {
-            "name": "Placa Eletrônica LBU15 Versão Obsoleta",
-            "code": "70200963",
-            "brand": "Electrolux",
-            "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "LBU15",
-            "version": "",
-            "quantaty": 0,
-            "title": "potencia, eletronico, potência"
-        },
-        {
-            "name": "Placa Eletrônica LBU15 Nova Versão",
+            "name": "Placa Eletrônica LBU15",
             "code": "A99035151",
             "brand": "Electrolux",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
@@ -5015,7 +4946,7 @@
             "code": "51041813",
             "brand": "Electrolux",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "LF75/LF80/LM06/LM06A/LQ75/LTC10/LTE09/LTR10/TOP6/TOP6F/TOP6S/",
+            "model": "LF75, LF80, LM06, LM06A, LQ75, LTC10, LTE09, LTR10, TOP6, TOP6F, TOP6S, ",
             "version": "",
             "quantaty": 0,
             "title": "mecanismo, transmissao, mecanica"
@@ -5045,7 +4976,7 @@
             "code": "64287504",
             "brand": "Electrolux",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "LB12Q/LBT12/LS12Q/LS14A/LSW12/LSW15/LT10B/LT11F/LT12B/LT12F/LT12Q/LT13B/LTC10/LTC12/LTR10/LTR12/LTS12/LAC12",
+            "model": "LB12Q, LBT12, LS12Q, LS14A, LSW12, LSW15, LT10B, LT11F, LT12B, LT12F, LT12Q, LT13B, LTC10, LTC12, LTR10, LTR12, LTS12, LAC12",
             "version": "",
             "quantaty": 0,
             "title": "valvula dupla, valvula de entrada, válvula de entrada, vlavula entrada"
@@ -5055,7 +4986,7 @@
             "code": "A99089304",
             "brand": "Electrolux",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "LTD11/LTD09",
+            "model": "LTD11, LTD09",
             "version": "",
             "quantaty": 0,
             "title": "valvula dupla, valvula de entrada, válvula de entrada, vlavula entrada"
@@ -5075,7 +5006,7 @@
             "code": "70300022",
             "brand": "Electrolux",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "LTC07/",
+            "model": "LTC07",
             "version": "",
             "quantaty": 0,
             "title": "valvula dupla, valvula de entrada, válvula de entrada, vlavula entrada"
@@ -5085,7 +5016,7 @@
             "code": "64287507",
             "brand": "Electrolux",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "LA15F/LEC12/LP12Q/LST12/LT15F/LTA15/LTC15/LTP12/LTP15/LTR15/LBU15",
+            "model": "LA15F, LEC12, LP12Q, LST12, LT15F, LTA15, LTC15, LTP12, LTP15, LTR15, LBU15",
             "version": "",
             "quantaty": 0,
             "title": "valvula tripla, valvula de entrada, válvula de entrada, valvula entrada, válvula 3 vias, valvula 3 vias"
@@ -5095,7 +5026,7 @@
             "code": "64287510",
             "brand": "Electrolux",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "LT08E/LT09E/LT60/LTD06/LTE06/LTE07/",
+            "model": "LT08E, LT09E, LT60, LTD06, LTE06, LTE07, ",
             "version": "",
             "quantaty": 0,
             "title": "valvula dupla, valvula de entrada, válvula de entrada, vlavula entrada"
@@ -5105,7 +5036,7 @@
             "code": "64287533",
             "brand": "Electrolux",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "LM13Q/LT09B/LTE08/LTM15/LTM16/LTP10/LTP16/",
+            "model": "LM13Q, LT09B, LTE08, LTM15, LTM16, LTP10, LTP16, ",
             "version": "",
             "quantaty": 0,
             "title": "valvula dupla, valvula de entrada, válvula de entrada, vlavula entrada"
@@ -5115,7 +5046,7 @@
             "code": "A11986701",
             "brand": "Electrolux",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "LAC13/LPR13/LWI13/LPR14/LT10B/LT12Q/LTA13/LES09/LT13B/LTD15/LT09E/LAC09/LAC11/LES13/LTP16/LTD16/LBU16/LT15F/LT12F/LTD11/LP12Q/LTE12/LTP12/LTP15/LTD09/LTE09/LTC07/LBU15/LEC12/LT11F/LTM15/LTP10/LUC10/LTD13/LT12B/LT08E/LM13Q/LAC12/LAC16/LAP16/LAI17/LTC10/LTE08/LT09B",
+            "model": "LAC13, LPR13, LWI13, LPR14, LT10B, LT12Q, LTA13, LES09, LT13B, LTD15, LT09E, LAC09, LAC11, LES13, LTP16, LTD16, LBU16, LT15F, LT12F, LTD11, LP12Q, LTE12, LTP12, LTP15, LTD09, LTE09, LTC07, LBU15, LEC12, LT11F, LTM15, LTP10, LUC10, LTD13, LT12B, LT08E, LM13Q, LAC12, LAC16, LAP16, LAI17, LTC10, LTE08, LT09B",
             "version": "",
             "quantaty": 0,
             "title": "bomba drenagem, bomba de drenagem"
@@ -5195,7 +5126,7 @@
             "code": "67401412",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DF42/DF42X/DFN41/DFN42/DFX41/DFX42/DW42X/TF42/TF42S/",
+            "model": "DF42, DF42X, DFN41, DFN42, DFX41, DFX42, DW42X, TF42, TF42S, ",
             "version": "",
             "quantaty": 0,
             "title": "isopor, capa traseira, isolação, isolação"
@@ -5215,7 +5146,7 @@
             "code": "64188839",
             "brand": "Electrolux",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "LAC12/LAC13/LB12Q/LBT12/LBU15/LES13/LM13Q/LP12Q/LPR13/LPR14/LQ10/LT12B/LT12F/LT12Q/LT13B/LT15F/LTA13/LTC07/LTC12/LTC15/LTD13/LTE06/LTE07/LTE08/LTE12/LTP12/LTP15/LWI13/PWL22SA/WWL22SA/",
+            "model": "LAC12, LAC13, LB12Q, LBT12, LBU15, LES13, LM13Q, LP12Q, LPR13, LPR14, LQ10, LT12B, LT12F, LT12Q, LT13B, LT15F, LTA13, LTC07, LTC12, LTC15, LTD13, LTE06, LTE07, LTE08, LTE12, LTP12, LTP15, LWI13, PWL22SA, WWL22SA, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -5225,7 +5156,7 @@
             "code": "64484593",
             "brand": "Electrolux",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "LT60/",
+            "model": "LT60, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -5235,7 +5166,7 @@
             "code": "64491600",
             "brand": "Electrolux",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "LS12Q/LS14A/LTR10/LTR12/LTR15/LTS12/",
+            "model": "LS12Q, LS14A, LTR10, LTR12, LTR15, LTS12, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -5245,7 +5176,7 @@
             "code": "64491712",
             "brand": "Electrolux",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "LAC09/LB12Q/LBT12/LES11/LF80/LS12Q/LT08E/LT09B/LT09E/LTE09/LTC12/LTC10/LTD09, LT10B",
+            "model": "LAC09, LB12Q, LBT12, LES11, LF80, LS12Q, LT08E, LT09B, LT09E, LTE09, LTC12, LTC10, LTD09, LT10B",
             "version": "",
             "quantaty": 0,
             "title": "atuador freio"
@@ -5265,7 +5196,7 @@
             "code": "64500826",
             "brand": "Electrolux",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "LAC11/LM08/LT11F/LTD11/LTE07/LTE08/",
+            "model": "LAC11, LM08, LT11F, LTD11, LTE07, LTE08, ",
             "version": "",
             "quantaty": 0,
             "title": "atuador feio"
@@ -5285,7 +5216,7 @@
             "code": "64502726",
             "brand": "Electrolux",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "LT09B/LT10B/LTD09/LTD11/LTP10/",
+            "model": "LT09B, LT10B, LTD09, LTD11, LTP10, ",
             "version": "",
             "quantaty": 0,
             "title": "pressostato 4 niveis"
@@ -5295,7 +5226,7 @@
             "code": "64500662",
             "brand": "Electrolux",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "LA15F/LAC12/LAC13/LAC16/LAI17/LAP16/LBU15/LBU16/LDD16/LEC12/LM13Q/LP12Q/LPE16/LPR16/LPR17/LST12/LSW12/LSW15/LT12B/LT12F/LT12Q/LT13B/LT15F/LTA13/LTA15/LTC15/LTD13/LTD15/LTD16/LTE12/LTM15/LTM16/LTP12/LTP15/LTP16/LTR15/",
+            "model": "LA15F, LAC12, LAC13, LAC16, LAI17, LAP16, LBU15, LBU16, LDD16, LEC12, LM13Q, LP12Q, LPE16, LPR16, LPR17, LST12, LSW12, LSW15, LT12B, LT12F, LT12Q, LT13B, LT15F, LTA13, LTA15, LTC15, LTD13, LTD15, LTD16, LTE12, LTM15, LTM16, LTP12, LTP15, LTP16, LTR15, ",
             "version": "",
             "quantaty": 0,
             "title": "atuador freio"
@@ -5305,7 +5236,7 @@
             "code": "64800263",
             "brand": "Electrolux",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "LTA15/",
+            "model": "LTA15",
             "version": "",
             "quantaty": 0,
             "title": "pressostato eletronico"
@@ -5315,7 +5246,7 @@
             "code": "67496251",
             "brand": "Electrolux",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "/LTD06/LTE06/",
+            "model": "LTD06, LTE06",
             "version": "",
             "quantaty": 0,
             "title": "pressostato 4 niveis"
@@ -5325,7 +5256,7 @@
             "code": "64500857",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DF36A/DF36X/DF42/DF42X/DFN42/DFX42/DW42X/RFE38/RFE39/TF42/TF42S/",
+            "model": "DF36A, DF36X, DF42, DF42X, DFN42, DFX42, DW42X, RFE38, RFE39, TF42, TF42S, ",
             "version": "",
             "quantaty": 0,
             "title": "placa display"
@@ -5335,7 +5266,7 @@
             "code": "64502352",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DF80/DF80X/DFW51/DW51X/DWN51/DWX51/",
+            "model": "DF80, DF80X, DFW51, DW51X, DWN51, DWX51, ",
             "version": "",
             "quantaty": 0,
             "title": "painel eletronico, placa interface, placa display"
@@ -5345,7 +5276,7 @@
             "code": "70001456",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DF47/DF50/DF50X/DFW50/DW50X/",
+            "model": "DF47, DF50, DF50X, DFW50, DW50X, ",
             "version": "",
             "quantaty": 0,
             "title": "kit df50, kit placa df50, kit placa ventilador"
@@ -5355,7 +5286,7 @@
             "code": "70001454",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DF46/DF49/",
+            "model": "DF46, DF49, ",
             "version": "",
             "quantaty": 0,
             "title": "kit df49, kit placa df49, kit placa ventilador"
@@ -5365,7 +5296,7 @@
             "code": "64502351",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DF47/DF49A/DF49X/DF50/DF50X/DFN49/DFN50/DFW50/DFX49/DFX50/DW50X/DWX50/",
+            "model": "DF47, DF49A, DF49X, DF50, DF50X, DFN49, DFN50, DFW50, DFX49, DFX50, DW50X, DWX50, ",
             "version": "",
             "quantaty": 0,
             "title": "Placa Interface, placa display, painel eletronico"
@@ -5375,7 +5306,7 @@
             "code": "64800224",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DCW49/DF43/DF46/DF48/DF48X/DF49/DFW48/DFW49/DFW50/DW48X/",
+            "model": "DCW49, DF43, DF46, DF48, DF48X, DF49, DFW48, DFW49, DFW50, DW48X, ",
             "version": "",
             "quantaty": 0,
             "title": "placa interface, painel eletronico, placa display"
@@ -5385,7 +5316,7 @@
             "code": "64502354",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DF51/DF51X/DF52/DF52X/DFN52/DFW52/DW52X/IF51/IF51X/",
+            "model": "DF51, DF51X, DF52, DF52X, DFN52, DFW52, DW52X, IF51, IF51X, ",
             "version": "",
             "quantaty": 0,
             "title": "placa interface, painel eletronico, placa display"
@@ -5395,7 +5326,7 @@
             "code": "70202436",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DFW51/DW51X/DWN51/DWX51/",
+            "model": "DFW51, DW51X, DWN51, DWX51, ",
             "version": "",
             "quantaty": 0,
             "title": "placa potencia, controle eletrônico, controle eletronico"
@@ -5405,7 +5336,7 @@
             "code": "70202437",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DF80/DF80X/",
+            "model": "DF80, DF80X, ",
             "version": "",
             "quantaty": 0,
             "title": "placa potencia, controle eletrônico, controle eletronico"
@@ -5425,7 +5356,7 @@
             "code": "64500437",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DF47/DF49A/DF49X/DF50/DF50X/DFN49/DFN50/DFW50/DFX49/DFX50/DW50X/DWX50/",
+            "model": "DF47, DF49A, DF49X, DF50, DF50X, DFN49, DFN50, DFW50, DFX49, DFX50, DW50X, DWX50, ",
             "version": "",
             "quantaty": 0,
             "title": "placa potencia, controle eletrônico, controle eletronico"
@@ -5435,7 +5366,7 @@
             "code": "64502201",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DF51/DF51X/DF52/DF52X/DFN52/DFW52/DW52X/",
+            "model": "DF51, DF51X, DF52, DF52X, DFN52, DFW52, DW52X, ",
             "version": "",
             "quantaty": 0,
             "title": "placa potencia, controle eletrônico, controle eletronico"
@@ -5445,7 +5376,7 @@
             "code": "64800634",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "LTE12/",
+            "model": "LTE12",
             "version": "",
             "quantaty": 0,
             "title": "painel eletrônico, painel eletronico, placa display"
@@ -5455,7 +5386,7 @@
             "code": "64800637",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DF80/DF80X/DFW51/DW51X/DWN51/DWX51/",
+            "model": "DF80, DF80X, DFW51, DW51X, DWN51, DWX51, ",
             "version": "",
             "quantaty": 0,
             "title": "placa potencia, controle eletrônico, controle eletronico"
@@ -5465,17 +5396,17 @@
             "code": "70200537",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DF46/DF49/",
+            "model": "DF46, DF49",
             "version": "",
             "quantaty": 0,
             "title": "placa potencia, controle eletrônico, controle eletronico"
         } ,
         {
             "name": "Placa Potência RFE38",
-            "code": "70200714",
+            "code": "A99270606",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "rfe38",
+            "model": "RFE38",
             "version": "",
             "quantaty": 0,
             "title": "placa potencia, controle eletrônico, controle eletronico"
@@ -5495,7 +5426,7 @@
             "code": "70202973",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DFN39/DFX39/",
+            "model": "DFN39, DFX39",
             "version": "",
             "quantaty": 0,
             "title": "placa potencia, controle eletrônico, controle eletronico"
@@ -5505,7 +5436,7 @@
             "code": "A10089001",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DFX41/DFN41/TF39/TF39S",
+            "model": "DFX41, DFN41, TF39, TF39S",
             "version": "",
             "quantaty": 0,
             "title": "placa display"
@@ -5515,7 +5446,7 @@
             "code": "70200521",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DF47/DF50/DF50X/DFW50/DW50X/",
+            "model": "DF47, DF50, DF50X, DFW50, DW50X, ",
             "version": "",
             "quantaty": 0,
             "title": "placa potencia, controle eletrônico, controle eletronico"
@@ -5535,7 +5466,7 @@
             "code": "64500135",
             "brand": "Electrolux",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "LT11F/LT12F/LT15F/LTC10/LTC12/LTC15/LTD09/LTD11/",
+            "model": "LT11F, LT12F, LT15F, LTC10, LTC12, LTC15, LTD09, LTD11, ",
             "version": "",
             "quantaty": 0,
             "title": "placa display"
@@ -5555,7 +5486,7 @@
             "code": "64503063",
             "brand": "Electrolux",
             "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-            "model": "LAC13/LES13/LTD15/LT13B/LAC09/LPE16/LAC16/LES15/LTD09/LTD11/LT12F/LT15F/LT10B/LT12B/LTD13/LAC11/LAC12",
+            "model": "LAC13, LES13, LTD15, LT13B, LAC09, LPE16, LAC16, LES15, LTD09, LTD11, LT12F, LT15F, LT10B, LT12B, LTD13, LAC11, LAC12",
             "version": "",
             "quantaty": 0,
             "title": "placa display"
@@ -5575,7 +5506,7 @@
             "code": "70200522",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DF46/DF49",
+            "model": "DF46, DF49",
             "version": "",
             "quantaty": 0,
             "title": "placa potencia, placa potência, controle eletrônico, controle eletronico"
@@ -5625,7 +5556,7 @@
             "code": "64684457",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DCW49/DF35/DF38/DF40/DF41/DF43/DF45/DF45X/DF46/DF47/DF48/DF48X/DF49/DF49A/DF49X/DF50/DF50X/DFF37/DFF39/DFF40/DFF44/DFN49/DFN50/DFW45/DFW48/DFW49/DFW50/DFW51/DFX49/DFX50/DW45X/DW48X/DW49X/DW50X/DW51X/DWN51/DWX50/DWX51/WF37/WF40/WF44/WRT405/",
+            "model": "DCW49, DF35, DF38, DF40, DF41, DF43, DF45, DF45X, DF46, DF47, DF48, DF48X, DF49, DF49A, DF49X, DF50, DF50X, DFF37, DFF39, DFF40, DFF44, DFN49, DFN50, DFW45, DFW48, DFW49, DFW50, DFW51, DFX49, DFX50, DW45X, DW48X, DW49X, DW50X, DW51X, DWN51, DWX50, DWX51, WF37, WF40, WF44, WRT405, ",
             "version": "",
             "quantaty": 0,
             "title": "resistencia"
@@ -5635,7 +5566,7 @@
             "code": "64684670",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DFF37/DFF40/DFF44/",
+            "model": "DFF37, DFF40, DFF44, ",
             "version": "",
             "quantaty": 0,
             "title": "resistência degelo, resistencia degelo, resistencia congelador, resistencia freezer, resistência congelador, resistência freezer, resistencia evaporador"
@@ -5645,7 +5576,7 @@
             "code": "64594063",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DF34A/DF35A/DF35X/",
+            "model": "DF34A, DF35A, DF35X, ",
             "version": "",
             "quantaty": 0,
             "title": "placa eletronica, placa potencia, placa potência, controle eletrônico, controle eletronico"
@@ -5655,7 +5586,7 @@
             "code": "64800638",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DFI80/DI80X/DT80X/",
+            "model": "DFI80, DI80X, DT80X, ",
             "version": "",
             "quantaty": 0,
             "title": "placa eletronica, placa potencia, placa potência, controle eletrônico, controle eletronico"
@@ -5665,7 +5596,7 @@
             "code": "70201095",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DF36A/DF36X/",
+            "model": "DF36A, DF36X, ",
             "version": "",
             "quantaty": 0,
             "title": "placa eletronica, placa potencia, placa potência, controle eletrônico, controle eletronico"
@@ -5675,7 +5606,7 @@
             "code": "70202974",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DFN39/DFX39/",
+            "model": "DFN39, DFX39, ",
             "version": "",
             "quantaty": 0,
             "title": "placa display"
@@ -5685,7 +5616,7 @@
             "code": "70201381",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DF42/DF42X/DFN42/DFX42/DW42X/TF42/TF42S/",
+            "model": "DF42, DF42X, DFN42, DFX42, DW42X, TF42, TF42S, ",
             "version": "",
             "quantaty": 0,
             "title": "placa eletronica, placa potencia, placa potência, controle eletrônico, controle eletronico"
@@ -5695,7 +5626,7 @@
             "code": "A02607601",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DI80X/DT80X",
+            "model": "DI80X, DT80X",
             "version": "",
             "quantaty": 0,
             "title": "placa eletronica, placa potencia, placa potência, controle eletrônico, controle eletronico"
@@ -5715,7 +5646,7 @@
             "code": "64376967",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DF34/DF36/DF37/DF38A/DF38X/DF39/DF40A/DFW35/DW39X/",
+            "model": "DF34, DF36, DF37, DF38A, DF38X, DF39, DF40A, DFW35, DW39X, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -5725,7 +5656,7 @@
             "code": "64594024",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DF34A/DF35A/DF35X/DF36A/DF36X/DF42/DF42X/DFN39/DFN41/DFN42/DFX39/DFX41/DFX42/DW42X/RFE38/RFE39/TF42/TF42S/",
+            "model": "DF34A, DF35A, DF35X, DF36A, DF36X, DF42, DF42X, DFN39, DFN41, DFN42, DFX39, DFX41, DFX42, DW42X, RFE38, RFE39, TF42, TF42S, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -5735,7 +5666,7 @@
             "code": "70201290",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DF51/DF51X/DF52/DF52X/DF80/DF80X/DFN52/DFW52/DI80X/DT80X/DW52X/",
+            "model": "DF51, DF51X, DF52, DF52X, DF80, DF80X, DFN52, DFW52, DI80X, DT80X, DW52X, ",
             "version": "",
             "quantaty": 0,
             "title": "motor ventilador"
@@ -5745,7 +5676,7 @@
             "code": "70201412",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DF80/DF80X/DFI80/DI80X/DT80X/",
+            "model": "DF80, DF80X, DFI80, DI80X, DT80X, ",
             "version": "",
             "quantaty": 0,
             "title": "motor ventilador"
@@ -5765,7 +5696,7 @@
             "code": "70294645",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DF80/DF80X/DFI80/DI80X/DT80X/",
+            "model": "DF80, DF80X, DFI80, DI80X, DT80X, ",
             "version": "",
             "quantaty": 0,
             "title": "motor ventilador"
@@ -5785,7 +5716,7 @@
             "code": "21011700400002",
             "brand": "Electrolux",
             "subject": "bebedouro, gelagua",
-            "model": "BC20X/WD20C/",
+            "model": "BC20X, WD20C, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -5805,7 +5736,7 @@
             "code": "64778618",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "F170/F210/F250/FE18/FE22/FE26/FUD18S/FUD22S/FUD26S/",
+            "model": "F170, F210, F250, FE18, FE22, FE26, FUD18S, FUD22S, FUD26S, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -5815,7 +5746,7 @@
             "code": "64778622",
             "brand": "Electrolux",
             "subject": "freezer",
-            "model": "FCX30E/FCX40S/H160/H210/H220/H300/H300G/H300L/H300P/H320/H400/H400G/H405/H420/H500/H520/WC305BTW/WC306BTW/",
+            "model": "FCX30E, FCX40S, H160, H210, H220, H300, H300G, H300L, H300P, H320, H400, H400G, H405, H420, H500, H520, WC305BTW, WC306BTW, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -5825,7 +5756,7 @@
             "code": "64778672",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "RE26/RE26G/",
+            "model": "RE26, RE26G, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -5835,7 +5766,7 @@
             "code": "64778675",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DC38/DC46/DC47A/DC48/DC49A/DC50/DC50X/DC51/DC51X/DCW49/DCW50/",
+            "model": "DC38, DC46, DC47A, DC48, DC49A, DC50, DC50X, DC51, DC51X, DCW49, DCW50, ",
             "version": "",
             "quantaty": 0,
             "title": "termostato baixo ruido"
@@ -5845,7 +5776,7 @@
             "code": "64786945",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "RD30G/RDE30/RDE31/RDE33/RE28/RE28/FRF305/RE28A/RE29/RE31/RE35/RW34/RW35/",
+            "model": "RD30G, RDE30, RDE31, RDE33, RE28, RE28, FRF305, RE28A, RE29, RE31, RE35, RW34, RW35, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -5855,7 +5786,7 @@
             "code": "64786901",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "AND3597/DF34/DF34R/DF35/DF36G/DF37/DF38A/DF38X/DF39/DF40A/DFW35/DW39X/END3597/WRF13ED3W/",
+            "model": "AND3597, DF34, DF34R, DF35, DF36G, DF37, DF38A, DF38X, DF39, DF40A, DFW35, DW39X, END3597, WRF13ED3W, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -5865,7 +5796,7 @@
             "code": "64786914",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DC33/DC35/DCW35/WRT325/WTR325/",
+            "model": "DC33, DC35, DCW35, WRT325, WTR325, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -5875,7 +5806,7 @@
             "code": "64786926",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DC45/DC47/DC47G/FRT45S/FRT47S/",
+            "model": "DC45, DC47, DC47G, FRT45S, FRT47S, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -5885,7 +5816,7 @@
             "code": "64786932",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DC360/DC37/DC39/DC39A/DC41/DC41P/DC42/DC43/DC44/DCW41/DCW42/WD365ASW/WRD425/",
+            "model": "DC360, DC37, DC39, DC39A, DC41, DC41P, DC42, DC43, DC44, DCW41, DCW42, WD365ASW, WRD425, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -5895,7 +5826,7 @@
             "code": "64786934",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DC33A/DC34A/DC35A/WRD345/",
+            "model": "DC33A, DC34A, DC35A, WRD345, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -5925,7 +5856,7 @@
             "code": "62900695",
             "brand": "Electrolux",
             "subject": "freezer",
-            "model": "FCX30E/FCX40S/H160/H210/H220/H300/H300G/H300L/H300P/H320/H400/H400G/H420/H500/H520/WC305BTW/WC306BTW/",
+            "model": "FCX30E, FCX40S, H160, H210, H220, H300, H300G, H300L, H300P, H320, H400, H400G, H420, H500, H520, WC305BTW, WC306BTW, ",
             "version": "",
             "quantaty": 0,
             "title": "dobradica mola, dobradiça mola, dobradica com mola"
@@ -5935,7 +5866,7 @@
             "code": "64500290",
             "brand": "Electrolux",
             "subject": "microondas",
-            "model": "MA30S/MB37R/MB41G/MC34B/MC34S/ME18S/ME21G/ME21S/ME28G/ME28S/ME28X/ME30G/ME30X/ME41X/MEC41/MEF28/MEF30/MEF33/MEF41/MEG41/MEO44/MEP37/MEP41/MEV41/MEX41/MG41P/MI41S/MI41T/MS37R/MTD30/",
+            "model": "MA30S, MB37R, MB41G, MC34B, MC34S, ME18S, ME21G, ME21S, ME28G, ME28S, ME28X, ME30G, ME30X, ME41X, MEC41, MEF28, MEF30, MEF33, MEF41, MEG41, MEO44, MEP37, MEP41, MEV41, MEX41, MG41P, MI41S, MI41T, MS37R, MTD30, ",
             "version": "",
             "quantaty": 0,
             "title": "cabo eletrico, tomada, cabo alimentacao, cabo alimentação"
@@ -5965,7 +5896,7 @@
             "code": "65400082",
             "brand": "Electrolux",
             "subject": "lavadora, máquina de lavar, maquina de lavar",
-            "model": "LTC07/",
+            "model": "LTC07, ",
             "version": "",
             "quantaty": 0,
             "title": "suporte do cesto, suporte cesto, cubo cesto"
@@ -5985,7 +5916,7 @@
             "code": "60017222",
             "brand": "Electrolux",
             "subject": "lavadora, máquina de lavar, maquina de lavar",
-            "model": "EW107HDCW/LAC09/LT08E/LT09B/LTD09/LTE07/LTE08/",
+            "model": "EW107HDCW, LAC09, LT08E, LT09B, LTD09, LTE07, LTE08, ",
             "version": "",
             "quantaty": 0,
             "title": "mecanismo, mecanica, transmissao, mecânica"
@@ -5995,7 +5926,7 @@
             "code": "70201828",
             "brand": "Electrolux",
             "subject": "lavadora, máquina de lavar, maquina de lavar",
-            "model": "LA15F/LAC12/LAC13/LBU15/LBU16/LDD16/LEC12/LES13/LM13Q/LP12Q/LPR13/LPR14/LT12B/LT12F/LT12Q/LT13B/LT15F/LTA13/LTA15/LTC15/LTD13/LTD15/LTD16/LTE12/LTM15/LTM16/LTP12/LTP15/LTP16/LTR15/LWI13/",
+            "model": "LA15F, LAC12, LAC13, LBU15, LBU16, LDD16, LEC12, LES13, LM13Q, LP12Q, LPR13, LPR14, LT12B, LT12F, LT12Q, LT13B, LT15F, LTA13, LTA15, LTC15, LTD13, LTD15, LTD16, LTE12, LTM15, LTM16, LTP12, LTP15, LTP16, LTR15, LWI13, ",
             "version": "",
             "quantaty": 0,
             "title": "mecanismo, mecanica, transmissao, mecânica"
@@ -6005,7 +5936,7 @@
             "code": "A99806501",
             "brand": "Electrolux",
             "subject": "lavadora, máquina de lavar, maquina de lavar",
-            "model": "LA15F/LAC12/LAC13/LBU15/LBU16/LDD16/LEC12/LES13/LM13Q/LP12Q/LPR13/LPR14/LT12B/LT12F/LT12Q/LT13B/LT15F/LTA13/LTA15/LTC15/LTD13/LTD15/LTD16/LTE12/LTM15/LTM16/LTP12/LTP15/LTP16/LTR15/LWI13/",
+            "model": "LA15F, LAC12, LAC13, LBU15, LBU16, LDD16, LEC12, LES13, LM13Q, LP12Q, LPR13, LPR14, LT12B, LT12F, LT12Q, LT13B, LT15F, LTA13, LTA15, LTC15, LTD13, LTD15, LTD16, LTE12, LTM15, LTM16, LTP12, LTP15, LTP16, LTR15, LWI13, ",
             "version": "",
             "quantaty": 0,
             "title": "mecanismo, mecanica, transmissao, mecânica, embreagem, 70201828"
@@ -6025,7 +5956,7 @@
             "code": "64501801",
             "brand": "Electrolux",
             "subject": "microondas",
-            "model": "MEF41/",
+            "model": "MEF41, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -6045,7 +5976,7 @@
             "code": "64502175",
             "brand": "Electrolux",
             "subject": "microondas",
-            "model": "MA30S/MB41G/ME18S/ME28S/ME41X/MEC41/MEF28/MEF30/MEF33/MEF41/MEG41/MEP37/MEP41/MG41P/MG41R/MI41S/MI41T/MTD30/MTX52/",
+            "model": "MA30S, MB41G, ME18S, ME28S, ME41X, MEC41, MEF28, MEF30, MEF33, MEF41, MEG41, MEP37, MEP41, MG41P, MG41R, MI41S, MI41T, MTD30, MTX52, ",
             "version": "",
             "quantaty": 0,
             "title": "fusivel de vidro, fusivel vidro"
@@ -6055,7 +5986,7 @@
             "code": "64980189",
             "brand": "Electrolux",
             "subject": "microondas",
-            "model": "21G/21S/MB38T/MB38X/MB41G/ME21G/ME21S/ME28G/ME28S/ME28X/ME30G/ME30X/MEC41/MEF33/MEF41/MEG33/MEG41/MEP41/MEV41/MEX41/MG41P/MG41R/MI41S/MI41T/",
+            "model": "21G, 21S, MB38T, MB38X, MB41G, ME21G, ME21S, ME28G, ME28S, ME28X, ME30G, ME30X, MEC41, MEF33, MEF41, MEG33, MEG41, MEP41, MEV41, MEX41, MG41P, MG41R, MI41S, MI41T, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -6115,7 +6046,7 @@
             "code": "69999741",
             "brand": "Electrolux",
             "subject": "microondas",
-            "model": "21G/21S/ME21G/ME21S/MEF33/MEG33/",
+            "model": "21G, 21S, ME21G, ME21S, MEF33, MEG33, ",
             "version": "",
             "quantaty": 0,
             "title": "suporte do prato"
@@ -6125,7 +6056,7 @@
             "code": "70000738",
             "brand": "Electrolux",
             "subject": "microondas",
-            "model": "MG41R/",
+            "model": "MG41R, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -6195,7 +6126,7 @@
             "code": "64188736",
             "brand": "Electrolux",
             "subject": "refrigerador, geladeira",
-            "model": "DF34A/DF35A/DF35X/DF36A/DF36X/DF42/DF42X/DF44/DF44S/DF45/DFN39/DFN41/DFN42/DFX39/DFX41/DFX42/DW42X/DW44S/RFE38/RFE39/TC41/TC41S/TC44/TC44S/TF39/TF39S/TF42/TF42S/TW42S/",
+            "model": "DF34A, DF35A, DF35X, DF36A, DF36X, DF42, DF42X, DF44, DF44S, DF45, DFN39, DFN41, DFN42, DFX39, DFX41, DFX42, DW42X, DW44S, RFE38, RFE39, TC41, TC41S, TC44, TC44S, TF39, TF39S, TF42, TF42S, TW42S, ",
             "version": "",
             "quantaty": 0,
             "title": "fusivel termico, fusível termico, fusivel térmico"
@@ -6205,7 +6136,7 @@
             "code": "64501590",
             "brand": "Electrolux",
             "subject": "refrigerador, geladeira",
-            "model": "DF80/DF80X/DFI80/DT80X/",
+            "model": "DF80, DF80X, DFI80, DT80X, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -6215,7 +6146,7 @@
             "code": "64502196",
             "brand": "Electrolux",
             "subject": "refrigerador, geladeira",
-            "model": "DF51/DF51X/DF52/DF52X/DF53/DF53X/DF54/DF54X/DF82/DF82X/DFN52/DFW52/DW52X/DW54X/TF51/TF51X/TF52/TF52X/",
+            "model": "DF51, DF51X, DF52, DF52X, DF53, DF53X, DF54, DF54X, DF82, DF82X, DFN52, DFW52, DW52X, DW54X, TF51, TF51X, TF52, TF52X, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -6225,7 +6156,7 @@
             "code": "70000949",
             "brand": "Electrolux",
             "subject": "refrigerador, geladeira",
-            "model": "DB52/DB52X/DB53/DB53X/DB83/DB83X/DB84/DB84S/DB84X/DF34A/DF35A/DF35X/DF36A/DF36X/DF42/DF42X/DF44/DF44S/DF51/DF51X/DF52/DF52X/DF53/DF53X/DF54/DF54X/DF56/DF56S/DF80/DF80X/DF82/DF82X/DFN39/DFN41/DFN42/DFN52/DFW52/DFX39/DFX41/DFX42/DI80X/DM83X/DM84X/DM85X/DM86V/DM86X/DT52X/DT80X/DW42X/DW44S/DW52X/DW54X/IB52/IB52X/IB53/IB53X/IF51/IF51X/IF53/IF53X/IF55/IF55S/RFE38/RFE39/TC41/TC41S/TC44/TC44S/TC56/TC56S/TF39/TF39S/TF42/TF42S/TF51/TF51X/TF52/TF52X/TF55/TF55S/TF56/TF56S/TW42S/",
+            "model": "DB52, DB52X, DB53, DB53X, DB83, DB83X, DB84, DB84S, DB84X, DF34A, DF35A, DF35X, DF36A, DF36X, DF42, DF42X, DF44, DF44S, DF51, DF51X, DF52, DF52X, DF53, DF53X, DF54, DF54X, DF56, DF56S, DF80, DF80X, DF82, DF82X, DFN39, DFN41, DFN42, DFN52, DFW52, DFX39, DFX41, DFX42, DI80X, DM83X, DM84X, DM85X, DM86V, DM86X, DT52X, DT80X, DW42X, DW44S, DW52X, DW54X, IB52, IB52X, IB53, IB53X, IF51, IF51X, IF53, IF53X, IF55, IF55S, RFE38, RFE39, TC41, TC41S, TC44, TC44S, TC56, TC56S, TF39, TF39S, TF42, TF42S, TF51, TF51X, TF52, TF52X, TF55, TF55S, TF56, TF56S, TW42S, ",
             "version": "",
             "quantaty": 0,
             "title": "sensor temperatura"
@@ -6235,7 +6166,7 @@
             "code": "70202837",
             "brand": "Electrolux",
             "subject": "refrigerador, geladeira",
-            "model": "DB52/DB52X/DB53/DB53X/DB83/DB83X/DB84/DB84S/DB84X/DF51/DF51X/DF52/DF52X/DF53/DF53X/DF54/DF54X/DF56/DF56S/DF80/DF80X/DF82/DF82X/DFN52/DFW52/DI80X/DM83X/DM84X/DM85X/DM86V/DM86X/DT52X/DT80X/DW52X/DW54X/IB52/IB52X/IB53/IB53X/IF51/IF51X/IF53/IF53X/IF55/IF55S/TC56/TC56S/TF51/TF51X/TF52/TF52X/TF55/TF55S/TF56/TF56S/",
+            "model": "DB52, DB52X, DB53, DB53X, DB83, DB83X, DB84, DB84S, DB84X, DF51, DF51X, DF52, DF52X, DF53, DF53X, DF54, DF54X, DF56, DF56S, DF80, DF80X, DF82, DF82X, DFN52, DFW52, DI80X, DM83X, DM84X, DM85X, DM86V, DM86X, DT52X, DT80X, DW52X, DW54X, IB52, IB52X, IB53, IB53X, IF51, IF51X, IF53, IF53X, IF55, IF55S, TC56, TC56S, TF51, TF51X, TF52, TF52X, TF55, TF55S, TF56, TF56S, ",
             "version": "",
             "quantaty": 0,
             "title": "fusivel termico, fusível termico, fusivel térmico"
@@ -6245,7 +6176,7 @@
             "code": "70288465",
             "brand": "Electrolux",
             "subject": "refrigerador, geladeira",
-            "model": "DCW49/DF38/DF41/DF43/DF45/DF45X/DF46/DF47/DF48/DF48X/DF49/DF50/DF50X/DFF37/DFF39/DFF40/DFF44/DFW45/DFW48/DFW49/DFW50/DW45X/DW48X/DW49X/DW50X/FRT456DPW/FRT456DPX/WF37/WF40/WF44/WRT405/",
+            "model": "DCW49, DF38, DF41, DF43, DF45, DF45X, DF46, DF47, DF48, DF48X, DF49, DF50, DF50X, DFF37, DFF39, DFF40, DFF44, DFW45, DFW48, DFW49, DFW50, DW45X, DW48X, DW49X, DW50X, FRT456DPW, FRT456DPX, WF37, WF40, WF44, WRT405, ",
             "version": "",
             "quantaty": 0,
             "title": "fusivel termico, fusível termico, fusivel térmico"
@@ -6255,7 +6186,7 @@
             "code": "70291132",
             "brand": "Electrolux",
             "subject": "refrigerador, geladeira",
-            "model": "DF34/DF34G/DF34R/DF35/DF36/DF36G/DF37/DF38A/DF38X/DF39/DF40A/DFW35/DW39X/",
+            "model": "DF34, DF34G, DF34R, DF35, DF36, DF36G, DF37, DF38A, DF38X, DF39, DF40A, DFW35, DW39X, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -6265,7 +6196,7 @@
             "code": "70294643",
             "brand": "Electrolux",
             "subject": "refrigerador, geladeira",
-            "model": "DF80/DF80X/DFI80/DI80X/DT80X/",
+            "model": "DF80, DF80X, DFI80, DI80X, DT80X, ",
             "version": "",
             "quantaty": 0,
             "title": "fusivel termico, fusível termico, fusivel térmico"
@@ -6275,7 +6206,7 @@
             "code": "70295125",
             "brand": "Electrolux",
             "subject": "refrigerador, geladeira",
-            "model": "DF41/DF45/DF46/DF47/DF49/DF49A/DF49X/DF50/DF50X/DFN49/DFN50/DFW50/DFW51/DFX49/DFX50/DI80X/DT80X/DW50X/DW51X/DWN51/DWX50/DWX51/",
+            "model": "DF41, DF45, DF46, DF47, DF49, DF49A, DF49X, DF50, DF50X, DFN49, DFN50, DFW50, DFW51, DFX49, DFX50, DI80X, DT80X, DW50X, DW51X, DWN51, DWX50, DWX51, ",
             "version": "",
             "quantaty": 0,
             "title": "fusivel termico, fusível termico, fusivel térmico"
@@ -6295,7 +6226,7 @@
             "code": "62545864",
             "brand": "Electrolux",
             "subject": "refrigerador, geladeira",
-            "model": "DC45/DC47/DC47A/DC47G/DC49A/DC50/DC50X/DCW49/DCW50/DF35/DF38/DF40/DF41/DF43/DF45/DF45X/DF46/DF47/DF48/DF48X/DF49/DF49A/DF49X/DF50/DF50X/DFF37/DFF39/DFF40/DFF44/DFN49/DFN50/DFW45/DFW48/DFW49/DFW50/DFX49/DFX50/DW45X/DW48X/DW49X/DW50X/DWX50/FRT35S/FRT456DPW/FRT456DPX/FRT45S/FRT47S/WF37/WF40/WF44/WRT405/",
+            "model": "DC45, DC47, DC47A, DC47G, DC49A, DC50, DC50X, DCW49, DCW50, DF35, DF38, DF40, DF41, DF43, DF45, DF45X, DF46, DF47, DF48, DF48X, DF49, DF49A, DF49X, DF50, DF50X, DFF37, DFF39, DFF40, DFF44, DFN49, DFN50, DFW45, DFW48, DFW49, DFW50, DFX49, DFX50, DW45X, DW48X, DW49X, DW50X, DWX50, FRT35S, FRT456DPW, FRT456DPX, FRT45S, FRT47S, WF37, WF40, WF44, WRT405, ",
             "version": "",
             "quantaty": 0,
             "title": "dobradiça da porta, dobradiça porta, dobradica"
@@ -6305,7 +6236,7 @@
             "code": "64484557",
             "brand": "Electrolux",
             "subject": "refrigerador, geladeira",
-            "model": "DC34/DC38/DC40/DC41/DC45/DC46/DC47/DC47A/DC47G/DC48/DC49A/DC49X/DC50X/DCW34/DCW40/DCW49/DCW50/DF34/DF34G/DF34R/DF35/DF36/DF36G/DF37/DF38/DF38A/DF38X/DF39/DF40/DF40A/DF41/DF43/DF45/DF45X/DF46/DF47/DF48/DF48X/DF49/DF49A/DF49X/DF50/DF50X/DFF37/DFF39/DFF40/DFF44/DFN49/DFN50/DFW35/DFW45/DFW48/DFW49/DFW50/DFX49/DFX50/DW39X/DW45X/DW48X/DW49X/DW50X/DWX50/END3597/FRF13D2WF/FRT456DPW/FRT45S/FRT47S/WRF13ED3W/WRT405/",
+            "model": "DC34, DC38, DC40, DC41, DC45, DC46, DC47, DC47A, DC47G, DC48, DC49A, DC49X, DC50X, DCW34, DCW40, DCW49, DCW50, DF34, DF34G, DF34R, DF35, DF36, DF36G, DF37, DF38, DF38A, DF38X, DF39, DF40, DF40A, DF41, DF43, DF45, DF45X, DF46, DF47, DF48, DF48X, DF49, DF49A, DF49X, DF50, DF50X, DFF37, DFF39, DFF40, DFF44, DFN49, DFN50, DFW35, DFW45, DFW48, DFW49, DFW50, DFX49, DFX50, DW39X, DW45X, DW48X, DW49X, DW50X, DWX50, END3597, FRF13D2WF, FRT456DPW, FRT45S, FRT47S, WRF13ED3W, WRT405, ",
             "version": "",
             "quantaty": 0,
             "title": "interruptor da porta, interruptor da lampada, interruptor da lâmpada, interruptor lampada, interruptor lâmpada"
@@ -6315,7 +6246,7 @@
             "code": "64491713",
             "brand": "Electrolux",
             "subject": "refrigerador, geladeira",
-            "model": "DB52/DB52X/DB53/DB53X/DB83/DB83X/DB84/DB84S/DB84X/DC50/DC51/DC51X/DF36A/DF36X/DF42/DF42X/DF44/DF44S/DF51/DF51X/DF52/DF52X/DF53/DF53X/DF54/DF54X/DF56/DF56S/DF80/DF80X/DF82/DF82X/DFI80/DFN39/DFN41/DFN42/DFN52/DFW51/DFW52/DFX39/DFX41/DFX42/DI80X/DM83X/DM84X/DM85X/DM86V/DM86X/DT52X/DT80X/DW42X/DW44S/DW51X/DW52X/DW54X/DWN51/DWX51/IB52/IB52X/IB53/IB53X/IF51/IF51X/IF53/IF53X/IF55/IF55S/TC41/TC41S/TC44/TC44S/TC56/TC56S/TF39/TF39S/TF42/TF42S/TF51/TF51X/TF52/TF52X/TF55/TF55S/TF56/TF56S/TW42S/",
+            "model": "DB52, DB52X, DB53, DB53X, DB83, DB83X, DB84, DB84S, DB84X, DC50, DC51, DC51X, DF36A, DF36X, DF42, DF42X, DF44, DF44S, DF51, DF51X, DF52, DF52X, DF53, DF53X, DF54, DF54X, DF56, DF56S, DF80, DF80X, DF82, DF82X, DFI80, DFN39, DFN41, DFN42, DFN52, DFW51, DFW52, DFX39, DFX41, DFX42, DI80X, DM83X, DM84X, DM85X, DM86V, DM86X, DT52X, DT80X, DW42X, DW44S, DW51X, DW52X, DW54X, DWN51, DWX51, IB52, IB52X, IB53, IB53X, IF51, IF51X, IF53, IF53X, IF55, IF55S, TC41, TC41S, TC44, TC44S, TC56, TC56S, TF39, TF39S, TF42, TF42S, TF51, TF51X, TF52, TF52X, TF55, TF55S, TF56, TF56S, TW42S, ",
             "version": "",
             "quantaty": 0,
             "title": "interruptor da porta, interruptor da lampada, interruptor da lâmpada, interruptor lampada, interruptor lâmpada"
@@ -6325,7 +6256,7 @@
             "code": "65158599",
             "brand": "Electrolux",
             "subject": "refrigerador, geladeira",
-            "model": "AND3597/DC35A/DC44/DF34/DF34A/DF34G/DF34R/DF35/DF35A/DF35X/DF36/DF36A/DF36G/DF36X/DF37/DF38A/DF38X/DF39/DF40A/DF42/DF42X/DF44/DF44S/DFN39/DFN41/DFN42/DFW35/DFX39/DFX41/DFX42/DW39X/DW42X/DW44S/END3597/TC41/TC41S/TC44/TC44S/TF39/TF39S/TF42/TF42S/TW42S/WRF13ED3W/",
+            "model": "AND3597, DC35A, DC44, DF34, DF34A, DF34G, DF34R, DF35, DF35A, DF35X, DF36, DF36A, DF36G, DF36X, DF37, DF38A, DF38X, DF39, DF40A, DF42, DF42X, DF44, DF44S, DFN39, DFN41, DFN42, DFW35, DFX39, DFX41, DFX42, DW39X, DW42X, DW44S, END3597, TC41, TC41S, TC44, TC44S, TF39, TF39S, TF42, TF42S, TW42S, WRF13ED3W, ",
             "version": "",
             "quantaty": 0,
             "title": "dobradiça da porta, dobradiça porta, dobradica"
@@ -6335,7 +6266,7 @@
             "code": "67403305",
             "brand": "Electrolux",
             "subject": "refrigerador, geladeira",
-            "model": "DF80X/DI80X/DT80X/DWX51/",
+            "model": "DF80X, DI80X, DT80X, DWX51, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -6345,7 +6276,7 @@
             "code": "67404026",
             "brand": "Electrolux",
             "subject": "refrigerador, geladeira",
-            "model": "DB52/DB53/IB52/IB53/TF51/TF52/",
+            "model": "DB52, DB53, IB52, IB53, TF51, TF52, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -6365,7 +6296,7 @@
             "code": "67493070",
             "brand": "Electrolux",
             "subject": "refrigerador, geladeira",
-            "model": "DC45/DC46/DC47/DC47A/DC48/DC49A/DC50/DCW49/DCW50/DF35/DF38/DF41/DF43/DF45/DF46/DF47/DF48/DF49/DF49A/DF50/DFF37/DFF39/DFF40/DFF44/DFN49/DFN50/DFW45/DFW48/DFW49/DFW50/FRT456DPW/FRT45S/FRT47S/WRT405/",
+            "model": "DC45, DC46, DC47, DC47A, DC48, DC49A, DC50, DCW49, DCW50, DF35, DF38, DF41, DF43, DF45, DF46, DF47, DF48, DF49, DF49A, DF50, DFF37, DFF39, DFF40, DFF44, DFN49, DFN50, DFW45, DFW48, DFW49, DFW50, FRT456DPW, FRT45S, FRT47S, WRT405, ",
             "version": "",
             "quantaty": 0,
             "title": "bucha da porta, bucha dobradiça, bucha da dobradiça, bucha porta"
@@ -6375,7 +6306,7 @@
             "code": "67493234",
             "brand": "Electrolux",
             "subject": "refrigerador, geladeira",
-            "model": "DB52/DB52X/DB53/DB53X/DB83/DB83X/DB84/DB84S/DB84X/DCW49/DF34/DF34A/DF34R/DF35/DF35A/DF35X/DF36/DF36A/DF36G/DF36X/DF37/DF38/DF38A/DF38X/DF39/DF40/DF40A/DF41/DF42/DF42X/DF43/DF44/DF44S/DF45/DF45X/DF46/DF47/DF48/DF48X/DF49/DF49A/DF49X/DF50/DF50X/DF51/DF51X/DF52/DF52X/DF53/DF53X/DF54/DF54X/DF80/DF80X/DF82/DF82X/DFF37/DFF40/DFF44/DFI80/DFN39/DFN41/DFN42/DFN49/DFN50/DFN52/DFW35/DFW45/DFW48/DFW49/DFW50/DFW51/DFW52/DFX39/DFX41/DFX42/DFX49/DFX50/DI80X/DM83X/DM84X/DM85X/DM86V/DM86X/DT52X/DT80X/DW39X/DW42X/DW44S/DW45X/DW48X/DW49X/DW50X/DW51X/DW52X/DW54X/DWN51/DWX50/DWX51/FRT456DPW/IB52/IB52X/IB53/IB53X/IF51/IF51X/IF53/IF53X/RFE38/RFE39/TC41/TC41S/TC44/TC44S/TF39/TF39S/TF42/TF42S/TF51/TF51X/TF52/TF52X/TW42S/WRF13ED3W/WRT405/",
+            "model": "DB52, DB52X, DB53, DB53X, DB83, DB83X, DB84, DB84S, DB84X, DCW49, DF34, DF34A, DF34R, DF35, DF35A, DF35X, DF36, DF36A, DF36G, DF36X, DF37, DF38, DF38A, DF38X, DF39, DF40, DF40A, DF41, DF42, DF42X, DF43, DF44, DF44S, DF45, DF45X, DF46, DF47, DF48, DF48X, DF49, DF49A, DF49X, DF50, DF50X, DF51, DF51X, DF52, DF52X, DF53, DF53X, DF54, DF54X, DF80, DF80X, DF82, DF82X, DFF37, DFF40, DFF44, DFI80, DFN39, DFN41, DFN42, DFN49, DFN50, DFN52, DFW35, DFW45, DFW48, DFW49, DFW50, DFW51, DFW52, DFX39, DFX41, DFX42, DFX49, DFX50, DI80X, DM83X, DM84X, DM85X, DM86V, DM86X, DT52X, DT80X, DW39X, DW42X, DW44S, DW45X, DW48X, DW49X, DW50X, DW51X, DW52X, DW54X, DWN51, DWX50, DWX51, FRT456DPW, IB52, IB52X, IB53, IB53X, IF51, IF51X, IF53, IF53X, RFE38, RFE39, TC41, TC41S, TC44, TC44S, TF39, TF39S, TF42, TF42S, TF51, TF51X, TF52, TF52X, TW42S, WRF13ED3W, WRT405, ",
             "version": "",
             "quantaty": 0,
             "title": "helice"
@@ -6385,7 +6316,7 @@
             "code": "67496080",
             "brand": "Electrolux",
             "subject": "refrigerador, geladeira",
-            "model": "DF80/DF82/DFI80/DFN52/DFW51/DWN51/",
+            "model": "DF80, DF82, DFI80, DFN52, DFW51, DWN51, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -6395,7 +6326,7 @@
             "code": "67496214",
             "brand": "Electrolux",
             "subject": "refrigerador, geladeira",
-            "model": "DF36A/DF36X/DF42/DF42X/DF44/DF44S/DF51/DF51X/DF52/DF52X/DF53/DF53X/DF54/DF54X/DF80/DF80X/DF82/DF82X/DFI80/DFN42/DFN52/DFW51/DFW52/DFX42/DI80X/DT80X/DW42X/DW44S/DW51X/DW52X/DW54X/DWN51/DWX51/IF51/IF51X/IF53/IF53X/TF42/TF42S/TW42S/",
+            "model": "DF36A, DF36X, DF42, DF42X, DF44, DF44S, DF51, DF51X, DF52, DF52X, DF53, DF53X, DF54, DF54X, DF80, DF80X, DF82, DF82X, DFI80, DFN42, DFN52, DFW51, DFW52, DFX42, DI80X, DT80X, DW42X, DW44S, DW51X, DW52X, DW54X, DWN51, DWX51, IF51, IF51X, IF53, IF53X, TF42, TF42S, TW42S, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -6415,7 +6346,7 @@
             "code": "70291414",
             "brand": "Electrolux",
             "subject": "refrigerador, geladeira",
-            "model": "DC45/DC46/DC47/DC47A/DC48/DC49A/DC49X/DC50/DC50X/DC51/DC51X/DCW49/DCW50/DF38/DF41/DF43/DF45/DF46/DF47/DF48/DF48X/DF49/DF49A/DF49X/DF50/DF50X/DFF40/DFN49/DFN50/DFW48/DFW49/DFW50/DFW51/DFX49/DFX50/DW48X/DW49X/DW50X/DW51X/DWN51/DWX50/DWX51/",
+            "model": "DC45, DC46, DC47, DC47A, DC48, DC49A, DC49X, DC50, DC50X, DC51, DC51X, DCW49, DCW50, DF38, DF41, DF43, DF45, DF46, DF47, DF48, DF48X, DF49, DF49A, DF49X, DF50, DF50X, DFF40, DFN49, DFN50, DFW48, DFW49, DFW50, DFW51, DFX49, DFX50, DW48X, DW49X, DW50X, DW51X, DWN51, DWX50, DWX51, ",
             "version": "",
             "quantaty": 0,
             "title": "RECIPENTE DE EVAPORAÇÃO. RECIPIENTE EVAPORACAO, RECIPIENTE MOTOR, RECIPIENTE COMPRESSOR"
@@ -6425,7 +6356,7 @@
             "code": "72000458",
             "brand": "Electrolux",
             "subject": "refrigerador, geladeira",
-            "model": "DC47A/DC48/DC49A/DC49X/DC50/DC50X/DCW49/DCW50/DF41/DF45/DF46/DF47/DF48/DF49/DF49A/DF49X/DF50/DF50X/DFN49/DFN50/DFW50/DFX49/DFX50/DW50X/DWX50/",
+            "model": "DC47A, DC48, DC49A, DC49X, DC50, DC50X, DCW49, DCW50, DF41, DF45, DF46, DF47, DF48, DF49, DF49A, DF49X, DF50, DF50X, DFN49, DFN50, DFW50, DFX49, DFX50, DW50X, DWX50, ",
             "version": "",
             "quantaty": 0,
             "title": "pino dobradiça, pino da dobradiça, pino da porta, pino porta"
@@ -6465,7 +6396,7 @@
             "code": "305591702",
             "brand": "Electrolux",
             "subject": "fogão, fogaol forno",
-            "model": "GC75P/GC75V/GF75X/GF90X/GT75X/",
+            "model": "GC75P, GC75V, GF75X, GF90X, GT75X, ",
             "version": "",
             "quantaty": 0,
             "title": "transformador"
@@ -6475,7 +6406,7 @@
             "code": "60200350",
             "brand": "Electrolux",
             "subject": "forno, fogao, fogão",
-            "model": "56DX/56ESB/56ESX/56ETB/56ETX/56HL/56TB/56TX/76DB/76DX/76E5GX/76E6GX/76ETB/76ETX/76HL/76TB/76TX/",
+            "model": "56DX, 56ESB, 56ESX, 56ETB, 56ETX, 56HL, 56TB, 56TX, 76DB, 76DX, 76E5GX, 76E6GX, 76ETB, 76ETX, 76HL, 76TB, 76TX, ",
             "version": "",
             "quantaty": 0,
             "title": "botao, botão"
@@ -6485,7 +6416,7 @@
             "code": "60200548",
             "brand": "Electrolux",
             "subject": "forno, fogao, fogão",
-            "model": "56DAX/56DTB/56DTX/56DXQ/56EAB/56EAX/56EBT/56EFX/56ERB/56ERX/56EXT/56GXQ/56STB/56STX/56TAB/56TAX/56TBD/56TBE/56TBS/56TXD/56TXE/56TXS/76BDR/76BER/76DAB/76DBA/76DFX/76DGX/76DIX/76DMX/76DPB/76DRB/76DRX/76DTB/76DTX/76DVX/76DWG/76DXA/76DXR/76DXV/76DXW/76EBR/76EFX/76EGX/76EIX/76ERB/76ERX/76EVX/76EXR/76EXV/76GDX/76GEX/76GRS/76GS/76GSR/76GSS/76MDX/76RBD/76RBE/76RBS/76RSS/76RXD/76RXE/76SAB/76SAS/76SPB/76SQB/76SRB/76SRX/76STB/76STX/76TBE/76TXE/76UBQ/76UBR/76UPV/76USQ/76USR/76USV/76WDG/76XDR/76XER/76XGD/76XGE/GC75U/GC75V/GT60X/GT75X/",
+            "model": "56DAX, 56DTB, 56DTX, 56DXQ, 56EAB, 56EAX, 56EBT, 56EFX, 56ERB, 56ERX, 56EXT, 56GXQ, 56STB, 56STX, 56TAB, 56TAX, 56TBD, 56TBE, 56TBS, 56TXD, 56TXE, 56TXS, 76BDR, 76BER, 76DAB, 76DBA, 76DFX, 76DGX, 76DIX, 76DMX, 76DPB, 76DRB, 76DRX, 76DTB, 76DTX, 76DVX, 76DWG, 76DXA, 76DXR, 76DXV, 76DXW, 76EBR, 76EFX, 76EGX, 76EIX, 76ERB, 76ERX, 76EVX, 76EXR, 76EXV, 76GDX, 76GEX, 76GRS, 76GS, 76GSR, 76GSS, 76MDX, 76RBD, 76RBE, 76RBS, 76RSS, 76RXD, 76RXE, 76SAB, 76SAS, 76SPB, 76SQB, 76SRB, 76SRX, 76STB, 76STX, 76TBE, 76TXE, 76UBQ, 76UBR, 76UPV, 76USQ, 76USR, 76USV, 76WDG, 76XDR, 76XER, 76XGD, 76XGE, GC75U, GC75V, GT60X, GT75X, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -6495,7 +6426,7 @@
             "code": "62546039",
             "brand": "Electrolux",
             "subject": "forno, fogao, fogão",
-            "model": "2GP/52GS/52LPV/52LSV/56DAX/56DB/56DTB/56DTX/56DXQ/56EAB/56EAX/56EBT/56EFX/56ERB/56ERX/56EXT/56GXQ/56SB/56SPB/56STB/56STX/56SX/56TAB/56TAX/56TBD/56TBE/56TBS/56TXD/56TXE/56TXS/76BDR/76BER/76DFX/76DGX/76DIX/76DMX/76DRB/76DRX/76DTB/76DTX/76DVX/76DWG/76DXR/76DXV/76DXW/76EBR/76EFX/76EGX/76EIX/76ERB/76ERX/76EVX/76EXR/76EXV/76GDX/76GEX/76GRS/76GS/76GSR/76GSS/76MDX/76RBD/76RBE/76RXD/76RXE/76SAB/76SAS/76SB/76SRB/76SRX/76STB/76STX/76TBE/76TXE/76UPV/76USV/76WDG/76XDR/76XER/76XGD/76XGE/GC60V/GC75U/GC75V/GT60X/GT75X/",
+            "model": "2GP, 52GS, 52LPV, 52LSV, 56DAX, 56DB, 56DTB, 56DTX, 56DXQ, 56EAB, 56EAX, 56EBT, 56EFX, 56ERB, 56ERX, 56EXT, 56GXQ, 56SB, 56SPB, 56STB, 56STX, 56SX, 56TAB, 56TAX, 56TBD, 56TBE, 56TBS, 56TXD, 56TXE, 56TXS, 76BDR, 76BER, 76DFX, 76DGX, 76DIX, 76DMX, 76DRB, 76DRX, 76DTB, 76DTX, 76DVX, 76DWG, 76DXR, 76DXV, 76DXW, 76EBR, 76EFX, 76EGX, 76EIX, 76ERB, 76ERX, 76EVX, 76EXR, 76EXV, 76GDX, 76GEX, 76GRS, 76GS, 76GSR, 76GSS, 76MDX, 76RBD, 76RBE, 76RXD, 76RXE, 76SAB, 76SAS, 76SB, 76SRB, 76SRX, 76STB, 76STX, 76TBE, 76TXE, 76UPV, 76USV, 76WDG, 76XDR, 76XER, 76XGD, 76XGE, GC60V, GC75U, GC75V, GT60X, GT75X, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -6505,7 +6436,7 @@
             "code": "62546040",
             "brand": "Electrolux",
             "subject": "forno, fogao, fogão",
-            "model": "52GP/52GS/52LPV/52LSV/56DAX/56DB/56DTB/56DTX/56DXQ/56EAB/56EAX/56EBT/56EFX/56ERB/56ERX/56EXT/56GXQ/56SB/56SPB/56STB/56STX/56SX/56TAB/56TAX/56TBD/56TBE/56TBS/56TXD/56TXE/56TXS/76BDR/76BER/76DFX/76DGX/76DIX/76DMX/76DRB/76DRX/76DTB/76DTX/76DVX/76DWG/76DXR/76DXV/76DXW/76EBR/76EFX/76EGX/76EIX/76ERB/76ERX/76EVX/76EXR/76EXV/76GDX/76GEX/76GRS/76GS/76GSR/76GSS/76MDX/76RBD/76RBE/76RXD/76RXE/76SAB/76SAS/76SB/76SRB/76SRX/76STB/76STX/76TBE/76TXE/76UPV/76USV/76WDG/76XDR/76XER/76XGD/76XGE/GC60V/GC75U/GC75V/GT75X/",
+            "model": "52GP, 52GS, 52LPV, 52LSV, 56DAX, 56DB, 56DTB, 56DTX, 56DXQ, 56EAB, 56EAX, 56EBT, 56EFX, 56ERB, 56ERX, 56EXT, 56GXQ, 56SB, 56SPB, 56STB, 56STX, 56SX, 56TAB, 56TAX, 56TBD, 56TBE, 56TBS, 56TXD, 56TXE, 56TXS, 76BDR, 76BER, 76DFX, 76DGX, 76DIX, 76DMX, 76DRB, 76DRX, 76DTB, 76DTX, 76DVX, 76DWG, 76DXR, 76DXV, 76DXW, 76EBR, 76EFX, 76EGX, 76EIX, 76ERB, 76ERX, 76EVX, 76EXR, 76EXV, 76GDX, 76GEX, 76GRS, 76GS, 76GSR, 76GSS, 76MDX, 76RBD, 76RBE, 76RXD, 76RXE, 76SAB, 76SAS, 76SB, 76SRB, 76SRX, 76STB, 76STX, 76TBE, 76TXE, 76UPV, 76USV, 76WDG, 76XDR, 76XER, 76XGD, 76XGE, GC60V, GC75U, GC75V, GT75X, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -6515,7 +6446,7 @@
             "code": "62603889",
             "brand": "Electrolux",
             "subject": "forno, fogao, fogão",
-            "model": "76DB/76DX/76DXG/76E5GX/76ETB/76ETX/76S5/76SP/76TB/76TX/76TXG/76UT/GC75G/",
+            "model": "76DB, 76DX, 76DXG, 76E5GX, 76ETB, 76ETX, 76S5, 76SP, 76TB, 76TX, 76TXG, 76UT, GC75G, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -6525,7 +6456,7 @@
             "code": "62603890",
             "brand": "Electrolux",
             "subject": "forno, fogao, fogão",
-            "model": "56DAX/56DTB/56DTX/56DX/56DXQ/56EAB/56EAX/56EBT/56EFX/56ERB/56ERX/56ETB/56ETX/56EXT/56GXQ/56STB/56STX/56TAB/56TAX/56TB/56TBD/56TBE/56TBS/56TX/56TXD/56TXE/56TXS/76BDR/76BER/76DAB/76DB/76DBA/76DFX/76DMX/76DPB/76DRB/76DRX/76DTB/76DTX/76DX/76DXA/76DXG/76DXR/76E5GX/76EBR/76EFX/76ERB/76ERX/76ETB/76ETX/76EXR/76GRS/76GS/76GSR/76GSS/76MDX/76RBD/76RBE/76RBS/76RSS/76RXD/76RXE/76S5/76SAB/76SAS/76SP/76SPB/76SQB/76SRB/76SRX/76STB/76STX/76TB/76TBE/76TX/76TXE/76TXG/76UBQ/76UBR/76UPV/76USQ/76USR/76USV/76UT/76XDR/76XER/GC75G/GC75V/",
+            "model": "56DAX, 56DTB, 56DTX, 56DX, 56DXQ, 56EAB, 56EAX, 56EBT, 56EFX, 56ERB, 56ERX, 56ETB, 56ETX, 56EXT, 56GXQ, 56STB, 56STX, 56TAB, 56TAX, 56TB, 56TBD, 56TBE, 56TBS, 56TX, 56TXD, 56TXE, 56TXS, 76BDR, 76BER, 76DAB, 76DB, 76DBA, 76DFX, 76DMX, 76DPB, 76DRB, 76DRX, 76DTB, 76DTX, 76DX, 76DXA, 76DXG, 76DXR, 76E5GX, 76EBR, 76EFX, 76ERB, 76ERX, 76ETB, 76ETX, 76EXR, 76GRS, 76GS, 76GSR, 76GSS, 76MDX, 76RBD, 76RBE, 76RBS, 76RSS, 76RXD, 76RXE, 76S5, 76SAB, 76SAS, 76SP, 76SPB, 76SQB, 76SRB, 76SRX, 76STB, 76STX, 76TB, 76TBE, 76TX, 76TXE, 76TXG, 76UBQ, 76UBR, 76UPV, 76USQ, 76USR, 76USV, 76UT, 76XDR, 76XER, GC75G, GC75V, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -6535,7 +6466,7 @@
             "code": "62603891",
             "brand": "Electrolux",
             "subject": "forno, fogao, fogão",
-            "model": "56DAX/56DTB/56DTX/56DX/56DXQ/56EAB/56EAX/56EBT/56EFX/56ERB/56ERX/56ETB/56ETX/56EXT/56GXQ/56STB/56STX/56TAB/56TAX/56TB/56TBD/56TBE/56TBS/56TX/56TXD/56TXE/56TXS/76BDR/76BER/76DAB/76DB/76DBA/76DFX/76DMX/76DPB/76DRB/76DRX/76DTB/76DTX/76DX/76DXA/76DXG/76DXR/76E5GX/76EBR/76EFX/76ERB/76ERX/76ETB/76ETX/76EXR/76GRS/76GS/76GSR/76GSS/76MDX/76RBD/76RBE/76RBS/76RSS/76RXD/76RXE/76S5/76SAB/76SAS/76SP/76SPB/76SQB/76SRB/76SRX/76STB/76STX/76TB/76TBE/76TX/76TXE/76TXG/76UBQ/76UBR/76UPV/76USQ/76USR/76USV/76UT/76XDR/76XER/GC75G/GC75V/",
+            "model": "56DAX, 56DTB, 56DTX, 56DX, 56DXQ, 56EAB, 56EAX, 56EBT, 56EFX, 56ERB, 56ERX, 56ETB, 56ETX, 56EXT, 56GXQ, 56STB, 56STX, 56TAB, 56TAX, 56TB, 56TBD, 56TBE, 56TBS, 56TX, 56TXD, 56TXE, 56TXS, 76BDR, 76BER, 76DAB, 76DB, 76DBA, 76DFX, 76DMX, 76DPB, 76DRB, 76DRX, 76DTB, 76DTX, 76DX, 76DXA, 76DXG, 76DXR, 76E5GX, 76EBR, 76EFX, 76ERB, 76ERX, 76ETB, 76ETX, 76EXR, 76GRS, 76GS, 76GSR, 76GSS, 76MDX, 76RBD, 76RBE, 76RBS, 76RSS, 76RXD, 76RXE, 76S5, 76SAB, 76SAS, 76SP, 76SPB, 76SQB, 76SRB, 76SRX, 76STB, 76STX, 76TB, 76TBE, 76TX, 76TXE, 76TXG, 76UBQ, 76UBR, 76UPV, 76USQ, 76USR, 76USV, 76UT, 76XDR, 76XER, GC75G, GC75V, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -6545,7 +6476,7 @@
             "code": "62645863",
             "brand": "Electrolux",
             "subject": "forno, fogao, fogão",
-            "model": "52GP/52GS/52LPV/52LSV/56DAX/56DB/56DTB/56DTX/56DXQ/56EAB/56EAX/56EBT/56EFX/56ERB/56ERX/56EXT/56GXQ/56SB/56SPB/56STB/56STX/56SX/56TAB/56TAX/56TBD/56TBE/56TBS/56TXD/56TXE/56TXS/76BDR/76BER/76DFX/76DMX/76DRB/76DRX/76DTB/76DTX/76DXR/76EBR/76EFX/76ERB/76ERX/76EXR/76GRS/76GS/76GSR/76GSS/76MDX/76RBD/76RBE/76RXD/76RXE/76SAB/76SAS/76SB/76SRB/76SRX/76STB/76STX/76TBE/76TXE/76UPV/76USV/76XDR/76XER/GC60V/GC75V/GF75X/",
+            "model": "52GP, 52GS, 52LPV, 52LSV, 56DAX, 56DB, 56DTB, 56DTX, 56DXQ, 56EAB, 56EAX, 56EBT, 56EFX, 56ERB, 56ERX, 56EXT, 56GXQ, 56SB, 56SPB, 56STB, 56STX, 56SX, 56TAB, 56TAX, 56TBD, 56TBE, 56TBS, 56TXD, 56TXE, 56TXS, 76BDR, 76BER, 76DFX, 76DMX, 76DRB, 76DRX, 76DTB, 76DTX, 76DXR, 76EBR, 76EFX, 76ERB, 76ERX, 76EXR, 76GRS, 76GS, 76GSR, 76GSS, 76MDX, 76RBD, 76RBE, 76RXD, 76RXE, 76SAB, 76SAS, 76SB, 76SRB, 76SRX, 76STB, 76STX, 76TBE, 76TXE, 76UPV, 76USV, 76XDR, 76XER, GC60V, GC75V, GF75X, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -6555,7 +6486,7 @@
             "code": "62645865",
             "brand": "Electrolux",
             "subject": "forno, fogao, fogão",
-            "model": "52GP/52GS/52LPV/52LSV/56DAX/56DB/56DTB/56DTX/56DXQ/56EAB/56EAX/56EBT/56EFX/56ERB/56ERX/56EXT/56GXQ/56SB/56SPB/56STB/56STX/56SX/56TAB/56TAX/56TBD/56TBE/56TBS/56TXD/56TXE/56TXS/76BDR/76BER/76DFX/76DMX/76DRB/76DRX/76DTB/76DTX/76DXR/76EBR/76EFX/76ERB/76ERX/76EXR/76GRS/76GS/76GSR/76GSS/76MDX/76RBD/76RBE/76RXD/76RXE/76SAB/76SAS/76SB/76SRB/76SRX/76STB/76STX/76TBE/76TXE/76UPV/76USV/76XDR/76XER/GC60V/GC75V/",
+            "model": "52GP, 52GS, 52LPV, 52LSV, 56DAX, 56DB, 56DTB, 56DTX, 56DXQ, 56EAB, 56EAX, 56EBT, 56EFX, 56ERB, 56ERX, 56EXT, 56GXQ, 56SB, 56SPB, 56STB, 56STX, 56SX, 56TAB, 56TAX, 56TBD, 56TBE, 56TBS, 56TXD, 56TXE, 56TXS, 76BDR, 76BER, 76DFX, 76DMX, 76DRB, 76DRX, 76DTB, 76DTX, 76DXR, 76EBR, 76EFX, 76ERB, 76ERX, 76EXR, 76GRS, 76GS, 76GSR, 76GSS, 76MDX, 76RBD, 76RBE, 76RXD, 76RXE, 76SAB, 76SAS, 76SB, 76SRB, 76SRX, 76STB, 76STX, 76TBE, 76TXE, 76UPV, 76USV, 76XDR, 76XER, GC60V, GC75V, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -6565,7 +6496,7 @@
             "code": "64188853",
             "brand": "Electrolux",
             "subject": "forno, fogao, fogão",
-            "model": "52GP/52GS/52LPV/52LSV/52SX/56DAX/56DB/56DM/56DTB/56DTX/56DX/56DXQ/56E4GW/GG/56E4GX/56EAB/56EAX/56EBT/56EFX/56ERB/56ERX/56ESB/56ESX/56EXT/56GXQ/56HL/56HLQ/56HLX/56LX/56S4/56S4GW/56SB/56SE/56SEQ/56SL/56SP/56SPB/56SPX/56ST/56STB/56STX/56SX/56TAB/56TAX/56TBD/56TBE/56TBS/56TXD/56TXE/56TXS/56UT/76BDR/76BER/76DAB/76DBA/76DFX/76DGX/76DIX/76DMX/76DPB/76DRB/76DRX/76DTB/76DTX/76DXA/76DXG/76DXR/76E5GX/76E6GX/76EBR/76EFX/76EGX/76EIX/76ERB/76ERX/76ETB/76ETX/76EXR/76GSR/76HL/76HL/76HLX/76HLX/76LX/76MDX/76RBD/76RBE/76RXD/76RXE/76S6/76S6GW/76SAB/76SAS/76SB/76SE/76SL/76SM/76SP/76SPB/76SQB/76SRB/76SRX/76STB/76STX/76SX/76TBE/76TXE/76TXG/76UBQ/76USQ/76UT/76XDR/76XER/GC75G/",
+            "model": "52GP, 52GS, 52LPV, 52LSV, 52SX, 56DAX, 56DB, 56DM, 56DTB, 56DTX, 56DX, 56DXQ, 56E4GW, GG, 56E4GX, 56EAB, 56EAX, 56EBT, 56EFX, 56ERB, 56ERX, 56ESB, 56ESX, 56EXT, 56GXQ, 56HL, 56HLQ, 56HLX, 56LX, 56S4, 56S4GW, 56SB, 56SE, 56SEQ, 56SL, 56SP, 56SPB, 56SPX, 56ST, 56STB, 56STX, 56SX, 56TAB, 56TAX, 56TBD, 56TBE, 56TBS, 56TXD, 56TXE, 56TXS, 56UT, 76BDR, 76BER, 76DAB, 76DBA, 76DFX, 76DGX, 76DIX, 76DMX, 76DPB, 76DRB, 76DRX, 76DTB, 76DTX, 76DXA, 76DXG, 76DXR, 76E5GX, 76E6GX, 76EBR, 76EFX, 76EGX, 76EIX, 76ERB, 76ERX, 76ETB, 76ETX, 76EXR, 76GSR, 76HL, 76HL, 76HLX, 76HLX, 76LX, 76MDX, 76RBD, 76RBE, 76RXD, 76RXE, 76S6, 76S6GW, 76SAB, 76SAS, 76SB, 76SE, 76SL, 76SM, 76SP, 76SPB, 76SQB, 76SRB, 76SRX, 76STB, 76STX, 76SX, 76TBE, 76TXE, 76TXG, 76UBQ, 76USQ, 76UT, 76XDR, 76XER, GC75G, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -6575,7 +6506,7 @@
             "code": "64980269",
             "brand": "Electrolux",
             "subject": "forno, fogao, fogão",
-            "model": "76BDR/76BS/76DB/76DFX/76DRB/76DRX/76DTB/76DTX/76DX/76DXG/76RBD/76RXD/76SB/76SE/76SL/76SM/76SX/76UT/76XDR/",
+            "model": "76BDR, 76BS, 76DB, 76DFX, 76DRB, 76DRX, 76DTB, 76DTX, 76DX, 76DXG, 76RBD, 76RXD, 76SB, 76SE, 76SL, 76SM, 76SX, 76UT, 76XDR, ",
             "version": "",
             "quantaty": 0,
             "title": "usina 7 saidas, transformador, acendedor"
@@ -6625,7 +6556,7 @@
             "code": "109200096089",
             "brand": "Electrolux",
             "subject": "climatizador",
-            "model": "CL07F/CL07R/",
+            "model": "CL07F, CL07R, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -6705,7 +6636,7 @@
             "code": "306623000026",
             "brand": "Electrolux",
             "subject": "purificador, climatizador",
-            "model": "PA10N/PA20G/PA25G/PA30G/",
+            "model": "PA10N, PA20G, PA25G, PA30G, ",
             "version": "",
             "quantaty": 0,
             "title": "microchave"
@@ -6715,7 +6646,7 @@
             "code": "60016900",
             "brand": "Electrolux",
             "subject": "lavadora, máquina de lavar, maquina de lavar",
-            "model": "ETL22/ETL22A/ETL22Y/EW110GVCW/EW110GVYW/EW112PHAW/EW112PHYW/EW112PLCW/EW12PHYW/EW14/EW14FY/EW22/EW22A/EW22S/EW22SHD/EW26HD/EW26S/FW110GVYW/FW112PHYW/FW112PLYW/FWL10E/FWL22E/FWL22SA/FWL22SY/FWL30SA/FWL30SY/KWL22SA/LB12Q/LBT12/LF10/LF11/LF12/LF75/LF80/LF90/LM06/LM06A/LM08/LM08A/LQ10/LQ11/LQ12/LQ75/LQ90/LS12Q/LS14A/LS32Y/LT12/LT32/LT32Y/FW112/LTC10/LTC12/LTE09/LTE12/LTR10/LTR12/LTS12/LY10/PWL22SA/TOP26/TOP26A/TOP26Y/TOP30/TOP6/TOP6F/TOP6S/TOP8/TOP8A/TOP8S/WWL22SA/",
+            "model": "ETL22, ETL22A, ETL22Y, EW110GVCW, EW110GVYW, EW112PHAW, EW112PHYW, EW112PLCW, EW12PHYW, EW14, EW14FY, EW22, EW22A, EW22S, EW22SHD, EW26HD, EW26S, FW110GVYW, FW112PHYW, FW112PLYW, FWL10E, FWL22E, FWL22SA, FWL22SY, FWL30SA, FWL30SY, KWL22SA, LB12Q, LBT12, LF10, LF11, LF12, LF75, LF80, LF90, LM06, LM06A, LM08, LM08A, LQ10, LQ11, LQ12, LQ75, LQ90, LS12Q, LS14A, LS32Y, LT12, LT32, LT32Y, FW112, LTC10, LTC12, LTE09, LTE12, LTR10, LTR12, LTS12, LY10, PWL22SA, TOP26, TOP26A, TOP26Y, TOP30, TOP6, TOP6F, TOP6S, TOP8, TOP8A, TOP8S, WWL22SA, ",
             "version": "",
             "quantaty": 0,
             "title": "braco, braço injetado, braço co injetado"
@@ -6725,7 +6656,7 @@
             "code": "65400634",
             "brand": "Electrolux",
             "subject": "lavadora, máquina de lavar, maquina de lavar",
-            "model": "LAC11/LAC13/LAC16/LEC12/LES13/LM13Q/LP12Q/LT10B/LT11F/LT12B/LT12F/LT12Q/LT13B/LTA13/LTC10/LTD13/LTD15/LTE12/LTP12/",
+            "model": "LAC11, LAC13, LAC16, LEC12, LES13, LM13Q, LP12Q, LT10B, LT11F, LT12B, LT12F, LT12Q, LT13B, LTA13, LTC10, LTD13, LTD15, LTE12, LTP12, ",
             "version": "",
             "quantaty": 0,
             "title": "cunha"
@@ -6735,7 +6666,7 @@
             "code": "62602411",
             "brand": "Electrolux",
             "subject": "lavadora, máquina de lavar, maquina de lavar",
-            "model": "ETL22/ETL22A/ETL22Y/EW110GVCW/EW110GVYW/EW112PHAW/EW112PHYW/EW112PLCW/EW12PHYW/EW14/EW14FY/EW22/EW22A/EW22S/EW22SHD/EW26HD/EW26S/FW110GVYW/FW112PHYW/FW112PLYW/FWE22DY/FWL10E/FWL22E/FWL22SA/FWL22SY/FWL30SA/FWL30SY/KWL22SA/LB12Q/LBT12/LF10/LF11/LF12/LF75/LF80/LF90/LM06/LM06A/LM08/LM08A/LQ10/LQ11/LQ12/LQ75/LQ90/LS12Q/LS14A/LS32Y/LT12/LT32/LT32Y/FW112/LTC10/LTC12/LTE09/LTE12/LTR10/LTR12/LTS12/LY10/PWL22SA/TOP26/TOP26A/TOP26Y/TOP30/TOP6/TOP6F/TOP6S/TOP8/TOP8A/TOP8S/WWL22SA/",
+            "model": "ETL22, ETL22A, ETL22Y, EW110GVCW, EW110GVYW, EW112PHAW, EW112PHYW, EW112PLCW, EW12PHYW, EW14, EW14FY, EW22, EW22A, EW22S, EW22SHD, EW26HD, EW26S, FW110GVYW, FW112PHYW, FW112PLYW, FWE22DY, FWL10E, FWL22E, FWL22SA, FWL22SY, FWL30SA, FWL30SY, KWL22SA, LB12Q, LBT12, LF10, LF11, LF12, LF75, LF80, LF90, LM06, LM06A, LM08, LM08A, LQ10, LQ11, LQ12, LQ75, LQ90, LS12Q, LS14A, LS32Y, LT12, LT32, LT32Y, FW112, LTC10, LTC12, LTE09, LTE12, LTR10, LTR12, LTS12, LY10, PWL22SA, TOP26, TOP26A, TOP26Y, TOP30, TOP6, TOP6F, TOP6S, TOP8, TOP8A, TOP8S, WWL22SA, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -6745,7 +6676,7 @@
             "code": "64287508",
             "brand": "Electrolux",
             "subject": "lavadora, máquina de lavar, maquina de lavar",
-            "model": "LA15F/LBU15/LBU16/LEC12/LM13Q/LP12Q/LST12/LSW12/LSW15/LT12B/LT12F/LT12Q/LT13B/LT15F/LTA15/LTC15/LTE09/LTM15/LTM16/LTP12/LTP15/LTP16/LTR15/",
+            "model": "LA15F, LBU15, LBU16, LEC12, LM13Q, LP12Q, LST12, LSW12, LSW15, LT12B, LT12F, LT12Q, LT13B, LT15F, LTA15, LTC15, LTE09, LTM15, LTM16, LTP12, LTP15, LTP16, LTR15, ",
             "version": "",
             "quantaty": 0,
             "title": "trava tampa"
@@ -6765,7 +6696,7 @@
             "code": "64500306",
             "brand": "Electrolux",
             "subject": "lavadora, máquina de lavar, maquina de lavar",
-            "model": "LAC12/LAC13/LAC16/LAI17/LAP16/LDD16/LES13/LES15/LPE16/LPR13/LPR14/LPR16/LPR17/LTA13/LTC07/LTD06/LTD13/LTD15/LTD16/LTE12/LWI13/",
+            "model": "LAC12, LAC13, LAC16, LAI17, LAP16, LDD16, LES13, LES15, LPE16, LPR13, LPR14, LPR16, LPR17, LTA13, LTC07, LTD06, LTD13, LTD15, LTD16, LTE12, LWI13, ",
             "version": "",
             "quantaty": 0,
             "title": "trava tampa"
@@ -6795,7 +6726,7 @@
             "code": "65400924",
             "brand": "Electrolux",
             "subject": "lavadora, máquina de lavar, maquina de lavar",
-            "model": "LAC09/LT08E/LT09B/LTD06/LTD09/LTE07/LTE08/",
+            "model": "LAC09, LT08E, LT09B, LTD06, LTD09, LTE07, LTE08, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -6805,7 +6736,7 @@
             "code": "65477810",
             "brand": "Electrolux",
             "subject": "lavadora, máquina de lavar, maquina de lavar",
-            "model": "LB12Q/LBT12/LF75/LF80/LQ75/LS12Q/LS32Y/LT10B/LT11F/LT12/LT32Y/FW112/LTC10/LTC12/LTD11/LTE09/LTE12/LTP10/LTR10/LTR12/LTS12/LUC10/",
+            "model": "LB12Q, LBT12, LF75, LF80, LQ75, LS12Q, LS32Y, LT10B, LT11F, LT12, LT32Y, FW112, LTC10, LTC12, LTD11, LTE09, LTE12, LTP10, LTR10, LTR12, LTS12, LUC10, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -6815,7 +6746,7 @@
             "code": "65477818",
             "brand": "Electrolux",
             "subject": "lavadora, máquina de lavar, maquina de lavar",
-            "model": "LT50/LT60/LTC07/LTE06/",
+            "model": "LT50, LT60, LTC07, LTE06, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -6825,7 +6756,7 @@
             "code": "65976541",
             "brand": "Electrolux",
             "subject": "lavadora, máquina de lavar, maquina de lavar",
-            "model": "LBU15/LBU16/LT15F/LTC15/LTD15/LTD16/LTM15/LTP15/LTP16/LTR15/",
+            "model": "LBU15, LBU16, LT15F, LTC15, LTD15, LTD16, LTM15, LTP15, LTP16, LTR15, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -6835,7 +6766,7 @@
             "code": "67400522",
             "brand": "Electrolux",
             "subject": "lavadora, máquina de lavar, maquina de lavar",
-            "model": "LB12Q/LBT12/LTC12/LTE12/",
+            "model": "LB12Q, LBT12, LTC12, LTE12, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -6845,7 +6776,7 @@
             "code": "67400918",
             "brand": "Electrolux",
             "subject": "lavadora, máquina de lavar, maquina de lavar",
-            "model": "LAC09/LT08E/LT09B/LT10B/LT11F/LTC10/LTD09/LTD11/LTE07/LTE08/LTE09/LTP10/LUC10/",
+            "model": "LAC09, LT08E, LT09B, LT10B, LT11F, LTC10, LTD09, LTD11, LTE07, LTE08, LTE09, LTP10, LUC10, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -6855,7 +6786,7 @@
             "code": "67402186",
             "brand": "Electrolux",
             "subject": "lavadora, máquina de lavar, maquina de lavar",
-            "model": "LAC12/LP12Q/LST12/LSW12/LSW15/LTP12/LTP15/",
+            "model": "LAC12, LP12Q, LST12, LSW12, LSW15, LTP12, LTP15, ",
             "version": "",
             "quantaty": 0,
             "title": "tubo pressostato, mangueira pressostato"
@@ -6865,7 +6796,7 @@
             "code": "67403075",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DC35A/DC44/DF35A/DF35X/DF36A/DF36X/DF38A/DF38X/DFN39/DFX39/RDE30/RDE33/RE28/RE31/RE35/RFE38/RFE39/RW35/TF39/TF39S/",
+            "model": "DC35A, DC44, DF35A, DF35X, DF36A, DF36X, DF38A, DF38X, DFN39, DFX39, RDE30, RDE33, RE28, RE31, RE35, RFE38, RFE39, RW35, TF39, TF39S, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -6875,7 +6806,7 @@
             "code": "67403461",
             "brand": "Electrolux",
             "subject": "lavadora, máquina de lavar, maquina de lavar",
-            "model": "LAC11/LES11/LTD11/LUC10/",
+            "model": "LAC11, LES11, LTD11, LUC10, ",
             "version": "",
             "quantaty": 0,
             "title": "mangueira pressostato, tubo pressostato, tubo do pressostato"
@@ -6885,7 +6816,7 @@
             "code": "67490030",
             "brand": "Electrolux",
             "subject": "lavadora, máquina de lavar, maquina de lavar",
-            "model": "LA15F/LB12Q/LBT12/LBU15/LBU16/LDD16/LE08/LE08A/LE750/LEC12/LF10/LF11/LF12/LF75/LF80/LF90/LM08/LM08A/LM13Q/LP12Q/LQ10/LQ11/LQ12/LQ75/LQ90/LS12Q/LS14A/LS32Y/LST12/LSW12/LSW15/LT11F/LT12/LT12F/LT12Q/LT15F/LT32/LT32Y/FW112/LT60/LTA13/LTA15/LTC10/LTC12/LTC15/LTD13/LTD15/LTD16/LTE06/LTE07/LTE08/LTE09/LTE12/LTM15/LTM16/LTP10/LTP12/LTP15/LTP16/LTR08/LTR10/LTR12/LTR15/LTS12/LUC10/LY10/PWL22SA/TOP26/TOP26A/TOP26Y/TOP30/TOP8/TOP8A/TOP8S/WWL22SA/",
+            "model": "LA15F, LB12Q, LBT12, LBU15, LBU16, LDD16, LE08, LE08A, LE750, LEC12, LF10, LF11, LF12, LF75, LF80, LF90, LM08, LM08A, LM13Q, LP12Q, LQ10, LQ11, LQ12, LQ75, LQ90, LS12Q, LS14A, LS32Y, LST12, LSW12, LSW15, LT11F, LT12, LT12F, LT12Q, LT15F, LT32, LT32Y, FW112, LT60, LTA13, LTA15, LTC10, LTC12, LTC15, LTD13, LTD15, LTD16, LTE06, LTE07, LTE08, LTE09, LTE12, LTM15, LTM16, LTP10, LTP12, LTP15, LTP16, LTR08, LTR10, LTR12, LTR15, LTS12, LUC10, LY10, PWL22SA, TOP26, TOP26A, TOP26Y, TOP30, TOP8, TOP8A, TOP8S, WWL22SA, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -6895,7 +6826,7 @@
             "code": "67492431",
             "brand": "Electrolux",
             "subject": "lavadora, máquina de lavar, maquina de lavar",
-            "model": "LT50/LT60/LTC07/LTD06/LTE06/LTE06",
+            "model": "LT50, LT60, LTC07, LTD06, LTE06, LTE06",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -6905,7 +6836,7 @@
             "code": "67590259",
             "brand": "Electrolux",
             "subject": "lavadora, máquina de lavar, maquina de lavar",
-            "model": "LT50/LT60/LTD06/LTE06/LTE07/",
+            "model": "LT50, LT60, LTD06, LTE06, LTE07, ",
             "version": "",
             "quantaty": 0,
             "title": "mangueira pressostato, tubo pressostato, tubo do pressostato"
@@ -6915,7 +6846,7 @@
             "code": "67590293",
             "brand": "Electrolux",
             "subject": "lavadora, máquina de lavar, maquina de lavar",
-            "model": "LT10B/LT11F/LTC10/LTP10/LTR10/",
+            "model": "LT10B, LT11F, LTC10, LTP10, LTR10, ",
             "version": "",
             "quantaty": 0,
             "title": "mangueira pressostato, tubo pressostato, tubo do pressostato"
@@ -6935,7 +6866,7 @@
             "code": "77492294",
             "brand": "Electrolux",
             "subject": "lavadora, máquina de lavar, maquina de lavar",
-            "model": "LA15F/LB12Q/LBT12/LBU15/LEC12/LP12Q/LS12Q/LS14A/LS32Y/LT08E/LT09E/LT11F/LT12F/LT12Q/LT15F/LT32/LT32Y/FW112/LT50/LT60/LTA15/LTC10/LTC12/LTC15/LTD06/LTE06/LTE07/LTE08/LTP10/LTP12/LTP15/LTR10/LTR12/LTR15/LTS12/LUC10/",
+            "model": "LA15F, LB12Q, LBT12, LBU15, LEC12, LP12Q, LS12Q, LS14A, LS32Y, LT08E, LT09E, LT11F, LT12F, LT12Q, LT15F, LT32, LT32Y, FW112, LT50, LT60, LTA15, LTC10, LTC12, LTC15, LTD06, LTE06, LTE07, LTE08, LTP10, LTP12, LTP15, LTR10, LTR12, LTR15, LTS12, LUC10, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -6945,7 +6876,7 @@
             "code": "77492382",
             "brand": "Electrolux",
             "subject": "lavadora, máquina de lavar, maquina de lavar",
-            "model": "LT60/LTE06/LTE07/LTE09/LTE12/",
+            "model": "LT60, LTE06, LTE07, LTE09, LTE12, ",
             "version": "",
             "quantaty": 0,
             "title": "botao, manipulo"
@@ -6955,7 +6886,7 @@
             "code": "A99014001",
             "brand": "Electrolux",
             "subject": "lavadora, máquina de lavar, maquina de lavar",
-            "model": "LAC13/LES13/LES09/LT13B/LTD15/LT09E/LAC09/LPE16/LAC16/LPR16/LPR17/LPR14/LWI13/LES11/LES15/LT08E/LT10B/LAC12/LAC11/LTD06/LTD09/LTD11/LT12B/LT09B/LAP16/LPR13/LTE12/LT15F/LAI17/LTC15",
+            "model": "LAC13, LES13, LES09, LT13B, LTD15, LT09E, LAC09, LPE16, LAC16, LPR16, LPR17, LPR14, LWI13, LES11, LES15, LT08E, LT10B, LAC12, LAC11, LTD06, LTD09, LTD11, LT12B, LT09B, LAP16, LPR13, LTE12, LT15F, LAI17, LTC15",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -6975,7 +6906,7 @@
             "code": "64484484",
             "brand": "Electrolux",
             "subject": "refrigerador, geladeira",
-            "model": "DF34/DF34G/DF34R/DF35/DF36/DF36G/DF37/DF38A/DF38X/DF39/DF40/DF40A/DFW35/DW39X/FFE24",
+            "model": "DF34, DF34G, DF34R, DF35, DF36, DF36G, DF37, DF38A, DF38X, DF39, DF40, DF40A, DFW35, DW39X, FFE24",
             "version": "",
             "quantaty": 0,
             "title": "timer eletronico, timer eletrônico"
@@ -6995,7 +6926,7 @@
             "code": "64484556",
             "brand": "Electrolux",
             "subject": "lavadora, máquina de lavar, maquina de lavar",
-            "model": "LAC09/LAC11/LES11/LF75/LF80/LQ75/LT08E/LT09B/LT09E/LT10B/LT60/LTD09/LTD11/LTE06/LTE07/LTE09/",
+            "model": "LAC09, LAC11, LES11, LF75, LF80, LQ75, LT08E, LT09B, LT09E, LT10B, LT60, LTD09, LTD11, LTE06, LTE07, LTE09, ",
             "version": "",
             "quantaty": 0,
             "title": "chave"
@@ -7005,7 +6936,7 @@
             "code": "64484564",
             "brand": "Electrolux",
             "subject": "lavadora, máquina de lavar, maquina de lavar",
-            "model": "LB12Q/LBT12/LF10/LF11/LF12/LQ10/LQ11/LQ12/LS12Q/LS14A/LS32Y/LST12/LSW12/LSW15/LT11F/LT12/LT32/LT32Y/FW112/LT50/LTC10/LTC12/LTE12/LTR10/LTR12/LTS12/LUC10/LY10/TOP30/",
+            "model": "LB12Q, LBT12, LF10, LF11, LF12, LQ10, LQ11, LQ12, LS12Q, LS14A, LS32Y, LST12, LSW12, LSW15, LT11F, LT12, LT32, LT32Y, FW112, LT50, LTC10, LTC12, LTE12, LTR10, LTR12, LTS12, LUC10, LY10, TOP30, ",
             "version": "",
             "quantaty": 0,
             "title": "chave"
@@ -7015,7 +6946,7 @@
             "code": "64491700",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DC33/DC33A/DC34A/DC35/DC35A/DC360/DC39/DCW35/RD30G/RDE30/RDE31/RDE33/RDE35/RDE38/RE26/RE28/RE28/FRF305/RE28A/RE29/RE31/RE35/REP32/RFE38/RFE39/RW34/RW35/WRD345/WRF305/WRF325/WRT325/WTR325/",
+            "model": "DC33, DC33A, DC34A, DC35, DC35A, DC360, DC39, DCW35, RD30G, RDE30, RDE31, RDE33, RDE35, RDE38, RE26, RE28, RE28, FRF305, RE28A, RE29, RE31, RE35, REP32, RFE38, RFE39, RW34, RW35, WRD345, WRF305, WRF325, WRT325, WTR325, ",
             "version": "",
             "quantaty": 0,
             "title": "interruptor porta, interruptor da porta, interruptor lampada, interruptor luz"
@@ -7025,7 +6956,7 @@
             "code": "67491368",
             "brand": "Electrolux",
             "subject": "lavadora, máquina de lavar, maquina de lavar",
-            "model": "DC34/DC38/DC40/DC41/DC45/DC46/DC47/DC47G/DC48/DCW34/DCW40/DF34/DF34G/DF34R/DF35/DF36/DF36G/DF37/DF40/DFW35/END3597/FE18/FE22/FE26/FFE24/FRD296BDW/FRD34S/FRD37S/FRF13D2WF/FRT35S/FRT38S/FRT45S/FRT47S/FUD18S/FUD22S/FUD24S/FUD26S/RD30G/RDE30/RDE31/RDE32/RDE34/RDE35/RDE37/RDE38/RE26/RE26G/RE28/RE28A/RE29/RE32/RE32/REP32/RE34/RE37/REP32/RW34/WRF13ED3W/",
+            "model": "DC34, DC38, DC40, DC41, DC45, DC46, DC47, DC47G, DC48, DCW34, DCW40, DF34, DF34G, DF34R, DF35, DF36, DF36G, DF37, DF40, DFW35, END3597, FE18, FE22, FE26, FFE24, FRD296BDW, FRD34S, FRD37S, FRF13D2WF, FRT35S, FRT38S, FRT45S, FRT47S, FUD18S, FUD22S, FUD24S, FUD26S, RD30G, RDE30, RDE31, RDE32, RDE34, RDE35, RDE37, RDE38, RE26, RE26G, RE28, RE28A, RE29, RE32, RE32, REP32, RE34, RE37, REP32, RW34, WRF13ED3W, ",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -7035,7 +6966,7 @@
             "code": "67491569",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DC45/DC46/DC47/DC47A/DC47G/DC48/DC49A/DC49X/DC50/DC50X/DC51/DC51X/DCW49/DCW50/DF35/DF38/DF40/DF41/DF43/DF45/DF45X/DF46/DF47/DF48/DF48X/DF49/DF49A/DF49X/DF50/DF50X/DFF37/DFF39/DFF40/DFF44/DFN49/DFN50/DFW45/DFW48/DFW49/DFW50/DFW51/DFX49/DFX50/DW45X/DW48X/DW49X/DW50X/DW51X/DWN51/DWX50/DWX51",
+            "model": "DC45, DC46, DC47, DC47A, DC47G, DC48, DC49A, DC49X, DC50, DC50X, DC51, DC51X, DCW49, DCW50, DF35, DF38, DF40, DF41, DF43, DF45, DF45X, DF46, DF47, DF48, DF48X, DF49, DF49A, DF49X, DF50, DF50X, DFF37, DFF39, DFF40, DFF44, DFN49, DFN50, DFW45, DFW48, DFW49, DFW50, DFW51, DFX49, DFX50, DW45X, DW48X, DW49X, DW50X, DW51X, DWN51, DWX50, DWX51",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -7045,7 +6976,7 @@
             "code": "67491779",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DC34/DC39A/DC40/DC41/DC41P/DC42/DC43/DCW34/DCW35/DCW40/DCW41/DCW42/DF34/DF34G/DF34R/DF35/DF36/DF36A/DF36G/DF36X/DF37/DF38A/DF38X/DF39/DF40A/DFW35/DW39X/END3597/FRD34S/FRD37S/FRF13D2WF/RDE30/RDE31/RDE32/RDE34/RDE35/RDE37/RDE38/RE28/RE28/FRF305/RE28A/RE32/RE34/RE37/REP32/RFE38/RW34",
+            "model": "DC34, DC39A, DC40, DC41, DC41P, DC42, DC43, DCW34, DCW35, DCW40, DCW41, DCW42, DF34, DF34G, DF34R, DF35, DF36, DF36A, DF36G, DF36X, DF37, DF38A, DF38X, DF39, DF40A, DFW35, DW39X, END3597, FRD34S, FRD37S, FRF13D2WF, RDE30, RDE31, RDE32, RDE34, RDE35, RDE37, RDE38, RE28, RE28, FRF305, RE28A, RE32, RE34, RE37, REP32, RFE38, RW34",
             "version": "",
             "quantaty": 0,
             "title": ""
@@ -7055,7 +6986,7 @@
             "code": "77492172",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DC34/DC360/DC38/DC40/DC41/DC45/DC46/DC47/DC47G/DC48/DCW34/DCW40/DCW49/DCW50/DF34/DF34R/DF35/DF36/DF36G/DF37/DF38/DF38A/DF40/DF40A/DF41/DF43/DF45/DF46/DF47/DF48/DF49/DF49A/DF50/DFF39/DFF40/DFF44/DFN49/DFN50/DFW35/DFW45/DFW48/DFW49/DFW50/END3597/FE18/FE22/FE26/FFE24/RD30G/RDE30/RDE31/RDE32/RDE34/RDE35/RDE37/RDE38/RE120/RE26/RE26G/RE28/RE28/FRF305/RE28A/RE29/RE32/RE34/RE37/RE80/REP32/RW34",
+            "model": "DC34, DC360, DC38, DC40, DC41, DC45, DC46, DC47, DC47G, DC48, DCW34, DCW40, DCW49, DCW50, DF34, DF34R, DF35, DF36, DF36G, DF37, DF38, DF38A, DF40, DF40A, DF41, DF43, DF45, DF46, DF47, DF48, DF49, DF49A, DF50, DFF39, DFF40, DFF44, DFN49, DFN50, DFW35, DFW45, DFW48, DFW49, DFW50, END3597, FE18, FE22, FE26, FFE24, RD30G, RDE30, RDE31, RDE32, RDE34, RDE35, RDE37, RDE38, RE120, RE26, RE26G, RE28, RE28, FRF305, RE28A, RE29, RE32, RE34, RE37, RE80, REP32, RW34",
             "version": "",
             "quantaty": 0,
             "title": "suporte congelador, suporta da porta"
@@ -7065,14 +6996,14 @@
             "code": "A05440301",
             "brand": "Electrolux",
             "subject": "geladeira, refrigerador",
-            "model": "DM86X/DM84X/DB84/DB84X/DB53/DB53X/DM85X/DFN52/IB53/IB53X/DF80/DF51/DF52/DI80X/DF52X/IB52/IB52X/IF51/IF51X/DB83X/TF51/TF51X/DF51X/DB83/DF80X/DM83X/DFW52/DB52/DB52X/TF52/TF52X/DW54X/DF82/DF82X/DF53/DF53X/IF53/IF53X/DF54/DF54X/DW52X/DB84S",
+            "model": "DM86X, DM84X, DB84, DB84X, DB53, DB53X, DM85X, DFN52, IB53, IB53X, DF80, DF51, DF52, DI80X, DF52X, IB52, IB52X, IF51, IF51X, DB83X, TF51, TF51X, DF51X, DB83, DF80X, DM83X, DFW52, DB52, DB52X, TF52, TF52X, DW54X, DF82, DF82X, DF53, DF53X, IF53, IF53X, DF54, DF54X, DW52X, DB84S",
             "version": "",
             "quantaty": 0,
             "title": "pe, pé, dobradiça da porta, dobradiça porta, dobradica porta, dobradica da porta"
         },
         {
             "name": "Botão do Termostato EGM30 EGC35",
-            "code": "9803001885",
+            "code": "9850002391",
             "brand": "Esmaltec",
             "subject": "bebedouro",
             "model": "egc35, egm30",
@@ -7391,14 +7322,14 @@
             "title": ""
         },
         {
-            "name": "Resistência Refrigerador",
+            "name": "Resistência Evaporador",
             "code": "6245000066",
             "brand": "Esmaltec",
             "subject": "geladeira, refrigerador",
             "model": "",
             "version": "",
             "quantaty": 0,
-            "title": ""
+            "title": "resistencia esmaltec"
         },
         {
             "name": "Perfurador Easy Open",
@@ -7571,16 +7502,6 @@
             "title": "nivel de madeira"
         },
         {
-            "name": "Cortador Tubo de Cobre",
-            "code": "3560018114",
-            "brand": "Nove54",
-            "subject": "multimarcas, ferramentas",
-            "model": "",
-            "version": "",
-            "quantaty": 0,
-            "title": "cortador cobre"
-        },
-        {
             "name": "Jogo Chaves Hexagonais (1,5 A 10MM 9PCS)",
             "code": "3573001510",
             "brand": "Vonder",
@@ -7612,7 +7533,7 @@
         }      
     ],
 
-    "product": [
+    "initialProducts": [
         {
             "name": "Placa Potência 220V",
             "code": "W10446925",
@@ -7622,6 +7543,97 @@
             "version": "",
             "quantaty": 0,
             "title": "potencia"
+        },
+        {
+            "name": "Placa Potência 127V",
+            "code": "W10446927",
+            "brand": "Brastemp/Consul",
+            "subject": "máquina de lavar, lavadora, maquina de lavar",
+            "model": "BWB08A, BWB08AB, BWB09AB, BWB11ABANA, BWC07A, BWC08A, BWC09AB, BWC10A, BWC10BB, BWC11AB, BWK11ABANA, BWL09BBANA, BWL11ABANA, BWL11AR, CWC10AB, CWG11AB, CWK11AB, CWK12ABANA, CWL10B, CWL75A",
+            "version": "",
+            "quantaty": 0,
+            "title": "placa potencia, placa consul, placa eletronica, placa eletrônico"
+        },
+        {
+            "name": "Placa Potência 220V",
+            "code": "W10447057",
+            "brand": "Brastemp/Consul",
+            "subject": "máquina de lavar, lavadora, maquina de lavar",
+            "model": "BWG11ABBNA, BWG11ARBNA",
+            "version": "",
+            "quantaty": 0,
+            "title": "placa potencia, placa consul, placa eletronica, placa eletrônico"
+        },
+        {
+            "name": "Placa Interface Bivolt",
+            "code": "W10605809",
+            "brand": "Brastemp/Consul",
+            "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+            "model": "BWC10AB, BWC10BB, BWC11AB",
+            "version": "",
+            "quantaty": 0,
+            "title": ""
+        },
+        {
+          "name": "Placa Interface Bivolt (Sensor)",
+          "code": "W10356413",
+          "brand": "Brastemp/Consul",
+          "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+          "model": "BWB11ABANA, BWB11ABBNA, BWL11ABANA, BWL11ABBNA, BWL11AR, ",
+          "version": "",
+          
+          "quantaty": 0,
+          "title": ""
+        },
+        {
+            "name": "Placa Interface Bivolt (Sensor)",
+            "code": "W10540663",
+            "brand": "Brastemp/Consul",
+            "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+            "model": "BWB09AB, BWL09BBANA, BWL09BBBNA",
+            "version": "",
+            "quantaty": 0,
+            "title": ""
+        },
+        {
+            "name": "Placa Interface Bivolt Mid",
+            "code": "W10463578",
+            "brand": "Brastemp/Consul",
+            "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+            "model": "BWG11ABANA, BWG11ABBNA",
+            "version": "",
+            "quantaty": 0,
+            "title": ""
+        },
+        {
+            "name": "Placa Interface Bivolt Edison (Microchave)",
+            "code": "W10308925",
+            "brand": "Brastemp/Consul",
+            "subject": "lavadora de roupas, maquina de lavar, máquina de lavar",
+            "model": "BWL09BBANA, BWL09BBBNA",
+            "version": "",
+            "quantaty": 0,
+            "title": ""
+        },
+        {
+            "name": "Controle Eletrônico 220V",
+            "code": "W10831919",
+            "brand": "Brastemp/Consul",
+            "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+            "model": "CWE08ABBNA, CWE09AB",
+            "version": "",
+            "quantaty": 0,
+            "title": "eletronico"
+        },
+        {
+            "name": "Kit Controle e Interface 220V",
+            "code": "W11176404",
+            "brand": "Brastemp/Consul",
+            "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+            "model": "BWK11ABBNA",
+            "version": "",
+            "quantaty": 0,
+            "title": ""
         }
     ]
       

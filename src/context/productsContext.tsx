@@ -1,14 +1,15 @@
 import { ReactNode, createContext, useState } from 'react'
 import Cookies from 'js-cookie'
+import list from '../../products.json'
 
 interface ProductProps {
   name: string
   code: string
   brand: string
-  subjects: string
+  subject: string
   model: string
   version: string
-  quantity: number
+  quantaty: number
   title: string
 }
 
@@ -29,16 +30,17 @@ export function ProductsProvider({ children }: ProviderProps) {
   async function updateProductList(search: string) {
     Cookies.set('search', search)
 
-    const url = new URL('https://lojaservibras.vercel.app/products')
+    const results = list.filter((item) => {
+      for (const key in item) {
+        const value = item[key]
+        if (typeof value === 'string' && value.toLowerCase().includes(search)) {
+          return true
+        }
+      }
+      return false
+    })
 
-    if (search) {
-      url.searchParams.append('q', search)
-    }
-
-    const response = await fetch(url)
-    const data = await response.json()
-
-    setProductList(data)
+    setProductList(results)
   }
 
   return (

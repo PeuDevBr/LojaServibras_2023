@@ -9,10 +9,10 @@ interface ProductsProps {
   name: string
   code: string
   brand: string
-  subjects: string
+  subject: string
   model: string
   version: string
-  quantity: number
+  quantaty: number
   title: string
 }
 

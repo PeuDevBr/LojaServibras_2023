@@ -415,7 +415,7 @@
         "brand": "Brastemp/Consul",
         "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
         "model": "BWH12ABBNA, BWT12ABBNA",
-        "version": "",
+        "version": "00,10",
         "quantaty": 0,
         "title": "potencia, placa potencia, W10798571"
     },
@@ -656,8 +656,8 @@
         "code": "W10632492",
         "brand": "Brastemp/Consul",
         "subject": "refrigerador, geladeira",
-        "model": "CRM50AR, CRM50AB",
-        "version": "",
+        "model": "CRM50AR, CRM50ABBNA, CRMABANA",
+        "version": "CRM50AR - 00,10, , CRM50ABBNA - 00,01,10,20,21, CRM50ABANA - 00,01,10,20,21",
         "quantaty": 0,
         "title": "controle eletronico, controle eletrônico"
     },
@@ -976,8 +976,8 @@
         "code": "W10405496",
         "brand": "Brastemp/Consul",
         "subject": "Refrigerador, geladeira,",
-        "model": "CRM50AB, CRM50AR",
-        "version": "",
+        "model": "CRM50ABBNA, CRM50ABANA, CRM50AR",
+        "version": "CRM50ABBNA - 00,01,10,2021, CRM50ABANA - 00,01,10,2021, CRM50AR - 00,10",
         "quantaty": 0,
         "title": "controle eletronico, placa eletronica, placa geladeira"
     },
@@ -2497,7 +2497,7 @@
         "title": "interruptor da porta, interruptor geladeira, interruptor da geladeira"
     },
     {
-        "name": "Motor Ventilador (W10310999)",
+        "name": "Motor Ventilador 220V",
         "code": "W10168510",
         "brand": "Brastemp/Consul",
         "subject": "refrigerador, geladeira",

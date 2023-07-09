@@ -5,6 +5,7 @@ import { ProductsContext } from '../../context/productsContext'
 import { useForm } from 'react-hook-form'
 import * as z from 'zod'
 import { zodResolver } from '@hookform/resolvers/zod'
+import { useRouter } from 'next/router'
 
 const searchFormSchema = z.object({
   search: z.string(),
@@ -13,6 +14,8 @@ const searchFormSchema = z.object({
 type SearchFormInputs = z.infer<typeof searchFormSchema>
 
 export default function Header() {
+  const router = useRouter()
+
   const { register, handleSubmit } = useForm<SearchFormInputs>({
     resolver: zodResolver(searchFormSchema),
   })
@@ -34,16 +37,18 @@ export default function Header() {
           className="search"
           onSubmit={handleSubmit(handleUpdateProductList)}
         >
-          <form autoComplete="off">
-            <input
-              placeholder=" Pesquise por nome, marca, produto..."
-              name="search"
-              {...register('search')}
-            />
-            <button type="submit">
-              <MagnifyingGlass size={20} color="#00000a" />
-            </button>
-          </form>
+          {router.pathname === '/' && (
+            <form autoComplete="off">
+              <input
+                placeholder=" Pesquise por nome, marca, produto..."
+                name="search"
+                {...register('search')}
+              />
+              <button type="submit">
+                <MagnifyingGlass size={20} color="#00000a" />
+              </button>
+            </form>
+          )}
         </div>
       </div>
     </HeaderContainer>

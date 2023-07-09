@@ -19,6 +19,7 @@ export const HeaderContainer = styled.div`
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-left: 1.5rem;
 
     div {
       flex: 1;
@@ -26,7 +27,7 @@ export const HeaderContainer = styled.div`
       display: flex;
       justify-content: center;
       align-items: center;
-      margin-bottom: 0.8rem;
+      /* margin-bottom: 0.8rem; */
     }
 
     .logo > span {

@@ -40,7 +40,7 @@ export default function Product({ productCode }: any) {
             </div>
             <section>
               <div className="title">
-                <span>{product.name}</span>
+                <span>{product.name.toUpperCase()}</span>
                 {product.version !== '' && (
                   <span className="version">Versão: {product.version}</span>
                 )}

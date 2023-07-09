@@ -1,12 +1,41 @@
 import Image from 'next/image'
 import { Container } from '../styles/pages/home'
 import Link from 'next/link'
-import { useContext } from 'react'
+import { useContext, useEffect, useState } from 'react'
 import { ProductsContext } from '../context/productsContext'
 import Head from 'next/head'
+import Cookies from 'js-cookie'
 
 export default function Home() {
   const { productList } = useContext(ProductsContext)
+
+  const [scrollPosition, setScrollPosition] = useState(
+    Cookies.get('scrollPositionNumber'),
+  )
+
+  useEffect(() => {
+    // Restaurar a posição do scroll quando a página for renderizada novamente
+    window.scrollTo(0, scrollPosition)
+  }, [])
+
+  useEffect(() => {
+    // Função para atualizar a posição do scroll
+    const handleScroll = () => {
+      setScrollPosition(window.scrollY)
+    }
+
+    // Adiciona o listener para o evento de scroll
+    window.addEventListener('scroll', handleScroll)
+
+    // Remove o listener quando o componente é desmontado
+    return () => {
+      window.removeEventListener('scroll', handleScroll)
+    }
+  }, [])
+
+  const handleSetScrollPosition = () => {
+    Cookies.set('scrollPositionNumber', scrollPosition)
+  }
 
   return (
     <>
@@ -36,7 +65,11 @@ export default function Home() {
                       ADICIONAR
                     </button>
                     <Link href={`/product/${product.code} `} prefetch={false}>
-                      <button className="productButton" id="verify">
+                      <button
+                        className="productButton"
+                        id="verify"
+                        onClick={() => handleSetScrollPosition()}
+                      >
                         VERIFICAR
                       </button>
                     </Link>

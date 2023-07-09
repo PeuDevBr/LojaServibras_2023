@@ -29,6 +29,7 @@ export function ProductsProvider({ children }: ProviderProps) {
 
   async function updateProductList(search: string) {
     Cookies.set('search', search)
+    Cookies.set('scrollPositionNumber', 0)
 
     const results = list.filter((item) => {
       for (const key in item) {

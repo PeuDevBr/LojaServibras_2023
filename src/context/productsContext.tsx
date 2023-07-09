@@ -33,7 +33,10 @@ export function ProductsProvider({ children }: ProviderProps) {
     const results = list.filter((item) => {
       for (const key in item) {
         const value = item[key]
-        if (typeof value === 'string' && value.toLowerCase().includes(search)) {
+        if (
+          typeof value === 'string' &&
+          value.toLowerCase().includes(search.toLowerCase())
+        ) {
           return true
         }
       }

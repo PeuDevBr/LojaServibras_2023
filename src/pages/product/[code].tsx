@@ -84,11 +84,6 @@ export const getStaticProps: GetStaticProps<any, { code: string }> = async ({
 }) => {
   const productCode = params.code
 
-  /* const response = await fetch('http://localhost:3333/products')
-  const products = await response.json()
-
-  const product = products.find((product: any) => product.code === productCode) */
-
   return {
     props: { productCode },
   }

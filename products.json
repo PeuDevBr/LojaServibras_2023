@@ -27,7 +27,17 @@
         "model": "BWG11ABBNA, BWG11ARBNA",
         "version": "",
         "quantaty": 0,
-        "title": "placa potencia, placa consul, placa eletronica, placa eletrônico"
+        "title": "placa potencia, placa brastemp, placa eletronica, placa eletrônico"
+    },
+    {
+        "name": "Placa Potência 220V",
+        "code": "W10899325",
+        "brand": "Brastemp/Consul",
+        "subject": "máquina de lavar, lavadora, maquina de lavar",
+        "model": "BWK15ABBNA, BWN15AKBNA, BWS15ABBNA, BWH15ABBNA, BWH15ABBS3, BWH15ABBS1, BWH15ABBS2",
+        "version": "00,10",
+        "quantaty": 0,
+        "title": "placa potencia, placa brastemp, placa eletronica, placa eletrônico"
     },
     {
         "name": "Placa Interface Bivolt",
@@ -45,8 +55,7 @@
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
       "model": "BWB11ABANA, BWB11ABBNA, BWL11ABANA, BWL11ABBNA, BWL11AR, ",
-      "version": "",
-      
+      "version": "",      
       "quantaty": 0,
       "title": ""
     },
@@ -262,13 +271,63 @@
     },
     {
         "name": "Placa Potência 220V",
+        "code": "W10882443",
+        "brand": "Brastemp/Consul",
+        "subject": "lavadora de roupas, maquina de lavar, máquina de lavar",
+        "model": "BWK15ABBNA, BWN15AKBNA, BWS15ABBNA, BWH15ABBNA, BWH15ABBS3, BWH15ABBS1, BWH15ABBS2",
+        "version": "20",
+        "quantaty": 0,
+        "title": "placa potencia"
+    },
+    {
+        "name": "Placa Potência 220V",
+        "code": "W10912972",
+        "brand": "Brastemp/Consul",
+        "subject": "lavadora de roupas, maquina de lavar, máquina de lavar",
+        "model": "BWK15ABBNA, BWN15AKBNA, BWS15ABBNA, BWH15ABBNA, BWH15ABBS3, BWH15ABBS1, BWH15ABBS2",
+        "version": "30",
+        "quantaty": 0,
+        "title": "placa potencia"
+    },
+    {
+        "name": "Placa Potência 220V",
         "code": "W11161217",
         "brand": "Brastemp/Consul",
         "subject": "lavadora de roupas, maquina de lavar, máquina de lavar",
-        "model": "BWH15ABBNA, BWK15ABBNA, BWN15AKBNA, BWS15ABBNA, ",
-        "version": "Versão: BWS15ABBNA  - 40,50,60",
+        "model": "BWH15ABBNA, BWK15ABBNA, BWN15AKBNA, BWS15ABBNA, BWH15ABBS3, BWH15ABBS1, BWH15ABBS2",
+        "version": "BWS15ABBNA - 40,50,60, BWN15ABBNA - 40,50, BWK15ABBNA - 40,50, BWH15ABB - 40,50,60,70",
         "quantaty": 0,
         "title": "placa potencia"
+    },
+    {
+        "name": "Kit Placas Eletrônicas 220V",
+        "code": "W11340257",
+        "brand": "Brastemp/Consul",
+        "subject": "lavadora de roupas, maquina de lavar, máquina de lavar",
+        "model": "BWH15ABBNA, BWH15ABBS3, BWH15ABBS1, BWH15ABBS2, BWN15ATBNA",
+        "version": " BWH15ABB - 60,70,80, BWN15ATBNA - 00,10,20,30,40",
+        "quantaty": 0,
+        "title": "placa potencia, placa interface, placa potência"
+    },
+    {
+      "name": "Placa Interface Bivolt",
+      "code": "W10640425",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "BWH15ABANA, BWN15AKANA, BWN15AKBNA, BWH15ABAS2, BWH15ABAS1, BWH15ABBNA, BWH15ABAS3, BWH15ABBS3, BWH15ABBS1, BWH15ABBS2",
+      "version": "00,10,20,30",      
+      "quantaty": 0,
+      "title": ""
+    },
+    {
+      "name": "Placa Interface Halley Bivolt",
+      "code": "W11161214",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "BWH15ABANA, BWN15AKANA, BWN15AKBNA, BWH15ABAS2, BWH15ABAS1, BWH15ABBNA, BWH15ABAS3, BWH15ABBS3, BWH15ABBS1, BWH15ABBS2",
+      "version": "BWH15ABANA - 60, BWN15AKANA - 40,50, BWN15AKBNA - 40,50, BWH15ABAS2 - 60, BWH15ABAS1 - 60, BWH15ABBNA - 40,50, BWH15ABAS3 - 60, BWH15ABBS3 - 40,50, BWH15ABBS1 - 40,50, BWH15ABBS2 - 40,50",      
+      "quantaty": 0,
+      "title": ""
     },
     {
         "name": "Placa Interface Bivolt",
@@ -279,16 +338,6 @@
         "version": "",
         "quantaty": 0,
         "title": ""
-    },
-    {
-        "name": "Placa Potência",
-        "code": "W10899325",
-        "brand": "Brastemp/Consul",
-        "subject": "lavadora de roupas, maquina de lavar, máquina de lavar",
-        "model": "BWH15ABBNA, BWK15ABBNA, BWN15AKBNA, BWS15ABBNA",
-        "version": "Versão: BWS15ABBNA - 00,10",
-        "quantaty": 0,
-        "title": "placa potencia"
     },
     {
         "name": "Placa Interface Valazquez Low Foucault",
@@ -699,6 +748,26 @@
         "subject": "freezer",
         "model": "CHA31EBANA, CHA31EBBNA",
         "version": "",
+        "quantaty": 0,
+        "title": "controle eletronico, controle eletrônico"
+    },
+    {
+        "name": "Caixa Controle 220V",
+        "code": "W10841255",
+        "brand": "Brastemp/Consul",
+        "subject": "freezer",
+        "model": "CHB42DBBNA, CHB53CBBNA",
+        "version": "CHB42DBBNA - 00,10,20, CHB53CBBNA - 00,10,20,30,40,50,60,70,80,90",
+        "quantaty": 0,
+        "title": "controle eletronico, controle eletrônico"
+    },
+    {
+        "name": "Caixa Controle 220V",
+        "code": "W10909774",
+        "brand": "Brastemp/Consul",
+        "subject": "freezer",
+        "model": "CHB42DBBNA, CHB53CBBNA",
+        "version": "CHB42DBBNA - 30, CHB53CBBNA - A0",
         "quantaty": 0,
         "title": "controle eletronico, controle eletrônico"
     },
@@ -1731,20 +1800,10 @@
         "code": "W10393815",
         "brand": "Embraco",
         "subject": "Freezer",
-        "model": "BRH41A, BRH41P, BRI42A, BRI42P, BRK42A, BRS62BB, BRS62BR, BRS62CBBNA, BRS62CRBNA, CHB42EBBNA, CHB53CBBNA, CHB53EBBNA, ",
+        "model": "CHB53CBBNA, CHB42EBBNA, CHB53EBBS2, CHB53EBBS3, CHB53EBBNA, CHB53EBBS1, BRH41A, BRH41P, BRI42A, BRI42P, BRK42A, BRS62BB, BRS62BR, BRS62CRBNA, BRS62CBBNA",
         "version": "",
         "quantaty": 0,
-        "title": "Motor, Motor 1/3, motor freezer"
-    },
-    {
-        "name": "Compressor 1/5 EM2P70CLP R600A 220V",
-        "code": "W11516486",
-        "brand": "Embraco",
-        "subject": "Refrigerador, geladeira, Freezer",
-        "model": "CVU30EBBNA, CRM50HKBNA, CRM50HKBNA",
-        "version": "",
-        "quantaty": 0,
-        "title": "Motor, Motor 1/3, motor freezer"
+        "title": "Motor, Motor 1/3, motor freezer, compressor freezer"
     },
     {
         "name": "Compressor 1/4+ EGA80HLR R134A 220V",
@@ -1775,6 +1834,16 @@
         "version": "",
         "quantaty": 0,
         "title": "Motor, Motor 1/5, motor geladeira, motor freezer"
+    },
+    {
+        "name": "Compressor 1/5 EM2P70CLP R600A 220V",
+        "code": "W11516486",
+        "brand": "Embraco",
+        "subject": "Refrigerador, geladeira, Freezer",
+        "model": "CVU30EBBNA, CRM50HKBNA, CRM50HKBNA",
+        "version": "",
+        "quantaty": 0,
+        "title": "Motor, Motor 1/3, motor freezer"
     },
     {
         "name": "Compressor 1/6 EMI60HER R134A 220V",
@@ -1817,21 +1886,41 @@
         "title": "ventilador geladeira, ventilador de galadeira"
     },
     {
+        "name": "Motor Ventilador Cervejeira 220V",
+        "code": "W10848257",
+        "brand": "Brastemp/Consul",
+        "subject": "cervejeira",
+        "model": "CZE12AFBNA, CZE12AVBNA, CZE12AEBNA, CZD12ALBNA, CZD12ATBS2, CZD12ATBS3, CZD12AVBNA, CZD12AYBS2, CZF12ANBNA, CZF12AYBNA, CZF12AZBNA, CZD12AYBNA, CZD12ATBNA, CZD12ATBS1",
+        "version": "",
+        "quantaty": 0,
+        "title": "ventilador cervejeira, ventilador de cervejeira"
+    },
+    {
+        "name": "Motor Ventilador 220V",
+        "code": "W11298503",
+        "brand": "Brastemp/Consul",
+        "subject": "Refrigerador, geladeira, freezer",
+        "model": "CRM51ABBNA, CRM51AKBNA, CRM55ABBNA, CRM55AKBNA, CRM54BBBNA, BVR28MKBNA, BVR28NBBNA, BVR28NBBS3, BVR28MBBNA, BVR28NBBS1, BVR28NBBS2, BVR28NKBNA, BVR28NKBS2, CRM54BKBNA, BVG24HBBNA",
+        "version": "",
+        "quantaty": 0,
+        "title": "ventilador geladeira, ventilador de galadeira, ventilador freezer, ventilador de freezer"
+    },
+    {
+        "name": "Motor Ventilador 220V",
+        "code": "W10553787",
+        "brand": "Brastemp/Consul",
+        "subject": "Refrigerador, geladeira, freezer",
+        "model": "CRM45BBBNA, CRM51ZB, CRM51ABBNA, CRM52AKBNA, CRM52ABBNA, CRM51AKBNA, CRM55ABBNA, CRM55AKBNA, BRE51NK, BRE50NKBNA, BRE50NBBNA, BRE50NDBNA, BRE50NEBNA, BRE50NJBNA, BRE50NPBNA, BRE50NRBNA, BRE50NX2NA, BRE51NB, BRE51NG, BRE51ND, BRE51NP, BRE51NX, BRE51NM, BRE51NR, CRM54BBBNA, BVR28GBBNA, BVR28HRBNA, BVR28GRBNA, BVR28HBBNA, BRW50NB, BRW50NR, BRM47GB, BRM47GK, BRM49GB, BRM49GK, BRM48NBBNA, BRM48NRBNA, BRM50NBBNA, BRM50NRBNA, BRK50NBBNA, BRK50NRBNA, BVR28MBBNA, BVR28MKBNA, CRM54BKBNA, BVG24GBBNA, BVG24HBBNA",
+        "version": "",
+        "quantaty": 0,
+        "title": "ventilador geladeira, ventilador de galadeira, ventilador freezer, ventilador de freezer"
+    },
+    {
         "name": "Conj Motor Ventilador 220V",
         "code": "W10721980",
         "brand": "Brastemp/Consul",
         "subject": "Refrigerador, geladeira",
         "model": "CRM39ABBS2, CRM39ABBNA, CRM39AKBS2, CRM39ABBS3, CRM39AKBNA, CRM39AKBS3, CRM50HBBNA, CRM50HBBS1, CRM50HBBS2, CRM50HBBS3, CRM50HKBNA, CRM50HKBS1, CRM56HBBNA, CRM56HBBS1, CRM56HBBS2, CRM56HKBS1, CRM56HKBS3, CRM56HKBNA, CRM56HKBS2, CRM56HBBS3, CRM56FKBNA, CRM56FBBNA, CRM38NK, CRM35HBBNA, CRM35HKBNA, CRM35NBBNA, CRM35NKBNA, CRM38HBBNA, CRM38HKBNA, CRM38NBBNA, CRM42HKBNA, CRM42NBBNA, CRM42NKBNA, CRM43HBBNA, CRM43HKBNA, CRM43NBBNA, CRM43NBBS3, CRM43NKBNA, CRM43ZB, CRM43ZK, BRM56ABBNA, BRM56AKBNA, BRM57ABBNA, BRM57AKBNA, BRM58ABBNA, BRM58AKBNA, BRM56ZB, BRM56ZK, BRM56AKBS3, BRM56BKBS3, BRM56BKBNA, BRM55BBBS2, BRM55BKBNA, BRM55BKBS3, BRM55BBBNA, BRM55BKBS2, BRM56BBBNA, BRM56BBBS2, BRM56BKBS2, CRM44AKBNA, CRM44ABBS1, CRM44ABBS2, CRM44AKBS2, CRM44ABBS3, CRM44AKBS3, CRM44ABBNA, BRM44HKBNA, BRM45HBBNA, BRM45HKBNA, BRM53HBBNA, BRM53HKBNA, BRM44HKBS2, BRM45JKBNA, BRM45JKBS3, BRM45JBBS2, BRM44HKBS3, BRM45JBBNA, BRM45JBBS3, BRM45JKBS2, BRM54HBBNA, BRM54JBBNA, BRM54JBBS3, BRM54JKBS3, BRM54JKBNA, BRM54JKBS2, BRM54HKBNA, BRM45JKBS1, BRM54JBBS2, BRM44HKBS1, BRM44HBBNA, BRM44HBBS3, BRM44HBBS2, BRE58ABBNA, BRE58AKBNA, BRE59AEBNA, BRE57ABBS2, BRE57ABBS3, BRE57AKBNA, BRE57AKBS2, BRE57ABBNA",
-        "version": "",
-        "quantaty": 0,
-        "title": "ventilador geladeira, ventilador de galadeira"
-    },
-    {
-        "name": "Motor Ventilador 220V",
-        "code": "W10310999",
-        "brand": "Brastemp/Consul",
-        "subject": "Refrigerador, geladeira",
-        "model": "BRE50NBBNA, BRE50NDBNA, BRE50NEBNA, BRE50NJBNA, BRE50NKBNA, BRE50NPBNA, BRE50NRBNA, BRE50NX2NA, BRE51NB, BRE51ND, BRE51NG, BRE51NK, BRE51NM, BRE51NP, BRE51NR, BRE51NX, BRK50NBBNA, BRK50NRBNA, BRM47GB, BRM47GK, BRM48NBBNA, BRM48NRBNA, BRM49GB, BRM49GK, BRM50NBBNA, BRM50NRBNA, BRW50NB, BRW50NR, BVG24GBBNA, BVG24HBBNA, BVR28GBBNA, BVR28GRBNA, BVR28HBBNA, BVR28HRBNA, BVR28MBBNA, BVR28MKBNA, CRM45BBBNA, CRM51ABBNA, CRM51AKBNA, CRM51ZB, CRM52ABBNA, CRM52AKBNA, CRM54BBBNA, CRM54BKBNA, CRM55ABBNA, CRM55AKBNA",
         "version": "",
         "quantaty": 0,
         "title": "ventilador geladeira, ventilador de galadeira"
@@ -2788,6 +2877,16 @@
         "title": ""
     },
     {
+        "name": "Motor Ventilador Microondas 220V",
+        "code": "W10563680",
+        "brand": "Brastemp/Consul",
+        "subject": "Microondas",
+        "model": "BMS20ARBNA, CMD20AB, CMD20AS, CME20AY, CME20AZ, CMW20AB, BMW20AT, BMP20AB, CMA20BB, CMA20AB, CM020AF, CM020BFBNA",
+        "version": "",
+        "quantaty": 0,
+        "title": "ventilador, motor ventilador"
+    },
+    {
         "name": "Fusível de Alta 0,8A",
         "code": "W10649509",
         "brand": "Brastemp/Consul",
@@ -3178,7 +3277,7 @@
         "title": "isopor, isopor evaporador, evaporador"
     },
     {
-        "name": "MOTOR VENTILADOR BIVOLT",
+        "name": "MOTOR VENTILADOR 24V",
         "code": "326049984",
         "brand": "Brastemp/Consul",
         "subject": "Refrigerador, geladeira,",
@@ -3188,7 +3287,7 @@
         "title": ""
     },
     {
-        "name": "MOTOR VENTILADOR BIVOLT",
+        "name": "MOTOR VENTILADOR 24V",
         "code": "326060498",
         "brand": "Brastemp/Consul",
         "subject": "Refrigerador, geladeira,",
@@ -5052,7 +5151,7 @@
     },
     {
         "name": "Válvula Dupla 220v",
-        "code": "A99084602A",
+        "code": "A99084602",
         "brand": "Electrolux",
         "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
         "model": "LAC13, LAC11, LAC16, LAC12",

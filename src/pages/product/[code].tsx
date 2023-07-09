@@ -4,6 +4,7 @@ import { useContext } from 'react'
 import { ProductsContext } from '../../context/productsContext'
 import Image from 'next/image'
 import Link from 'next/link'
+import { paramsList } from '../../../paramsList'
 
 interface ProductsProps {
   name: string
@@ -73,7 +74,7 @@ export default function Product({ productCode }: any) {
 export const getStaticPaths: GetStaticPaths = async () => {
   // Buscar os produtos mais vendidos / mais acessados
   return {
-    paths: [{ params: { code: 'W10446925' } }],
+    paths: paramsList,
     fallback: true,
     /* fallback: 'blocking', */
   }

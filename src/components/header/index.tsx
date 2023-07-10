@@ -24,6 +24,7 @@ export default function Header() {
 
   function handleUpdateProductList(data: SearchFormInputs) {
     updateProductList(data.search)
+    window.scrollTo(0, 0)
   }
 
   return (

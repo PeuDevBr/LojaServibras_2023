@@ -4596,9 +4596,19 @@
         "version": "",
         "quantaty": 0,
         "title": "mecanização, mecanizaçao, mecanizacao"
+    },
+    {
+        "name": "Placa Eletrônica LT12F Versão Obsoleta",
+        "code": "70201326",
+        "brand": "Electrolux",
+        "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+        "model": "LT12f",
+        "version": "",
+        "quantaty": 0,
+        "title": "potencia"
     }, 
     {
-      "name": "Placa Eletrônica LT12F",
+      "name": "Placa Eletrônica LT12F Nova Versão",
       "code": "A99035153",
       "brand": "Electrolux",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
@@ -5220,6 +5230,16 @@
         "title": "isopor, capa traseira, isolação, isolação"
     },
     {
+        "name": "ISOLACAO MULTIFLOW CPT",
+        "code": "70200674",
+        "brand": "Electrolux",
+        "subject": "geladeira, refrigerador",
+        "model": "RFE39, RFE38",
+        "version": "",
+        "quantaty": 0,
+        "title": "isopor, capa traseira, isolação, isolação"
+    },
+    {
         "name": "Chave Seletora",
         "code": "256039000042",
         "brand": "Electrolux",
@@ -5639,6 +5659,16 @@
         "quantaty": 0,
         "title": "resistência degelo, resistencia degelo, resistencia congelador, resistencia freezer, resistência congelador, resistência freezer, resistencia evaporador"
     },
+    {
+        "name": "Resistência Evaporador 220V",
+        "code": "A99582202",
+        "brand": "Electrolux",
+        "subject": "geladeira, refrigerador",
+        "model": "RFE38, RFE39",
+        "version": "",
+        "quantaty": 0,
+        "title": "resistência degelo, resistencia degelo, resistencia congelador, resistencia freezer, resistência congelador, resistência freezer, resistencia evaporador"
+    }  ,
     {
         "name": "Resistência da Calha 220V",
         "code": "64684457",
@@ -6390,26 +6420,6 @@
         "title": "bucha da porta, bucha dobradiça, bucha da dobradiça, bucha porta"
     },
     {
-        "name": "Resistência Evaporador 220V",
-        "code": "A99582202",
-        "brand": "Electrolux",
-        "subject": "geladeira, refrigerador",
-        "model": "RFE38, RFE39",
-        "version": "",
-        "quantaty": 0,
-        "title": "resistência degelo, resistencia degelo, resistencia congelador, resistencia freezer, resistência congelador, resistência freezer, resistencia evaporador"
-    }  ,
-    {
-        "name": "ISOLACAO MULTIFLOW CPT",
-        "code": "70200674",
-        "brand": "Electrolux",
-        "subject": "geladeira, refrigerador",
-        "model": "RFE39, RFE38",
-        "version": "",
-        "quantaty": 0,
-        "title": "isopor, capa traseira, isolação, isolação"
-    },
-    {
         "name": "Hélice Ventilador",
         "code": "67493234",
         "brand": "Electrolux",
@@ -7111,30 +7121,10 @@
     },
     {
         "name": "COMPRESSOR EMU30HLP 220V/60HZ",
-        "code": "A20113102",
-        "brand": "Electrolux",
+        "code": "W10393809",
+        "brand": "A20113102",
         "subject": "Refrigerador, geladeira, Freezer",
         "model": "RFE39",
-        "version": "",
-        "quantaty": 0,
-        "title": "Motor, Motor 1/6, motor geladeira, motor freezer"
-    },
-    {
-        "name": "COLETOR VAPORIZAÇÃO",
-        "code": "67492941",
-        "brand": "Electrolux",
-        "subject": "Refrigerador, geladeira,",
-        "model": "RFE38, RFE39",
-        "version": "",
-        "quantaty": 0,
-        "title": "RECIPENTE DE EVAPORAÇÃO. RECIPIENTE EVAPORACAO, RECIPIENTE MOTOR, RECIPIENTE COMPRESSOR, APARADOR DO MOTOR, APARADOR DE ÁGUA"
-    },
-    {
-        "name": "COMPRESSOR EM2S60220V/60HZ",
-        "code": "A99267803",
-        "brand": "Electrolux",
-        "subject": "Refrigerador, geladeira, Freezer",
-        "model": "RFE38",
         "version": "",
         "quantaty": 0,
         "title": "Motor, Motor 1/6, motor geladeira, motor freezer"
@@ -7144,7 +7134,7 @@
         "code": "9850002391",
         "brand": "Esmaltec",
         "subject": "bebedouro",
-        "model": "egc35b, egm30",
+        "model": "egc35, egm30",
         "version": "",
         "quantaty": 0,
         "title": "botao termostato, botao bebedouro, botao gelagua, mecanização, mecanizacao, mecanizaçao"
@@ -7240,7 +7230,7 @@
         "title": "DOBRADIÇA DA PORTA, DOBRADIÇA PORTA, DOBRADICA DA PORTA, DOBRADICA PORTA"
     },
     {
-        "name": "Frente Superior Bebedouro Branco",
+        "name": "Frente Bebedouro Branco",
         "code": "9850000527",
         "brand": "Esmaltec",
         "subject": "bebedouro, gelagua",
@@ -7248,66 +7238,6 @@
         "version": "",
         "quantaty": 0,
         "title": ""
-    },
-    {
-        "name": "Frente Inferior Bebedouro Branco",
-        "code": "9850000529",
-        "brand": "Esmaltec",
-        "subject": "bebedouro, gelagua",
-        "model": "EGC35B",
-        "version": "",
-        "quantaty": 0,
-        "title": ""
-    },
-    {
-        "name": "ETIQUETA MENOR EGC35B",
-        "code": "9760001250",
-        "brand": "Esmaltec",
-        "subject": "bebedouro, gelagua",
-        "model": "EGC35B",
-        "version": "",
-        "quantaty": 0,
-        "title": "adesivo bebedouro, adesivo egc35b"
-    },
-    {
-        "name": "ETIQUETA TERMOSTATO EGC35B",
-        "code": "9760001251",
-        "brand": "Esmaltec",
-        "subject": "bebedouro, gelagua",
-        "model": "EGC35B",
-        "version": "",
-        "quantaty": 0,
-        "title": "adesivo bebedouro, adesivo egc35b"
-    },
-    {
-        "name": "Lateral Esquerda Bebedouro Branco",
-        "code": "9810001401",
-        "brand": "Esmaltec",
-        "subject": "bebedouro, gelagua",
-        "model": "EGC35B",
-        "version": "",
-        "quantaty": 0,
-        "title": ""
-    },
-    {
-        "name": "Lateral Direita Bebedouro Branco",
-        "code": "9810001376",
-        "brand": "Esmaltec",
-        "subject": "bebedouro, gelagua",
-        "model": "EGC35B",
-        "version": "",
-        "quantaty": 0,
-        "title": ""
-    },
-    {
-        "name": "APARADOR DE ÁGUA EGC35B",
-        "code": "9850002401",
-        "brand": "Esmaltec",
-        "subject": "bebedouro, gelagua",
-        "model": "EGC35B",
-        "version": "",
-        "quantaty": 0,
-        "title": "aparador agua, aparador de agua"
     },
     {
         "name": "Suporte Easy Open",
@@ -7330,11 +7260,11 @@
         "title": ""
     },
     {
-        "name": "Quadro Cinza EGC35B",
+        "name": "Quadro Cinza EGC35",
         "code": "9850002402",
         "brand": "Esmaltec",
         "subject": "bebedouro, gelagua",
-        "model": "EGC35B",
+        "model": "EGC35",
         "version": "",
         "quantaty": 0,
         "title": ""
@@ -7348,16 +7278,6 @@
         "version": "",
         "quantaty": 0,
         "title": "ISOPOR CUBA, ISOPOR RECIPIENTE, ISOPOR BEBEDOURO, ISOLAMENTO CUBA, ISOLAMENTO BEBEDOURO"
-    },
-    {
-        "name": "EVAPORADOR ALUMINIO EGC35B",
-        "code": "5377000249",
-        "brand": "Esmaltec",
-        "subject": "bebedouro, gelagua",
-        "model": "EGC35B",
-        "version": "",
-        "quantaty": 0,
-        "title": "EVAPORADOR CUBA, EVAPORADOR RECIPIENTE, EVAPORADOR BEBEDOURO"
     },
     {
         "name": "Isolamento Inferior da Cuba EGM30",
@@ -7420,11 +7340,11 @@
         "title": "isopor lateral, isopor da cuba, isolamento da cuba"
     },
     {
-        "name": "Isolamento Lateral EGC35B",
+        "name": "Isolamento Lateral EGC35",
         "code": "5445000490",
         "brand": "Esmaltec",
         "subject": "bebedouro",
-        "model": "EGC35B",
+        "model": "EGC35",
         "version": "",
         "quantaty": 0,
         "title": "isopor lateral, isopor da cuba, isolamento da cuba"
@@ -7437,7 +7357,7 @@
         "model": "EGM30",
         "version": "",
         "quantaty": 0,
-        "title": "recipiente bebedouro, recipiente egm30"
+        "title": "recipiente bebedouro, recipiente egc35"
     },
     {
         "name": "Acoplamento Eixo Oco",
@@ -7480,11 +7400,11 @@
         "title": ""
     },
     {
-        "name": "Mangueira de Silicone EGC35B",
+        "name": "Mangueira de Silicone EGC35",
         "code": "5450000200",
         "brand": "Esmaltec",
         "subject": "bebedouro",
-        "model": "EGC35B",
+        "model": "EGC35",
         "version": "",
         "quantaty": 0,
         "title": ""
@@ -7494,7 +7414,7 @@
         "code": "6220000006",
         "brand": "Esmaltec",
         "subject": "bebedouro",
-        "model": "EGM30, EGC35B",
+        "model": "EGM30, EGC35",
         "version": "",
         "quantaty": 0,
         "title": ""
@@ -7544,7 +7464,7 @@
         "code": "9850002395",
         "brand": "Esmaltec",
         "subject": "bebedouro",
-        "model": "EGM30, EGC35B",
+        "model": "EGM30, EGC35",
         "version": "",
         "quantaty": 0,
         "title": ""
@@ -7560,34 +7480,14 @@
         "title": ""
     },
     {
-        "name": "Separador Integrado EGC35B",
+        "name": "Separador Integrado EGC35",
         "code": "9850000498",
-        "brand": "Esmaltec",
-        "subject": "bebedouro",
-        "model": "EGC35B",
-        "version": "",
-        "quantaty": 0,
-        "title": ""
-    },
-    {
-        "name": "CONDENSADOR EGC35B",
-        "code": "5355000019",
         "brand": "Esmaltec",
         "subject": "bebedouro",
         "model": "EGC35",
         "version": "",
         "quantaty": 0,
         "title": ""
-    },
-    {
-        "name": "COMPRESSOR 1/12HP 220V 60HZ",
-        "code": "7240000046",
-        "brand": "Esmaltec",
-        "subject": "bebedouro",
-        "model": "EGC35B",
-        "version": "",
-        "quantaty": 0,
-        "title": "compressor, motor"
     },
     {
         "name": "Fita Dupla Face",

@@ -51,7 +51,7 @@ export default function Product({ productCode }: any) {
               </div>
               <div className="productModel">
                 <h3>Modelo aplicado:</h3>
-                <span>{product.model}</span>
+                <span>{product.model.toUpperCase()}</span>
               </div>
               <div className="buttonContainer">
                 <button className="button">

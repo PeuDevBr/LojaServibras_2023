@@ -7190,8 +7190,8 @@
         "title": "torneira bebedouro"
     },
     {
-        "name": "Kit Torneira Plástica Direita",
-        "code": "7620001275",
+        "name": "Kit Torneira Plástica Esquerda",
+        "code": "7620001276",
         "brand": "Esmaltec",
         "subject": "bebedouro, gelagua",
         "model": "EGM30",
@@ -7200,8 +7200,8 @@
         "title": "torneira bebedouro"
     },
     {
-        "name": "Kit Torneira Plástica Esquerda",
-        "code": "7620001276",
+        "name": "Kit Torneira Plástica Direita",
+        "code": "7620001275",
         "brand": "Esmaltec",
         "subject": "bebedouro, gelagua",
         "model": "EGM30",
@@ -7332,6 +7332,26 @@
     {
         "name": "PAINEL FRONTAL EGM30",
         "code": "9850002340",
+        "brand": "Esmaltec",
+        "subject": "bebedouro",
+        "model": "EGM30",
+        "version": "",
+        "quantaty": 0,
+        "title": ""
+    },
+    {
+        "name": "ETIQUETA TERMOSTATO EGM30",
+        "code": "9760001247",
+        "brand": "Esmaltec",
+        "subject": "bebedouro",
+        "model": "EGM30",
+        "version": "",
+        "quantaty": 0,
+        "title": ""
+    },
+    {
+        "name": "ETIQUETA MENOR EGM30",
+        "code": "9760001246",
         "brand": "Esmaltec",
         "subject": "bebedouro",
         "model": "EGM30",

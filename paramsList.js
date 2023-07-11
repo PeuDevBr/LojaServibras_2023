@@ -782,4 +782,6 @@ export const paramsList = [
   { params: { code: '5377000236' } },
   { params: { code: '9850002360' } },
   { params: { code: '5355000017' } },
+  { params: { code: '9760001247' } },
+  { params: { code: '9760001246' } },
 ]

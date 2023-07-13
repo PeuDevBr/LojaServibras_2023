@@ -787,7 +787,6 @@ export const paramsList = [
   { params: { code: 'W11299805' } },
   { params: { code: 'W11428264' } },
   { params: { code: 'W11565766' } },
-
   { params: { code: 'W11644102' } },
   { params: { code: 'W11535810' } },
   { params: { code: 'W11378520' } },
@@ -796,22 +795,7 @@ export const paramsList = [
   { params: { code: 'W11334958' } },
   { params: { code: 'W11123831' } },
   { params: { code: 'W11431350' } },
-
   { params: { code: 'A02026801' } },
   { params: { code: 'A02607602' } },
   { params: { code: 'W11510292' } },
-  { params: { code: '' } },
-  { params: { code: '' } },
-  { params: { code: '' } },
-  { params: { code: '' } },
-  { params: { code: '' } },
-
-  { params: { code: '' } },
-  { params: { code: '' } },
-  { params: { code: '' } },
-  { params: { code: '' } },
-  { params: { code: '' } },
-  { params: { code: '' } },
-  { params: { code: '' } },
-  { params: { code: '' } },
 ]

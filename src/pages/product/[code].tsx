@@ -12,7 +12,8 @@ interface ProductsProps {
   brand: string
   subject: string
   model: string
-  version: string
+  version?: string
+  pnc?: string
   quantaty: number
   title: string
 }
@@ -41,8 +42,11 @@ export default function Product({ productCode }: any) {
             <section>
               <div className="title">
                 <span>{product.name.toUpperCase()}</span>
-                {product.version !== '' && (
+                {product.version && (
                   <span className="version">Versão: {product.version}</span>
+                )}
+                {product.pnc && (
+                  <span className="version">PNC: {product.pnc}</span>
                 )}
               </div>
               <div className="codeContainer">

@@ -1,5 +1,5 @@
 import { useContext } from 'react'
-import { HeaderContainer } from '../../styles/pages/components/header'
+import { HeaderContainer } from '../../styles/components/header'
 import { MagnifyingGlass } from 'phosphor-react'
 import { ProductsContext } from '../../context/productsContext'
 import { useForm } from 'react-hook-form'

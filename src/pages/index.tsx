@@ -7,7 +7,7 @@ import Head from 'next/head'
 import Cookies from 'js-cookie'
 
 export default function Home() {
-  const { productList } = useContext(ProductsContext)
+  const { productList, updateCartList } = useContext(ProductsContext)
 
   const [scrollPosition, setScrollPosition] = useState(
     Cookies.get('scrollPositionNumber'),
@@ -37,6 +37,10 @@ export default function Home() {
     Cookies.set('scrollPositionNumber', scrollPosition)
   }
 
+  const handleUpdateCartList = (productCode: string) => {
+    updateCartList(productCode)
+  }
+
   return (
     <>
       <Head>
@@ -61,7 +65,11 @@ export default function Home() {
                   <h2 className="name">{product.name.toUpperCase()}</h2>
                   <h2 className="code">{product.code}</h2>
                   <section>
-                    <button className="productButton" id="add">
+                    <button
+                      className="productButton"
+                      id="add"
+                      onClick={() => handleUpdateCartList(product.code)}
+                    >
                       ADICIONAR
                     </button>
                     <Link href={`/product/${product.code} `} prefetch={false}>

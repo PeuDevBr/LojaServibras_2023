@@ -1,5 +1,5 @@
 import { GetStaticPaths, GetStaticProps } from 'next'
-import { ProductContainer } from '../../styles/pages/product'
+import { ProductContainer } from '../../styles/pages/Product'
 import { useContext } from 'react'
 import { ProductsContext } from '../../context/productsContext'
 import Image from 'next/image'

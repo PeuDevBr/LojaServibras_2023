@@ -4,7 +4,7 @@ import {
   AiOutlinePlusCircle,
   AiFillCloseCircle,
 } from 'react-icons/ai'
-import { ModalContainer, TitleContainer } from '../../styles/pages/cart'
+import { ModalContainer, TitleContainer } from '../../styles/pages/Cart'
 import { useContext } from 'react'
 import { ProductsContext } from '../../context/productsContext'
 

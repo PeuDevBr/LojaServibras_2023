@@ -7,7 +7,7 @@ import Head from 'next/head'
 import Cookies from 'js-cookie'
 
 export default function Home() {
-  const { productList, updateCartList } = useContext(ProductsContext)
+  const { productList, addToCartList } = useContext(ProductsContext)
 
   const [scrollPosition, setScrollPosition] = useState(
     Cookies.get('scrollPositionNumber'),
@@ -37,8 +37,8 @@ export default function Home() {
     Cookies.set('scrollPositionNumber', scrollPosition)
   }
 
-  const handleUpdateCartList = (productCode: string) => {
-    updateCartList(productCode)
+  const handleAddToCartList = (productCode: string) => {
+    addToCartList(productCode)
   }
 
   return (
@@ -68,7 +68,7 @@ export default function Home() {
                     <button
                       className="productButton"
                       id="add"
-                      onClick={() => handleUpdateCartList(product.code)}
+                      onClick={() => handleAddToCartList(product.code)}
                     >
                       ADICIONAR
                     </button>

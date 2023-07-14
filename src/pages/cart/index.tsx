@@ -5,7 +5,7 @@ import {
   AiFillCloseCircle,
 } from 'react-icons/ai'
 import { ModalContainer, TitleContainer } from '../../styles/pages/cart'
-import { useContext, useState } from 'react'
+import { useContext } from 'react'
 import { ProductsContext } from '../../context/productsContext'
 
 /* const cartFormatted = [
@@ -75,9 +75,10 @@ import { ProductsContext } from '../../context/productsContext'
 ] */
 
 export default function Cart() {
-  const { cartList } = useContext(ProductsContext)
+  const { cartList, updateProductQuantity, removeProduct } =
+    useContext(ProductsContext)
 
-  const [cart, setCart] = useState(cartList)
+  /* const [cart, setCart] = useState(cartList) */
   // const cartSize = cart.length
 
   /* const cartFormatted = cart.map((product) => ({
@@ -94,20 +95,10 @@ export default function Cart() {
     }, 0),
   ) */
 
-  const removeProduct = (productCode) => {
-    const productExists = cart.some(
-      (cartProduct) => cartProduct.code === productCode,
-    )
+  /* 
+  } */
 
-    if (productExists) {
-      const updatedCart = cart.filter(
-        (cartProduct) => cartProduct.code !== productCode,
-      )
-      setCart(updatedCart)
-    }
-  }
-
-  const updateProductQuantity = ({ productCode, newQuantity }) => {
+  /* const updateProductQuantity = ({ productCode, newQuantity }) => {
     const productExists = cart.some(
       (cartProduct) => cartProduct.code === productCode,
     )
@@ -124,6 +115,14 @@ export default function Cart() {
 
       setCart(updatedCart)
     }
+  } */
+
+  const handleUpdateProductQuantity = ({ productCode, newQuantity }) => {
+    updateProductQuantity(productCode, newQuantity)
+  }
+
+  const handleRemoveProduct = (productCode: string) => {
+    removeProduct(productCode)
   }
 
   return (
@@ -132,7 +131,7 @@ export default function Cart() {
         <h3>Lista de Orçamento</h3>
       </TitleContainer>
       <ModalContainer>
-        {cart.map((product) => {
+        {cartList.map((product) => {
           return (
             <div className="content" key={product.code}>
               <div className="firstDiv">
@@ -155,7 +154,7 @@ export default function Cart() {
                         productCode: product.code,
                         newQuantity: product.quantaty - 1,
                       }
-                      updateProductQuantity(DecrementArguments)
+                      handleUpdateProductQuantity(DecrementArguments)
                     }}
                   >
                     <AiOutlineMinusCircle size={28} />
@@ -172,7 +171,7 @@ export default function Cart() {
                         productCode: product.code,
                         newQuantity: product.quantaty + 1,
                       }
-                      updateProductQuantity(IncrementArguments)
+                      handleUpdateProductQuantity(IncrementArguments)
                     }}
                   >
                     <AiOutlinePlusCircle size={28} />
@@ -183,7 +182,7 @@ export default function Cart() {
                   className="trashButton"
                   type="button"
                   onClick={() => {
-                    removeProduct(product.code)
+                    handleRemoveProduct(product.code)
                   }}
                 >
                   <AiFillCloseCircle size={30} />

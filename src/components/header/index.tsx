@@ -6,6 +6,8 @@ import { useForm } from 'react-hook-form'
 import * as z from 'zod'
 import { zodResolver } from '@hookform/resolvers/zod'
 import { useRouter } from 'next/router'
+import { AiOutlineShoppingCart } from 'react-icons/ai'
+import Link from 'next/link'
 
 const searchFormSchema = z.object({
   search: z.string(),
@@ -50,6 +52,11 @@ export default function Header() {
               </button>
             </form>
           )}
+        </div>
+        <div>
+          <Link href={'/cart'} prefetch={false}>
+            <AiOutlineShoppingCart />
+          </Link>
         </div>
       </div>
     </HeaderContainer>

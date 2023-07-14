@@ -16,9 +16,11 @@ interface ProductProps {
 
 interface ProductsContextType {
   productList: ProductProps[]
-  updateProductList: (search: string) => void
   cartList: ProductProps[]
-  updateCartList: (search: string) => void
+  updateProductList: (search: string) => void
+  addToCartList: (search: string) => void
+  updateProductQuantity: (productCode: string, newQuantity: number) => void
+  removeProduct: (productCode: string) => void
 }
 
 export const ProductsContext = createContext({} as ProductsContextType)
@@ -52,7 +54,7 @@ export function ProductsProvider({ children }: ProviderProps) {
     setProductList(results)
   }
 
-  async function updateCartList(productCode: string) {
+  async function addToCartList(productCode: string) {
     const result = list.filter((product) => {
       if (product.code === productCode) {
         return true
@@ -63,9 +65,48 @@ export function ProductsProvider({ children }: ProviderProps) {
     setCartList([...cartList, result[0]])
   }
 
+  const updateProductQuantity = (productCode: string, newQuantity: number) => {
+    const productExists = cartList.some(
+      (cartProduct) => cartProduct.code === productCode,
+    )
+
+    if (productExists) {
+      const updatedCart = cartList.map((cartItem) =>
+        cartItem.code === productCode
+          ? {
+              ...cartItem,
+              quantaty: newQuantity,
+            }
+          : cartItem,
+      )
+
+      setCartList(updatedCart)
+    }
+  }
+
+  const removeProduct = (productCode: string) => {
+    const productExists = cartList.some(
+      (cartProduct) => cartProduct.code === productCode,
+    )
+
+    if (productExists) {
+      const updatedCart = cartList.filter(
+        (cartProduct) => cartProduct.code !== productCode,
+      )
+      setCartList(updatedCart)
+    }
+  }
+
   return (
     <ProductsContext.Provider
-      value={{ productList, cartList, updateProductList, updateCartList }}
+      value={{
+        productList,
+        cartList,
+        updateProductList,
+        addToCartList,
+        updateProductQuantity,
+        removeProduct,
+      }}
     >
       {children}
     </ProductsContext.Provider>

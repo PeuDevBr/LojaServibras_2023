@@ -1,6 +1,7 @@
 import { ReactNode, createContext, useState } from 'react'
 import Cookies from 'js-cookie'
 import list from '../../products.json'
+import initialList from '../../productsList.json'
 
 interface ProductProps {
   name: string
@@ -30,7 +31,7 @@ interface ProviderProps {
 }
 
 export function ProductsProvider({ children }: ProviderProps) {
-  const [productList, setProductList] = useState<ProductProps[]>([])
+  const [productList, setProductList] = useState<ProductProps[]>(initialList)
   const [cartList, setCartList] = useState<ProductProps[]>([])
 
   console.log(cartList)

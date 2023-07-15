@@ -8,7 +8,7 @@ interface ProductProps {
   brand: string
   subject: string
   model: string
-  version: string
+  version?: string
   quantaty: number
   title: string
 }

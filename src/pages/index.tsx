@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import { Container } from '../styles/pages/Css'
+import { Container } from '../styles/pages/home'
 import Link from 'next/link'
 import { useContext, useEffect, useState } from 'react'
 import { ProductsContext } from '../context/productsContext'

@@ -10,6 +10,7 @@ interface ProductProps {
   subject: string
   model: string
   version?: string
+  pnc?: string
   quantaty: number
   title: string
 }

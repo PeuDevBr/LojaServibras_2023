@@ -34,8 +34,6 @@ export function ProductsProvider({ children }: ProviderProps) {
   const [productList, setProductList] = useState<ProductProps[]>(initialList)
   const [cartList, setCartList] = useState<ProductProps[]>([])
 
-  console.log(cartList)
-
   async function updateProductList(search: string) {
     Cookies.set('search', search)
 

@@ -420,16 +420,6 @@
         "title": ""
     },
     {
-        "name": "Placa Controle 220V",
-        "code": "W11253656",
-        "brand": "Brastemp/Consul",
-        "subject": "lavadora de roupas, maquina de lavar, máquina de lavar",
-        "model": "CWB08ABBNA, CWB09ABBNA",
-        "version": "",
-        "quantaty": 0,
-        "title": "placa potência, placa potencia, placa de potencia, placa de potência"
-    },
-    {
         "name": "Placa Potência Batman 220V",
         "code": "W11391012",
         "brand": "Brastemp/Consul",
@@ -5040,16 +5030,6 @@
         "title": "potencia, eletronico, potência, 70200562"
     },
     {
-        "name": "Placa Eletrônica LT11F Versão Obsoleta",
-        "code": "70201675",
-        "brand": "Electrolux",
-        "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-        "model": "LT11F",
-        "version": "",
-        "quantaty": 0,
-        "title": "potencia, eletronico, potência"
-    },
-    {
         "name": "Placa Eletrônica LT11F Nova Versão",
         "code": "A99035155",
         "brand": "Electrolux",
@@ -5101,13 +5081,13 @@
     },
     {
         "name": "Placa Eletrônica LTD13",
-        "code": "70203307",
+        "code": "A99035166",
         "brand": "Electrolux",
         "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
         "model": "LTD13",
         "version": "",
         "quantaty": 0,
-        "title": "potencia, eletronico, potência"
+        "title": "potencia, eletronico, potência, 70203307"
     },
     {
         "name": "Pressostato 4 Níveis ",
@@ -5501,13 +5481,13 @@
     },
     {
         "name": "Kit Placa Sensor DF47/50",
-        "code": "70001456",
+        "code": "70008878",
         "brand": "Electrolux",
         "subject": "geladeira, refrigerador",
         "model": "DF47, DF50, DF50X, DFW50, DW50X, ",
         "version": "",
         "quantaty": 0,
-        "title": "kit df50, kit placa df50, kit placa ventilador"
+        "title": "kit df50, kit placa df50, kit placa ventilador, 70001456"
     },
     {
         "name": "Kit Placa Sensor DF46/49",
@@ -5641,13 +5621,13 @@
     } ,
     {
         "name": "Placa Potência RFE39",
-        "code": "70202612",
+        "code": "A99270610",
         "brand": "Electrolux",
         "subject": "geladeira, refrigerador",
         "model": "RFE39",
         "version": "",
         "quantaty": 0,
-        "title": "placa potencia, controle eletrônico, controle eletronico"
+        "title": "placa potencia, controle eletrônico, controle eletronico, 70202612"
     } ,
     {
         "name": "Placa Potência DFN39/39X",
@@ -5841,13 +5821,13 @@
     },
     {
         "name": "Placa Potência DF36/36X",
-        "code": "70201095",
+        "code": "A99270607",
         "brand": "Electrolux",
         "subject": "geladeira, refrigerador",
         "model": "DF36A, DF36X, ",
         "version": "",
         "quantaty": 0,
-        "title": "placa eletronica, placa potencia, placa potência, controle eletrônico, controle eletronico"
+        "title": "placa eletronica, placa potencia, placa potência, controle eletrônico, controle eletronico, 70201095"
     } ,
     {
         "name": "Placa Interface DFN39/DFX39",

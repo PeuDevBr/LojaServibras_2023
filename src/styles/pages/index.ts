@@ -5,6 +5,12 @@ export const Container = styled.div`
   display: flex;
   justify-content: center;
 
+  span {
+    color: red;
+    font: 2rem;
+    padding: 0.5rem;
+  }
+
   .gridContainer {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));

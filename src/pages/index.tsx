@@ -1,15 +1,15 @@
-/* import Image from 'next/image'
+import Image from 'next/image'
 import { Container } from '../styles/pages'
-import Link from 'next/link' */
-import { /* useContext, */ useEffect, useState } from 'react'
-/* import { ProductsContext } from '../context/productsContext' */
+import Link from 'next/link'
+import { useContext, useEffect, useState } from 'react'
+import { ProductsContext } from '../context/productsContext'
 /* import Head from 'next/head' */
 import Cookies from 'js-cookie'
 
 import styled from 'styled-components'
 
 export default function Home() {
-  /* const { productList, addToCartList } = useContext(ProductsContext) */
+  const { productList, addToCartList } = useContext(ProductsContext)
 
   const [scrollPosition, setScrollPosition] = useState(
     Cookies.get('scrollPositionNumber'),
@@ -35,13 +35,13 @@ export default function Home() {
     }
   }, [])
 
-  /* const handleSetScrollPosition = () => {
+  const handleSetScrollPosition = () => {
     Cookies.set('scrollPositionNumber', scrollPosition)
-  } */
+  }
 
-  /* const handleAddToCartList = (productCode: string) => {
+  const handleAddToCartList = (productCode: string) => {
     addToCartList(productCode)
-  } */
+  }
 
   return (
     <>
@@ -49,7 +49,7 @@ export default function Home() {
         <span>Teste do css!</span>
       </TestContainer>
 
-      {/* <Container>
+      <Container>
         <div className="gridContainer">
           {productList.map((product) => {
             return (
@@ -90,7 +90,7 @@ export default function Home() {
             )
           })}
         </div>
-      </Container> */}
+      </Container>
     </>
   )
 }

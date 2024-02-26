@@ -7,6 +7,7 @@ import { ProductsContext } from '../context/productsContext'
 import Cookies from 'js-cookie'
 
 import styled from 'styled-components'
+import ProductsList from './productsList'
 
 export default function Home() {
   const { productList, addToCartList } = useContext(ProductsContext)
@@ -44,57 +45,9 @@ export default function Home() {
   }
 
   return (
-    <>
-      <TestContainer>
-        <span>Teste do css!</span>
-      </TestContainer>
-
-      <Container>
-        <div className="gridContainer">
-          {productList.map((product) => {
-            return (
-              <div key={product.code} className="productContainer">
-                <div className="productContent">
-                  <div className="brandContainer">
-                    <span className="brand">{product.brand}</span>
-                  </div>
-                  <Image
-                    src={`/images/productsImg/${product.code}.png`}
-                    width={120}
-                    height={120}
-                    className="image"
-                    alt={product.name}
-                  />
-                  <h2 className="name">{product.name.toUpperCase()}</h2>
-                  <h2 className="code">{product.code}</h2>
-                  <section>
-                    <button
-                      className="productButton"
-                      id="add"
-                      onClick={() => handleAddToCartList(product.code)}
-                    >
-                      ADICIONAR
-                    </button>
-                    <Link href={`/product/${product.code} `} prefetch={false}>
-                      <button
-                        className="productButton"
-                        id="verify"
-                        onClick={() => handleSetScrollPosition()}
-                      >
-                        VERIFICAR
-                      </button>
-                    </Link>
-                  </section>
-                </div>
-              </div>
-            )
-          })}
-        </div>
-      </Container>
-    </>
+      <Link href={`/productsList`}>
+        <h1>Catálogo</h1>
+      </Link>
   )
 }
 
-export const TestContainer = styled.div`
-  color: red;
-`
